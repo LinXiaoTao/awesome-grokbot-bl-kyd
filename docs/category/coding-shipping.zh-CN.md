@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-290 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+296 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -36,6 +36,7 @@
 - [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) <sup>官方</sup> — 给工程师能信的缺陷报告：接过帖子、在预发环境点同样路径、抓下现场，产出复现包。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Build With Clarity](https://x.ai/bot/ZhjX4KoYZ76tyA8w4K3m-) — 编码与交付助手。 <sub>作者 Rayan (@community)</sub>
 - [BuildFeed: Startups](https://x.ai/bot/7tob1iILCQ-5aELPbHSPn) — 整理创始人、投资人与运营者在 YouTube 上关于创业、融资、销售与招人的真说法。 <sub>作者 [Jake](https://x.com/buildfeedtech) (@buildfeedtech)</sub>
+- [BuildKeeper](https://x.ai/bot/AqMmDjN21kW2eeegOg8en) — 在本机驱动你的 AI 编程 CLI，每个补丁都编译检查，只把通过的代码合到指定分支。 <sub>作者 Rousk</sub>
 - [Call FAQ Miner](https://x.ai/bot/s297976f738dc390d23df) <sup>官方</sup> — 从真实通话维护问答库：记问题、给答案打时间戳、回链到原始录音。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) — 计算机工程席，覆盖固件、开板设计与无关厂商的 FPGA。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) — 第一性原理的游戏引擎和固件专长，给小体量爱好游戏用，只上真正能跑的最小栈。 <sub>作者 Marcus · [出处](https://github.com/doanbactam/awesome-grok-bots)</sub>
@@ -77,6 +78,7 @@
 - [Demo builder](https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C) — 把一条 X 帖或其他示例链接做成可点可玩的应用演示。 <sub>作者 [Mike](https://x.com/Cybermike) (@Cybermike)</sub>
 - [Deploy Desk](https://x.ai/bot/7n0xNJQkJya50-WawGibg) — 可导入的 Grok Bot 公开分享，打开链接即可预览并添加。 <sub>作者 [D.J.](https://x.com/DJDEEZ) (@DJDEEZ) · [出处](https://x.com/DJDEEZ/status/2104514372374765736)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — 用设计负责人的眼光审 AI 做出来的界面。 <sub>作者 [Ashish](https://x.com/inqusit) (@inqusit) · [出处](https://x.com/inqusit/status/2093765735197851709)</sub>
+- [Development PM](https://x.ai/bot/fhHvohYNURwk9JwiK7H7U) — 按已批准设计排期并把关实现、跟踪冲刺，不亲自写代码。 <sub>作者 Ash</sub>
 - [Devin Op](https://x.ai/bot/6E_utcgAyzss28fX7_tJs) — 本地优先 DevOps，可复现构建、无根容器与离线节点。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Director of Runtime Operations](https://x.ai/bot/9i6htFaUWNFg6NN5do8n_) — 本地优先项目的运行时运维长，看构建、沙箱与发布卫生。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) — 技术部长席，管团队技术与技术教育，主张必须可核。 <sub>作者 [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
@@ -153,6 +155,7 @@
 - [iMessage bot](https://x.ai/bot/_e4a8viXo8YiLjdUv4fqH) — 围绕「iMessage bot」的工作流助手，按说明完成首次只读任务后再开写入。 <sub>作者 Evan (@community)</sub>
 - [Incident Postmortem Desk](https://x.ai/bot/dEEWHz6Q_jLLCsIGIk4hD) — 带出处的事故时间线、无责复盘与标注根因。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190171193102619)</sub>
 - [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) — 先把流程和每个页面状态定下来，再谈视觉。 <sub>作者 [UCDOps](https://x.com/ucdco) (@ucdco) · [出处](https://x.com/ucdco/status/2096525660311208204)</sub>
+- [iOS Developer](https://x.ai/bot/1AWFPBcRDur69flDohjvQ) — 在你的 Mac 上从头到尾做原生 SwiftUI iPhone 应用：真机安装、内购、上架与审核。 <sub>作者 Circuit</sub>
 - [Jevopus](https://x.ai/bot/DuR7hXCsNBslEHmUG1vOZ) — 在自有电脑上调度ChatGPT Codex与Claude Code座位，挑最合适的再核对结果。 <sub>作者 [Codila](https://x.com/0xCodila) (@0xCodila)</sub>
 - [Job Proposal Scope Guard](https://x.ai/bot/PVeqmKJw8-bSz57_EdL9r) — 代理与客户项目的提案范围守卫，对照售出范围与中期变更，早标范围膨胀。 <sub>作者 [JavaBeanAI](https://x.com/JavaBeanAI) · [出处](https://x.com/JavaBeanAI/status/2104719935951736974)</sub>
 - [Job Search](https://x.ai/bot/uzOaAuIWYVjVAlujdOOPx) — 工作日侦察高级远程 AI 或生成式 AI 工程岗位，发短推荐并跟进。 <sub>作者 [Mehdi](https://x.com/mehdizare) (@mehdizare)</sub>
@@ -168,6 +171,7 @@
 - [Lingxi's Engineer Bot](https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_) — 放手型工程主管，挂上你点名的仓库云代理，三十分钟节奏盯 PR，只在关键处问你。
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 丢给它文件、文件夹或 Bot 产出，收回一条可分享链接。 <sub>作者 [Adam](https://x.com/adamludwin) (@adamludwin) · [出处](https://x.com/adamludwin/status/2093402167394914392)</sub>
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 工程外环，坐在你那些编程代理上面。 <sub>作者 [Matt](https://x.com/mattyp) (@mattyp) · [出处](https://x.com/mattyp/status/2093380201128595966)</sub>
+- [Major Tom](https://x.ai/bot/nUrR_6A3I4ndkkPQ5dwQH) — 工程宅兔子，一步步带新用户配置 Grok Bot，再帮你搞 CAD、代码和物理讲解。 <sub>作者 Ξ</sub>
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) — 建造团队的阶段门台长，盯最小有用组合并诚实标测量或估计。 <sub>作者 [Chris](https://x.com/Chris)</sub>
 - [MechGrok](https://x.ai/bot/T6_WJVwFQDmRpJK0LkXDj) — 从原型到量产的机械工程博士机器人，可制造性、物料清单、导入、外壳与热路径。 <sub>作者 [Joe](https://x.com/GSxKineticKnif) · [出处](https://x.com/GSxKineticKnif/status/2100023596068307179)</sub>
 - [Mother Ship](https://x.ai/bot/WBmiRJCwxzSCBHBTdC1wi) — 编排专家席位的软件交付母舰机器人。 <sub>作者 [Eyad](https://x.com/KellehEyad) (@KellehEyad)</sub>
@@ -207,6 +211,8 @@
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) — 在聊天里帮开发者写并上线 ProofNetwork 合约，再接能对话链上合约的前端。 <sub>作者 [FreeSolDev](https://x.com/STACCoverflow) (@STACCoverflow)</sub>
 - [Prototype Builder](https://x.ai/bot/s2e4acfb8db3cc0669a1b) <sup>官方</sup> — 从一句需求到能点的东西：自己在机器上写，回来给你截图加一个在线地址。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Proxmox Home Lab Lead](https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20) — 销售线索与触达助手。 <sub>作者 Paul (@community)</sub>
+- [QA](https://x.ai/bot/WbSwyVYZIDpuebmfBW45L) — 每次上线后以真实用户身份复测生产环境，附截图提交不重复的 bug；不改代码。 <sub>作者 duyet</sub>
+- [Quant Researcher](https://x.ai/bot/mthHv9pksQ6KNBr-hAc09) — 回测策略想法、清洗行情数据，审查研究代码的偏差和 bug。 <sub>作者 Avid</sub>
 - [Rage-to-Repro](https://x.ai/bot/OiWRa-EK50vFlpisHat_b) — 把愤怒的缺陷报告变成冷静的复现卡。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Real-Place Play Mat Builder](https://x.ai/bot/M7lV0J3ZhSjdCv4Dhju91) — 按真实地点设计风火轮比例游戏垫，含线框与模块化 SVG 零件。 <sub>作者 [Wyatt](https://x.com/WyattPettis) · [出处](https://x.com/WyattPettis)</sub>
 - [Red Flag](https://x.ai/bot/-QAXkSxb1PqXFHdCsxhy0) — 检查计划、代码和 AI 回答里站不住的说法和可能出错的地方，给证据并建议测试或修复。 <sub>作者 Seth</sub>

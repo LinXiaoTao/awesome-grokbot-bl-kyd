@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-290 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+296 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -36,6 +36,7 @@
 - [Bug Reproduction](https://x.ai/bot/s2d62197e15bd11a1bd63) <sup>official</sup> — Picks up the thread, clicks the same path in staging, captures the failure, and files a repro pack engineers can trust. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Build With Clarity](https://x.ai/bot/ZhjX4KoYZ76tyA8w4K3m-) — Patient building coach for non-coders using Cursor/Claude Code. <sub>by Rayan (@community)</sub>
 - [BuildFeed: Startups](https://x.ai/bot/7tob1iILCQ-5aELPbHSPn) — A guide to what founders, investors, and operators on YouTube actually say about starting, funding, selling, and staffing a company. Names who holds. <sub>by [Jake](https://x.com/buildfeedtech) (@buildfeedtech)</sub>
+- [BuildKeeper](https://x.ai/bot/AqMmDjN21kW2eeegOg8en) — Drives your AI coding CLI locally, compile-checks every patch, and lands only green code on your branch. <sub>by Rousk</sub>
 - [Call FAQ Miner](https://x.ai/bot/s297976f738dc390d23df) <sup>official</sup> — Keep enablement current from real calls. Tracks questions, timestamps answers, and links back to the source recording. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Camble Eugene](https://x.ai/bot/x5L_1O-3errfwp4yu4v7D) — Computer-engineering seat for bare-metal firmware, open board design, and vendor-independent FPGA logic. Warm, plain help for hardware–software. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [CarmackBot](https://x.ai/bot/B5UMQzelNds6Iy2nuFrka) — A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that runs. <sub>by Marcus · [origin](https://github.com/doanbactam/awesome-grok-bots)</sub>
@@ -77,6 +78,7 @@
 - [Demo builder](https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C) — Turns an X post or other example link into a functional, playable app demo. <sub>by [Mike](https://x.com/Cybermike) (@Cybermike)</sub>
 - [Deploy Desk](https://x.ai/bot/7n0xNJQkJya50-WawGibg) — Keeps a small SaaS product's site deployed and healthy, runs its organic X account from a rolling queue with generated visuals, and drafts outreach for. <sub>by [D.J.](https://x.com/DJDEEZ) (@DJDEEZ) · [origin](https://x.com/DJDEEZ/status/2104514372374765736)</sub>
 - [Design Expert](https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG) — Reviews AI-made interfaces the way a design lead would. <sub>by [Ashish](https://x.com/inqusit) (@inqusit) · [origin](https://x.com/inqusit/status/2093765735197851709)</sub>
+- [Development PM](https://x.ai/bot/fhHvohYNURwk9JwiK7H7U) — Schedules and gates implementation against approved designs and tracks sprints, without writing code. <sub>by Ash</sub>
 - [Devin Op](https://x.ai/bot/6E_utcgAyzss28fX7_tJs) — Local-first DevOps assistant for reproducible builds, rootless containers, and offline node setup. For people who want infrastructure that stays on. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Director of Runtime Operations](https://x.ai/bot/9i6htFaUWNFg6NN5do8n_) — A warm, brief runtime-ops lead for local-first projects. Watches builds, sandbox boundaries, sovereign releases, and workspace hygiene, and never stamps. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [DirTech](https://x.ai/bot/Fya-gFsQPOlJzJ862syni) — A Secretary of Technology bot that owns all tech and tech education for your bot team and reports to your chief of staff. It keeps claims honest:. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
@@ -153,6 +155,7 @@
 - [iMessage bot](https://x.ai/bot/_e4a8viXo8YiLjdUv4fqH) — Reads and sends iMessages on a connected Mac. <sub>by Evan (@community)</sub>
 - [Incident Postmortem Desk](https://x.ai/bot/dEEWHz6Q_jLLCsIGIk4hD) — Cited incident timeline, blameless analysis and a labeled root cause. <sub>by [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [origin](https://x.com/Cypher0x9/status/2105190171193102619)</sub>
 - [Interaction Designer](https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1) — Designs the flow and every screen state before the visuals. <sub>by [UCDOps](https://x.com/ucdco) (@ucdco) · [origin](https://x.com/ucdco/status/2096525660311208204)</sub>
+- [iOS Developer](https://x.ai/bot/1AWFPBcRDur69flDohjvQ) — Builds native SwiftUI iPhone apps end to end on your Mac, from device installs and IAP to App Review. <sub>by Circuit</sub>
 - [Jevopus](https://x.ai/bot/DuR7hXCsNBslEHmUG1vOZ) — Runs big jobs on ChatGPT Codex and Claude Code seats on its own computer. Jev picks the best and cheapest model for each task. <sub>by [Codila](https://x.com/0xCodila) (@0xCodila)</sub>
 - [Job Proposal Scope Guard](https://x.ai/bot/PVeqmKJw8-bSz57_EdL9r) — Job Proposal Scope Guard for agencies and client PMs. Client job proposals / SOWs - not internal team project boards. Compares sold scope to mid-project. <sub>by [JavaBeanAI](https://x.com/JavaBeanAI) · [origin](https://x.com/JavaBeanAI/status/2104719935951736974)</sub>
 - [Job Search](https://x.ai/bot/uzOaAuIWYVjVAlujdOOPx) — Weekday scout for senior remote AI / GenAI engineering roles. Posts short ranked digests (title, company, remote, pay signal, link, fit) and hands. <sub>by [Mehdi](https://x.com/mehdizare) (@mehdizare)</sub>
@@ -168,6 +171,7 @@
 - [Lingxi's Engineer Bot](https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_) — A hands-off engineering supervisor. Boards work, launches cloud agents on the repo you name, watches PRs on a 30-minute cadence, and only asks you to.
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — Send it any file, folder or bot output and it hands back a shareable URL. <sub>by [Adam](https://x.com/adamludwin) (@adamludwin) · [origin](https://x.com/adamludwin/status/2093402167394914392)</sub>
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — An engineering outer loop that sits above your coding agents. <sub>by [Matt](https://x.com/mattyp) (@mattyp) · [origin](https://x.com/mattyp/status/2093380201128595966)</sub>
+- [Major Tom](https://x.ai/bot/nUrR_6A3I4ndkkPQ5dwQH) — Engineering-nerd rabbit that walks new users through Grok Bot setup, then helps with CAD, code and physics. <sub>by Ξ</sub>
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) — Stage-gate desk lead for builder teams: hone-in the smallest useful combo, keep Measured|Partial|Estimate honesty, run workday quiet/resume, and pull. <sub>by [Chris](https://x.com/Chris)</sub>
 - [MechGrok](https://x.ai/bot/T6_WJVwFQDmRpJK0LkXDj) — Mechanical engineering PhD bot for hardware from prototype to production: DFM, BOM, NPI, enclosures, mechanisms, and thermal paths. Specs the part with. <sub>by [Joe](https://x.com/GSxKineticKnif) · [origin](https://x.com/GSxKineticKnif/status/2100023596068307179)</sub>
 - [Mother Ship](https://x.ai/bot/WBmiRJCwxzSCBHBTdC1wi) — Software-shipping mother bot that orchestrates specialist seats. <sub>by [Eyad](https://x.com/KellehEyad) (@KellehEyad)</sub>
@@ -207,6 +211,8 @@
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) — Helps developers write and ship ProofNetwork smart contracts from chat, then wire a frontend that talks to the live contract. Includes a click-counter. <sub>by [FreeSolDev](https://x.com/STACCoverflow) (@STACCoverflow)</sub>
 - [Prototype Builder](https://x.ai/bot/s2e4acfb8db3cc0669a1b) <sup>official</sup> — Go from ask to something clickable fast. Writes on its computer and comes back with a screenshot plus a live URL. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Proxmox Home Lab Lead](https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20) — Proxmox home-lab Lead over Tailscale with Notion status board. <sub>by Paul (@community)</sub>
+- [QA](https://x.ai/bot/WbSwyVYZIDpuebmfBW45L) — Re-certifies production as a real user after each ship and files unique bugs with screenshots; never edits code. <sub>by duyet</sub>
+- [Quant Researcher](https://x.ai/bot/mthHv9pksQ6KNBr-hAc09) — Backtests strategy ideas, cleans market data, and reviews research code for bias and bugs. <sub>by Avid</sub>
 - [Rage-to-Repro](https://x.ai/bot/OiWRa-EK50vFlpisHat_b) — Turns angry bug reports into calm repro cards. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Real-Place Play Mat Builder](https://x.ai/bot/M7lV0J3ZhSjdCv4Dhju91) — Designs Hot Wheels-scale play mats of real places with accurate wireframes and modular SVG parts. <sub>by [Wyatt](https://x.com/WyattPettis) · [origin](https://x.com/WyattPettis)</sub>
 - [Red Flag](https://x.ai/bot/-QAXkSxb1PqXFHdCsxhy0) — Checks plans, code, and AI answers for weak claims and things that could go wrong. Shows the evidence and suggests a test or fix. <sub>by Seth</sub>

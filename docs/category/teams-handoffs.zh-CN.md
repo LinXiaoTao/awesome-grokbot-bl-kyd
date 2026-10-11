@@ -162,6 +162,7 @@
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) — 发布前最后一道关，只问够不够上线、能不能站得住。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098139288160420168)</sub>
 - [RayBot](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — 公开的 AI 运营台模板，协调日常代理事务。 <sub>作者 [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay)</sub>
 - [Reboot](https://x.ai/bot/l_04hfmNSIo5K83A6aQRD) — 安全重启协调员，共享电脑恢复前先给每个队友机器人做检查点。 <sub>作者 [Code](https://x.com/CodeSolutionsIL) · [出处](https://x.com/CodeSolutionsIL)</sub>
+- [Research Delegation](https://x.ai/bot/6lKRJTFiSgM5VFSrqV6MQ) — 通读 AI 委派和多智能体交接论文全文，顺着引用理清前置，整理成可实现的流程。 <sub>作者 Ashish</sub>
 - [Researcher](https://x.ai/bot/cMNbUq3j5RsHg9mcPxtjM) — 把半成型问题收成核对过的简报，并教其它 Bot 怎么搜。 <sub>作者 [Jason](https://x.com/occupymars___) (@occupymars___) · [出处](https://x.com/occupymars___/status/2098559815173955642)</sub>
 - [Rogue Bot Hunter](https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1) — 盯着你已经在跑的那支 Bot 舰队。 <sub>作者 [Thierry](https://x.com/LeTerryBZH) (@LeTerryBZH) · [出处](https://x.com/LeTerryBZH/status/2095346403010883794)</sub>
 - [Root Agent](https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P) — 先定目标，再组最小能干活的机器人小队，最后汇总汇报。 <sub>作者 [Berkay](https://x.com/mrbeko_) (@mrbeko_) · [出处](https://x.com/mrbeko_/status/2098922675368292825)</sub>
@@ -178,7 +179,6 @@
 - [Shikamaru](https://x.ai/bot/rrvGu13S5uYCc09WP7A-9) — 参谋长，在一个有名字的世界里招专长、管专长。 <sub>作者 [Abhimanyu](https://x.com/WorldlyReviewer) · [出处](https://x.com/WorldlyReviewer/status/2093382383802151353)</sub>
 - [Shogun](https://x.ai/bot/wUcz5CmpCYI1dfled8btd) — 将军席位，调度其它机器人而不替它们干活。 <sub>作者 [Justin](https://x.com/__Zill4__) (@__Zill4__)</sub>
 - [Slop Forge](https://x.ai/bot/mX3svMK3zEEfiK1XAeXEk) — 丢一个细分赛道，生成竞赛向 Grok Bot 套件与引用推文。 <sub>作者 [The](https://x.com/HesNotTheGuy) (@HesNotTheGuy) · [出处](https://x.com/HesNotTheGuy/status/2103647490989760850)</sub>
-- [SniffBot](https://x.ai/bot/r3zhR2taB4UL6qkApsgau) — 你是 SniffBot。有人安装 Grok Bot 模板前，你先闻一闻，就像喝牛奶前先闻一样。你的唯一工作，有人……。 <sub>作者 [Kacper](https://x.com/KacperRutk) (@KacperRutk) · [出处](https://x.com/KacperRutk/status/2100340200018718743)</sub>
 - [Spark](https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1) — 五分钟入职 Bot，再拉出你需要的起步 Bot。 <sub>作者 [Vincent](https://x.com/vincentzhu) (@vincentzhu) · 社区旧称 *Spark (Onboarding)* · [出处](https://x.com/vincentzhu/status/2093382794630377806)</sub>
 - [Spine](https://x.ai/bot/mDT2kLUA2QkLI0KhUwk2E) — 脊柱层，把多机器人编制撑住。 <sub>作者 [Diana](https://x.com/dvoguing) (@dvoguing)</sub>
 - [Sputnik 1](https://x.ai/bot/0eNrUiaGS_HCEBNBMtS-N) — 冷静风趣的总指挥，统筹 Everything Bots 小队日常运转。 <sub>作者 [Ξ](https://x.com/elizrdrake) (@elizrdrake)</sub>

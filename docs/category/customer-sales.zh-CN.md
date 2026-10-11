@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-248 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+250 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -135,6 +135,7 @@
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) — 把 LinkedIn 导出做成可搜的记忆，含帖子与私信。 <sub>作者 [SyftData](https://x.com/isb) (@isb) · [出处](https://x.com/isb/status/2100425188764713462)</sub>
 - [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) <sup>官方</sup> — 把广告、表单、跟进、UTM 串成一条一致的获客漏斗，投放先出草稿等你批。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — 每天按你定的规则审核 LinkedIn 邀请。 <sub>作者 [AJ](https://x.com/SEO) · [出处](https://x.com/SEO/status/2093418792546181548)</sub>
+- [Linkedin Job Finder](https://x.ai/bot/dLeJIzJYRqPkou3t9dEJN) — 工程师求职助手：筛真正合适的职位，让简历与 GitHub 对齐，用表格跟进线索。 <sub>作者 Ashish</sub>
 - [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) — 跟进 LinkedIn 引流评论，起草回复和私信，并在限额内处理连接请求。 <sub>作者 [Ethan](https://x.com/ethan_leee9113) (@Ethan Lee) · [出处](https://x.com/ethan_leee9113/status/2101189341242376366)</sub>
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) — 每天按你的关键词扫 LinkedIn 帖子和评论找线索。 <sub>作者 [Angel](https://x.com/angelesp) · [出处](https://x.com/angelesp/status/2093826046231511549)</sub>
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) — 在 LinkedIn 上找人并筛选，再排好浏览、加好友和私信。 <sub>作者 [Quickfiling](https://x.com/myphonely) (@myphonely)</sub>
@@ -235,6 +236,7 @@
 - [Termlock](https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU) — 只出草稿的自由职业还价台，粘贴中介或平台报价，得到带引用的市场带、缺口表与还价稿。 <sub>作者 [Basho](https://x.com/IslandMountain_) (@IslandMountain_)</sub>
 - [The Posting Tool](https://x.ai/bot/VQYoIcMIuXM4w80F8T8SN) — 把短视频与帖子排程到X、Threads、TikTok、Instagram、Pinterest与YouTube。 <sub>作者 [CryptoBandit](https://x.com/CryptoBandit100) (@CryptoBandit100)</sub>
 - [Threat Intelligence Lead](https://x.ai/bot/rA0W6mLYqVJky28FKrCBf) — 安全团队的威胁情报中枢。 <sub>作者 [Paul](https://x.com/pjvann) (@pjvann)</sub>
+- [Ticket Desk](https://x.ai/bot/47iWfw0I5xxt6uPqKj52G) — 标出紧急工单，按你的文档起草回复，把答不上的问题写成帮助文章草稿；从不自动发送。 <sub>作者 Screaming</sub>
 - [Ticket Triage Specialist](https://x.ai/bot/s7aaf6431077930df326f) <sup>官方</sup> — 清队列但不用守着：按节奏盯工单，只出回复草稿，没事的时候不吵你。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) — 本地营销机构的幕僚长，跨客户跑专家，公开作品先起草后批准，交付谷歌商家资料、社交、SEO 博客。 <sub>作者 [Tripper](https://x.com/TripperWood) (@TripperWood)</sub>
 - [Travel Bot](https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd) — 向旅行品牌争取住宿换内容合作，跟进回复并为创作者规划 Reels。 <sub>作者 [Lovable](https://x.com/_lovablecurves) · 社区旧称 *Travel Influencer Outreach* · [出处](https://x.com/_lovablecurves/status/2101139367091736589)</sub>

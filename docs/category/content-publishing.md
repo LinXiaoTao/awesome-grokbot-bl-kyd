@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-382 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+386 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -16,6 +16,7 @@
 - [After I Post](https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN) — Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks. <sub>by [Hiten](https://x.com/hnshah) (@hnshah)</sub>
 - [Agent 37](https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw) — A coding-and-strategy bot for when the standard answer isn't enough. It writes down what the experts would do, pulls a mechanism from a distant field,. <sub>by [D'Artagnan](https://x.com/the_Arow_H) (@the_Arow_H)</sub>
 - [AI Copywriter](https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka) — Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for video scripts. <sub>by Jeroen</sub>
+- [AI News Video](https://x.ai/bot/8mi67EcgDUS2FDtOAIKcJ) — Turns your AI news brief into a ~2-minute narrated explainer video with fact-checked numbers and motion graphics. <sub>by [歸藏](https://x.com/op7418) (@op7418) · [origin](https://x.com/op7418/status/2108566650350170411)</sub>
 - [AI 视频专家](https://x.ai/bot/ES3LVns98INeXAoYwef_f) — Turns one photograph into a short, moody film clip. <sub>by [kin](https://x.com/KinGao476942) (@KinGao476942) · [origin](https://x.com/KinGao476942/status/2095507795818991826)</sub>
 - [AIO specialist](https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr) — Treats AI Overviews and answer-engine optimisation as a standing program. <sub>by [Mathias](https://x.com/mathiasnoyez) (@mathiasnoyez) · aka *AIO Specialist (AEO/GEO)* · [origin](https://x.com/mathiasnoyez/status/2093445450388893813)</sub>
 - [Alfred](https://x.ai/bot/p7Gh6HIrfv4AGzIow6-9X) — Designs, audits, and governs your Grok Bot organization so it matches real company outcomes, with clear human owners and no duplicate jobs. Recommends.
@@ -103,6 +104,7 @@
 - [dbs](https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey) — A slash-command toolbox for business, content and what to do next. <sub>by [Leechael](https://x.com/Leechael) · [origin](https://x.com/Leechael/status/2093655085935165706)</sub>
 - [Dee Jay!](https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_) — Digs out overlooked UK dance records and tidies the library behind them. <sub>by [Carlos](https://x.com/CarlosSalas) (@CarlosSalas) · [origin](https://x.com/CarlosSalas/status/2099993309758533809)</sub>
 - [defendMusk bot](https://x.ai/bot/vS-vrOlLKSpXsTmBxPL57) — Drafts replies and posts in defense of Musk-related topics you choose. <sub>by [Scott](https://x.com/howellsh) (@howellsh)</sub>
+- [Definition PM](https://x.ai/bot/lCPi6D5Smr2QP1QA5_cMr) — Turns approved discovery into strategy, roadmap and design-ready items with hypothesis tracking and a risk scan. <sub>by Ash</sub>
 - [Demo Video](https://x.ai/bot/htSXUJUQlVr60m9L_unBa) — Turns a walkthrough of your web app into a narrated, captioned demo video. <sub>by [Krushnasinh](https://x.com/KdJadeja911) (@KdJadeja911) · [origin](https://x.com/KdJadeja911/status/2094455116925657592)</sub>
 - [Desi](https://x.ai/bot/IRxJb4fc5mT4HzjTPQKO4) — Photo-first interior design desk. <sub>by ThreeLeggedAnimal (@community)</sub>
 - [Design PM](https://x.ai/bot/Q6JhV9jLLQtX6r7bRTCG_) — Owns the component registry, interface contracts, naming conventions, and architecture gates between Definition and Development. <sub>by Ash</sub>
@@ -176,6 +178,7 @@
 - [Lienzo](https://x.ai/bot/Czc1kCepdYnisFnRWfDKr) — Design-resource inbox for Grok Bot. Drop a link and it catalogs a durable markdown note under design-resources; ask later and it recalls your growing library. <sub>by [Franco](https://x.com/FrancoE114696)</sub>
 - [Likeness](https://x.ai/bot/-h0DhS9ty87dr0UGXLjDD) — Locks a named person or animal from photos or a clip so later stills and clips still look like them. <sub>by [Knock](https://x.com/SuddenlyJon)</sub>
 - [Lina](https://x.ai/bot/PZQY6T6sKxrzhuYsclwap) — Plans each YouTube upload as one promise the video has to keep. <sub>by [Gabriel](https://x.com/gabe_onchain) (@gabe_onchain) · [origin](https://x.com/gabe_onchain/status/2094082997750284769)</sub>
+- [Linkedin Post Writer](https://x.ai/bot/1mbVjnfwK-2uJY34N_4Dd) — Pulls useful insights from your work and turns them into LinkedIn posts. <sub>by ar33b</sub>
 - [Local Stack COS](https://x.ai/bot/a1dANbXl4g4K5X5MlzxzO) — A chief of staff that writes everything on your own local Ollama model and makes images with your local ComfyUI, using Grok only for tools and routing. <sub>by [Brendon](https://x.com/FahlSolotov) (@FahlSolotov)</sub>
 - [Longform Editor](https://x.ai/bot/lnErR-gA_t3KkPlvtwrrz) — Long-form editor for chapters, essays, and manuscripts. Starts with structure and pacing, then line polish. Uses a free PDF and media toolkit when it. <sub>by [Wardonis](https://x.com/Wardonis)</sub>
 - [Lucy](https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D) — An open-ended creative companion for art, worlds, poems and films. <sub>by [Lucy](https://x.com/princess414141) (@princess414141) · aka *Lucy (creative companion)* · [origin](https://x.com/princess414141/status/2093428767947456999)</sub>
@@ -240,7 +243,6 @@
 - [Product Loop PM](https://x.ai/bot/eb1UwzjTfdNsYRfUh599j) — Runs Discover to Define to Design for Launch and keeps STATUS in sync. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Professor Oak](https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ) — A lab-coat agent-maker. Invents memorable names, writes full job descriptions, and gives every new agent a matching mascot face. Curious, a little. <sub>by [Kiara](https://x.com/kiaraplds) (@kiaraplds)</sub>
 - [Profile Site](https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q) — Collects what you and your bots actually did from bots, routines, calendar, GitHub, and notes, then drafts an honest emoji-led weekly recap for approval. <sub>by [Christian](https://x.com/Christian_O91) · aka *Weekly Recap* · [origin](https://x.com/Christian_O91/status/2103347545900507549)</sub>
-- [Promo Motion Video Maker, Made Easy](https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s) — Answer a few simple questions about your business and get a polished animated promo video. <sub>by dcbk2la (@community) · [origin](https://x.com/DCBK2LA/status/2104317530169057631)</sub>
 - [Promo Motion Video Maker, Made Easy](https://x.ai/bot/WsD0M2AJIbilxnLbSZA2v) — Answer a few simple questions about your business. <sub>by [dcbk2la](https://x.com/DCBK2LA)</sub>
 - [PromptsmithBot](https://x.ai/bot/Y88UF-JhSZfG5q_L05XnQ) — Helps anyone write effective prompts for Anthropic's Claude Opus 5.5, asking only the questions that matter and returning a paste-ready prompt. It can. <sub>by [cokeandrice.akita.algo](https://x.com/semiproblems1) (@semiproblems1)</sub>
 - [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) — Answers one product problem with three distinct working prototypes. <sub>by [santos](https://x.com/5antoshernandez) (@5antoshernandez) · [origin](https://x.com/5antoshernandez/status/2097118731042492739)</sub>
@@ -308,6 +310,7 @@
 - [STEER](https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz) — Mark up the flat, machine-sounding lines in a draft and get them rewritten. <sub>by [Bill](https://x.com/bfrench) (@bfrench) · [origin](https://x.com/bfrench/status/2094591383080403402)</sub>
 - [Stich + Vault](https://x.ai/bot/LySai4iBlM2ylkDRHppag) — Stitches phone clips into one MP4 and fetches media from your Epic Vault locker. <sub>by [Epic](https://x.com/Sm0ken42O) (@Sm0ken42O) · [origin](https://x.com/Sm0ken42O/status/2106123177407422672)</sub>
 - [Studio Assistant](https://x.ai/bot/Z411hW0fpQZunKK8t-8gH) — Art studio assistant for scheduling, outreach, and captions. <sub>by [D](https://x.com/sweetpollybred) (@sweetpollybred)</sub>
+- [Suno Song Creator](https://x.ai/bot/NP7mZ91wWsTYmjrOKCde5) — Brainstorms song ideas and writes ready-to-paste lyrics, style prompts and titles for Suno. <sub>by Tim</sub>
 - [Syllabot](https://x.ai/bot/uLaiAPTZzDV7vfptofUov) — Builds and manages your courses inside Kajabi so the platform housekeeping stops eating your week. <sub>by [Dave](https://x.com/gambrill) · [origin](https://x.com/gambrill/status/2107247246077046960)</sub>
 - [Synthesizer](https://x.ai/bot/-FSiZDOogRKS95ErsgNa3) — Turns complex material into clear maps and how-you-serve articulations for invitations. <sub>by [Ben](https://x.com/BinLeenk) (@Ben Link) · [origin](https://x.com/BinLeenk/status/2100201471018946640)</sub>
 - [TaleForge](https://x.ai/bot/5-YiiKg_ws-7xgkR8T8Ko) — Turns a story idea into a finished comic, picture book, or short video with locked characters. <sub>by [Avinash](https://x.com/AvinashPeyyety) · [origin](https://x.com/AvinashPeyyety/status/2104075408819851773)</sub>
@@ -363,6 +366,7 @@
 - [X High Coach](https://x.ai/bot/xSfBSprfKv5h909uzrv7W) — Audits any public X account and tells you exactly what to change. <sub>by [High](https://x.com/Hightv) (@Hightv) · [origin](https://x.com/Hightv/status/2093611453010084257)</sub>
 - [X High Coach](https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F) — Drop an X username and get a score, health flags, unfollow watch, and punchy rewrites. <sub>by [High](https://x.com/Hightv) (@Hightv)</sub>
 - [X Reply Radar](https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc) — Finds hot posts in your niches and drafts short replies so you grow without spraying comments. <sub>by [Sam](https://x.com/sam_builds_ai) · [origin](https://x.com/sam_builds_ai/status/2099463729796755818)</sub>
+- [X Spaces Audiogram Maker](https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s) — Answer a few simple questions about your business and get a polished animated promo video. <sub>by dcbk2la (@community) · aka *Promo Motion Video Maker, Made Easy* · [origin](https://x.com/DCBK2LA/status/2104317530169057631)</sub>
 - [X Strategist](https://x.ai/bot/pjCwyZNSLk0ch8DUVoeKH) — Plays the long game on who is worth knowing on X. <sub>by [Sultanov](https://x.com/thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [X Thread & Article Writer](https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4) — Turns your ideas, links, or rough notes into X threads and X articles written in your own voice, ready to paste. It drafts only and never posts for you. <sub>[origin](https://x.com/sigarellano/status/2103737235413860615)</sub>
 - [X Top 100 Fans Weekly](https://x.ai/bot/HU7XArfGhUgLnzVcr7neB) — Ranks the 100 people who engaged most with your X posts each week. <sub>by [Adam](https://x.com/AdamLowisz) · [origin](https://x.com/AdamLowisz/status/2093386801692201110)</sub>

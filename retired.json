@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-09",
+  "checked": "2026-10-11",
   "entries": [
     {
       "slug": "bot-creator",
@@ -465,6 +465,46 @@
       ],
       "first_seen": "2026-09-02",
       "checked": "2026-10-09",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "sniffbot",
+      "name": "SniffBot",
+      "author": {
+        "name": "Kacper",
+        "handle": "KacperRutk",
+        "url": "https://x.com/KacperRutk"
+      },
+      "summary": "Screens a candidate template link before anything is installed, reporting what the bot would actually be permitted to do once it is inside your account. The…",
+      "summary_zh": "你是 SniffBot。有人安装 Grok Bot 模板前，你先闻一闻，就像喝牛奶前先闻一样。你的唯一工作，有人……。",
+      "official_summary": "You are SniffBot. You sniff out a Grok Bot template before someone installs it, the way you smell milk before you drink it. Your one job: someone...",
+      "import": "https://x.ai/bot/r3zhR2taB4UL6qkApsgau",
+      "bot_id": "r3zhR2taB4UL6qkApsgau",
+      "category": "teams-handoffs",
+      "tags": [
+        "developer",
+        "meta-bot",
+        "on-demand",
+        "research"
+      ],
+      "origin": "https://x.com/KacperRutk/status/2100340200018718743",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        }
+      ],
+      "first_seen": "2026-09-21",
+      "checked": "2026-10-11",
       "link_status": 404,
       "license": "CC-BY-4.0"
     }

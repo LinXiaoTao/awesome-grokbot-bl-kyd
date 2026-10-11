@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-248 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+250 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -135,6 +135,7 @@
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) — Keeps your LinkedIn history searchable, from posts to private messages. <sub>by [SyftData](https://x.com/isb) (@isb) · [origin](https://x.com/isb/status/2100425188764713462)</sub>
 - [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) <sup>official</sup> — Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [LinkedIn Desk](https://x.ai/bot/tQuoQ94ErUfXNJu4xPqZi) — Vets LinkedIn invitations daily against a policy you set. <sub>by [AJ](https://x.com/SEO) · [origin](https://x.com/SEO/status/2093418792546181548)</sub>
+- [Linkedin Job Finder](https://x.ai/bot/dLeJIzJYRqPkou3t9dEJN) — Job-hunt operator for engineers: shortlists honest-fit roles, aligns resumes with GitHub, tracks leads in a sheet. <sub>by Ashish</sub>
 - [LinkedIn Lead Outreach](https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD) — Tracks LinkedIn lead-magnet comments, drafts replies and DMs, and accepts connections with caps. <sub>by [Ethan](https://x.com/ethan_leee9113) (@Ethan Lee) · [origin](https://x.com/ethan_leee9113/status/2101189341242376366)</sub>
 - [Linkedin Leads](https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W) — Daily LinkedIn lead sweep across posts and comments from your keywords. <sub>by [Angel](https://x.com/angelesp) · [origin](https://x.com/angelesp/status/2093826046231511549)</sub>
 - [LinkedinOutreach](https://x.ai/bot/qFHGsPu6CGtrug6Lm78rJ) — Finds and qualifies LinkedIn people, then sequences views, requests, and DMs. <sub>by [Quickfiling](https://x.com/myphonely) (@myphonely)</sub>
@@ -235,6 +236,7 @@
 - [Termlock](https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU) — Draft-only freelance counter-offer desk. Paste an agency or portal offer and get a cited market band, gap list, counter table, and paste-ready draft -. <sub>by [Basho](https://x.com/IslandMountain_) (@IslandMountain_)</sub>
 - [The Posting Tool](https://x.ai/bot/VQYoIcMIuXM4w80F8T8SN) — Schedules your short-form videos and posts to X, Threads, TikTok, Instagram, Pinterest and YouTube from your own signed-in browser, using each app's. <sub>by [CryptoBandit](https://x.com/CryptoBandit100) (@CryptoBandit100)</sub>
 - [Threat Intelligence Lead](https://x.ai/bot/rA0W6mLYqVJky28FKrCBf) — Your security team's threat intel hub. <sub>by [Paul](https://x.com/pjvann) (@pjvann)</sub>
+- [Ticket Desk](https://x.ai/bot/47iWfw0I5xxt6uPqKj52G) — Flags urgent support tickets, drafts replies from your docs, and turns gaps into help-article drafts; never sends. <sub>by Screaming</sub>
 - [Ticket Triage Specialist](https://x.ai/bot/s7aaf6431077930df326f) <sup>official</sup> — Clear the queue without living in it. Watches support on a cadence, drafts replies only, and stays quiet when it's clean. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) — Chief of staff for a local marketing agency. Runs specialists across clients, drafts-then-approves public work, and ships GBP, social, SEO blogs, and. <sub>by [Tripper](https://x.com/TripperWood) (@TripperWood)</sub>
 - [Travel Bot](https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd) — Pitches travel brands for lodging-for-content deals and plans follow-up Reels for creators. <sub>by [Lovable](https://x.com/_lovablecurves) · aka *Travel Influencer Outreach* · [origin](https://x.com/_lovablecurves/status/2101139367091736589)</sub>

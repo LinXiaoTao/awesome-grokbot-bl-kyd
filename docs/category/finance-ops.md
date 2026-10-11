@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-245 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+246 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -163,6 +163,7 @@
 - [Polly](https://x.ai/bot/MvgLJbHeHFjc7J9D419_J) — Polymarket research desk that digs moves, sizes the idea, and keeps notes clean. <sub>by [Jodi](https://x.com/WorkWithJodi) · [origin](https://x.com/WorkWithJodi/status/2101113189341540826)</sub>
 - [Polymarket Scans](https://x.ai/bot/x_TnIafQbUyz5XbDGMz20) — Polymarket US placer desk: scans the live book with public references, sizes with Kelly, and places at most one limit when 8pp still clears. Hourly. <sub>by [h](https://x.com/automaticslay) (@automaticslay)</sub>
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) — Finds money you are already owed but have not collected. <sub>by [Lauren](https://x.com/poteto) · [origin](https://x.com/poteto/status/2093518231235686589)</sub>
+- [Portfolio Adviser](https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z) — Tracks markets and news for your holdings, reviews the portfolio, and helps think through rebalancing. <sub>by Avid</sub>
 - [POSSESSIONS: Home Inventory & Net Worth](https://x.ai/bot/_AtzRQVYEzMUS8QsanARG) — Treat your household's stuff, cars and accounts as one tracked portfolio. <sub>by [Bill](https://x.com/bill_mitchell_) (@bill_mitchell_) · aka *POSSESSIONS* · [origin](https://x.com/bill_mitchell_/status/2105420420283314572)</sub>
 - [Privacy Ops](https://x.ai/bot/ZfnCBw8WnIgMynLlika6H) — Data-broker and dead-account removal queue. Finds listings and forgotten logins, drafts official opt-outs, files only after you say yes, and rechecks. <sub>by [Mb](https://x.com/MehlyHQ4m) (@MehlyHQ4m)</sub>
 - [Profit Finder](https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7) — Bob Fifer-mode profit operator: pricing, packaging, cost cuts. <sub>by [Jon](https://x.com/JonStenstrom) (@JonStenstrom)</sub>
