@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-386 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+390 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -54,6 +54,7 @@
 - [Calendar Liftoff](https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-) — A print-ready 12-by-12 photo wall calendar PDF on any theme you name. <sub>by [Grokx](https://x.com/tdsfixer) (@tdsfixer) · [origin](https://x.com/tdsfixer/status/2103993998675448184)</sub>
 - [Capitolino Writer](https://x.ai/bot/p5iRJ3wD67GyQlALEeLjn) — Capitolino writer for structured drafts with a steady voice. <sub>by Seokhee</sub>
 - [Caption Truth](https://x.ai/bot/nCzuCtWFMtDDsXrrqqYFA) — Honest captions that call out overclaims. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
+- [CET Coach](https://x.ai/bot/Q-teSdJpR58IWD1G0J0iQ) — Scores any message you paste, link or upload on CET (9 points plus overall) and gives one clearer rewrite. <sub>by [Bianca](https://x.com/BiancaBellChamb)</sub>
 - [ChatPRD](https://x.ai/bot/36vKs2HSysdaJDe6OLD4w) — A product manager that keeps every spec and discovery doc inside ChatPRD. <sub>by [Claire](https://x.com/clairevo) (@clairevo) · [origin](https://x.com/clairevo/status/2093496614099042450)</sub>
 - [Chief of Staff](https://x.ai/bot/r9LdilTFjkUL6grapGqcE) — Chief of Staff for a Head/Heart/Hand communication system that predicts what audiences will notice, feel, and remember. Coordinates multi-AI seats,. <sub>by [Charles](https://x.com/CharlesEYoung3) (@CharlesEYoung3)</sub>
 - [Chief of Staff](https://x.ai/bot/LpJYvZec__H1ud4VJD9YO) — A writing and publishing chief of staff. Tightens essays and posts in your voice, keeps your schedule honest, and pulls you in when a real decision is. <sub>by [Brass](https://x.com/Brass) · [origin](https://x.com/i/status/2105094866011144440)</sub>
@@ -244,6 +245,7 @@
 - [Professor Oak](https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ) — A lab-coat agent-maker. Invents memorable names, writes full job descriptions, and gives every new agent a matching mascot face. Curious, a little. <sub>by [Kiara](https://x.com/kiaraplds) (@kiaraplds)</sub>
 - [Profile Site](https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q) — Collects what you and your bots actually did from bots, routines, calendar, GitHub, and notes, then drafts an honest emoji-led weekly recap for approval. <sub>by [Christian](https://x.com/Christian_O91) · aka *Weekly Recap* · [origin](https://x.com/Christian_O91/status/2103347545900507549)</sub>
 - [Promo Motion Video Maker, Made Easy](https://x.ai/bot/WsD0M2AJIbilxnLbSZA2v) — Answer a few simple questions about your business. <sub>by [dcbk2la](https://x.com/DCBK2LA)</sub>
+- [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) — Director bot running six specialist desks (figure, narrative, camera, light, background, fashion) that assemble clean, copyable image and video prompts. <sub>by [K](https://x.com/KittyTellesWolf) (@KittyTellesWolf) · [origin](https://x.com/KittyTellesWolf/status/2109472165854888135)</sub>
 - [PromptsmithBot](https://x.ai/bot/Y88UF-JhSZfG5q_L05XnQ) — Helps anyone write effective prompts for Anthropic's Claude Opus 5.5, asking only the questions that matter and returning a paste-ready prompt. It can. <sub>by [cokeandrice.akita.algo](https://x.com/semiproblems1) (@semiproblems1)</sub>
 - [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) — Answers one product problem with three distinct working prototypes. <sub>by [santos](https://x.com/5antoshernandez) (@5antoshernandez) · [origin](https://x.com/5antoshernandez/status/2097118731042492739)</sub>
 - [Proto Bot](https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i) — Turns your daily ideas into live, shareable prototypes in your real app, built as draft pull requests with click-path screenshots and a short video.
@@ -381,9 +383,11 @@
 - [Zoom Zoe](https://x.ai/bot/XzkfhWk87XtGReBvkVE24) — Audits your video call camera, mic, lighting, and background so you look and sound sharper. Quick fixes first, then optional upgrades. <sub>by [Frank](https://x.com/Frank)</sub>
 - [Ćevbo · Soul Broker](https://x.ai/bot/52MysHk4AuXQs0nWbxQF2) — Free Soul Broker soul you can install on Grok Bot. <sub>by [Vladimir](https://x.com/orange_boy) (@orange_boy)</sub>
 - [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) — Hands you ready-to-post promo copy for your product on a fixed rhythm. <sub>by [yunhui](https://x.com/zheng_yunh2429) (@zheng_yunh2429) · [origin](https://x.com/zheng_yunh2429/status/2096884390324572470)</sub>
+- [人生设计师](https://x.ai/bot/vnqVHiZauQJwpzWJShUcW) — Long-term life-design mentor that reflects back and asks one question at a time to keep you talking. <sub>by [Leechael](https://x.com/Leechael) · [origin](https://x.com/Leechael/status/2108912205374857584)</sub>
 - [投卷助手](https://x.ai/bot/by-COZ6O51itETDzM0mBw) — Drafts personalized DMs asking creators to read your article; judges fit first, you send yourself. <sub>by [hardy](https://x.com/Chchenhao0129) (@Hardy Chen) · [origin](https://x.com/Chchenhao0129/status/2105261191736213588)</sub>
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) — Checks Japanese grammar, keigo, and readability for boss-facing drafts without changing meaning. <sub>by [24K](https://x.com/gold24k9999) · [origin](https://x.com/gold24k9999/status/2099428518111400150)</sub>
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) — Schedules voice demo, PPT, avatar, and 1080p lecture video delivery. <sub>by [独孤](https://x.com/dugujun12) (@dugujun12)</sub>
+- [这个X账号怎么火的](https://x.ai/bot/jZdcW7oX0o60hLAw35QcB) — Give it an X account and it finds when and with what content it took off, then compares against your account with suggestions. <sub>by [Eason](https://x.com/mr_easonyang) · [origin](https://x.com/mr_easonyang/status/2109578694188827034)</sub>
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) — Turns a building or bridge idea into a finished vertical explainer video. <sub>by [꼬마](https://x.com/BBBang9900) (@BBBang9900) · [origin](https://x.com/BBBang9900/status/2096823218162266141)</sub>
 - [떡이](https://x.ai/bot/WWh_DzFT09A2-d12tUvj1) — X account editor. ONLY job: make that X account better - one diagnosis of what is actually holding it back, one next post in their voice, plus the cut. <sub>by [lauren](https://x.com/poteto) (@poteto)</sub>
 - [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) — Plans and ships evidence-backed ebooks for Kmong. <sub>by [꼬마](https://x.com/BBBang9900) (@BBBang9900)</sub>

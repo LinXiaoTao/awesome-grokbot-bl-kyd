@@ -2,7 +2,7 @@
 
 *起草、编辑、设计、视频，以及把它们发出去的队列。*
 
-386 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
+390 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](content-publishing.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing&lang=zh)
 
 ---
 
@@ -54,6 +54,7 @@
 - [Calendar Liftoff](https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-) — 按主题生成可印刷的 12×12 照片挂历 PDF。 <sub>作者 [Grokx](https://x.com/tdsfixer) (@tdsfixer) · [出处](https://x.com/tdsfixer/status/2103993998675448184)</sub>
 - [Capitolino Writer](https://x.ai/bot/p5iRJ3wD67GyQlALEeLjn) — Capitolino 写手，结构化草稿且语气稳定。 <sub>作者 Seokhee</sub>
 - [Caption Truth](https://x.ai/bot/nCzuCtWFMtDDsXrrqqYFA) — 诚实标题，点出过度宣称。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
+- [CET Coach](https://x.ai/bot/Q-teSdJpR58IWD1G0J0iQ) — 给你粘贴、链接或上传的任何消息打 CET 分（9 项加总分），并给出一版更清楚的改写。 <sub>作者 [Bianca](https://x.com/BiancaBellChamb)</sub>
 - [ChatPRD](https://x.ai/bot/36vKs2HSysdaJDe6OLD4w) — 产品经理，所有规格和调研文档都放在 ChatPRD 里。 <sub>作者 [Claire](https://x.com/clairevo) (@clairevo) · [出处](https://x.com/clairevo/status/2093496614099042450)</sub>
 - [Chief of Staff](https://x.ai/bot/r9LdilTFjkUL6grapGqcE) — 预测观众会注意、感受与记住什么的头心手沟通系统幕僚长，协调多 AI 席位。 <sub>作者 [Charles](https://x.com/CharlesEYoung3) (@CharlesEYoung3)</sub>
 - [Chief of Staff](https://x.ai/bot/LpJYvZec__H1ud4VJD9YO) — 写作与出版参谋，按你的声音收紧文章，日程诚实，真决策才拉你。 <sub>作者 [Brass](https://x.com/Brass) · [出处](https://x.com/i/status/2105094866011144440)</sub>
@@ -244,6 +245,7 @@
 - [Professor Oak](https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ) — 穿白大褂的造代理人，起好记名字、写完整职位说明，并给每个新代理配上对应吉祥物脸。 <sub>作者 [Kiara](https://x.com/kiaraplds) (@kiaraplds)</sub>
 - [Profile Site](https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q) — 从机器人例行日历 GitHub 与笔记收集本周实绩，起草带表情的周报草稿，未经你同意绝不发。 <sub>作者 [Christian](https://x.com/Christian_O91) · 社区旧称 *Weekly Recap* · [出处](https://x.com/Christian_O91/status/2103347545900507549)</sub>
 - [Promo Motion Video Maker, Made Easy](https://x.ai/bot/WsD0M2AJIbilxnLbSZA2v) — 答几个关于生意的简单问题，做出宣传动态视频。 <sub>作者 [dcbk2la](https://x.com/DCBK2LA)</sub>
+- [Prompt Director](https://x.ai/bot/B8effYn7-r67lyyx22uXz) — 导演 Bot 带 6 个专项小组（人物、叙事、镜头、灯光、背景、服装），把图像和视频提示词拆段再组装成可直接复制的版本。 <sub>作者 [K](https://x.com/KittyTellesWolf) (@KittyTellesWolf) · [出处](https://x.com/KittyTellesWolf/status/2109472165854888135)</sub>
 - [PromptsmithBot](https://x.ai/bot/Y88UF-JhSZfG5q_L05XnQ) — 帮你给Claude Opus写有效提示，只问真正影响结果的问题。 <sub>作者 [cokeandrice.akita.algo](https://x.com/semiproblems1) (@semiproblems1)</sub>
 - [Proto](https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq) — 对着一个产品问题交出三个方向不同且能跑的原型。 <sub>作者 [santos](https://x.com/5antoshernandez) (@5antoshernandez) · [出处](https://x.com/5antoshernandez/status/2097118731042492739)</sub>
 - [Proto Bot](https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i) — 把你每天的点子变成真实应用里可分享的在线原型，以草稿 PR 形式提交，附点击路径截图和短视频。
@@ -381,9 +383,11 @@
 - [Zoom Zoe](https://x.ai/bot/XzkfhWk87XtGReBvkVE24) — 审计视频通话的摄像头麦克风灯光与背景，先快修再谈升级。 <sub>作者 [Frank](https://x.com/Frank)</sub>
 - [Ćevbo · Soul Broker](https://x.ai/bot/52MysHk4AuXQs0nWbxQF2) — 可安装到 Grok Bot 的免费 Soul Broker 灵魂。 <sub>作者 [Vladimir](https://x.com/orange_boy) (@orange_boy)</sub>
 - [产品推广交稿员](https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr) — 按固定节奏把产品推广文案写好，交给你直接发。 <sub>作者 [yunhui](https://x.com/zheng_yunh2429) (@zheng_yunh2429) · [出处](https://x.com/zheng_yunh2429/status/2096884390324572470)</sub>
+- [人生设计师](https://x.ai/bot/vnqVHiZauQJwpzWJShUcW) — 长期人生导师：像人生设计课一样多轮反映、每次只问一句，让人愿意接着聊。 <sub>作者 [Leechael](https://x.com/Leechael) · [出处](https://x.com/Leechael/status/2108912205374857584)</sub>
 - [投卷助手](https://x.ai/bot/by-COZ6O51itETDzM0mBw) — 先判断文章值不值得推，再给每个人起草一条不套路的私信，默认你自己发。 <sub>作者 [hardy](https://x.com/Chchenhao0129) (@Hardy Chen) · [出处](https://x.com/Chchenhao0129/status/2105261191736213588)</sub>
 - [日本語チェック](https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT) — 检查呈给上司或决裁者的日语文稿的语法、敬语和可读性，不改原意也不代写代发。 <sub>作者 [24K](https://x.com/gold24k9999) · [出处](https://x.com/gold24k9999/status/2099428518111400150)</sub>
 - [讲解视频调度台](https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA) — 调度语音演示、PPT、虚拟形象和字幕对齐的 1080p 讲解片。 <sub>作者 [独孤](https://x.com/dugujun12) (@dugujun12)</sub>
+- [这个X账号怎么火的](https://x.ai/bot/jZdcW7oX0o60hLAw35QcB) — 丢一个 X 账号进去，找出它什么时候、靠什么内容火起来的，再对照你的号给出改进建议。 <sub>作者 [Eason](https://x.com/mr_easonyang) · [出处](https://x.com/mr_easonyang/status/2109578694188827034)</sub>
 - [건축 숏폼 마스터](https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR) — 一个建筑或桥梁的原理，做成竖屏科普短视频。 <sub>作者 [꼬마](https://x.com/BBBang9900) (@BBBang9900) · [出处](https://x.com/BBBang9900/status/2096823218162266141)</sub>
 - [떡이](https://x.ai/bot/WWh_DzFT09A2-d12tUvj1) — 只做一件事，把指定 X 账号变好，一次诊断卡住的原因，再写一条对方口吻的下一帖。 <sub>作者 [lauren](https://x.com/poteto) (@poteto)</sub>
 - [전자책 마스터](https://x.ai/bot/KohlZdYO9sLAqEmLG7oko) — 按法规与官方依据，独自策划上架克梦电子书。 <sub>作者 [꼬마](https://x.com/BBBang9900) (@BBBang9900)</sub>

@@ -61,6 +61,7 @@
 - [CodeFix Buddy](https://x.ai/bot/-3H90YMhn2cE-CO1jj3-2) — 编程助手，贴报错给修法，说需求出代码，问概念给白话讲解。 <sub>作者 [Jaylin](https://x.com/aibotmeme) (@aibotmeme) · [出处](https://x.com/aibotmeme/status/2103721602114326549)</sub>
 - [Codex](https://x.ai/bot/aUHkBXXwCzljCcTJSzBYw) — 薄封装真实 Codex 命令行，在你的电脑上跑编码或深研任务。 <sub>作者 [IndependentDocX](https://x.com/DocLibertarian) (@DocLibertarian) · [出处](https://x.com/DocLibertarian/status/2102519653868167484)</sub>
 - [Codey](https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf) — 谨慎的编程搭档，未经你点头不合并也不部署。 <sub>作者 [Sergio](https://x.com/SergioTigera) (@SergioTigera) · [出处](https://x.com/SergioTigera/status/2105100126004170850)</sub>
+- [Cody](https://x.ai/bot/eWee2PsTChAwOGEKpKpT_) — 编码与交付助手。 <sub>作者 Christie (@community) · 社区旧称 *The Coder*</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/itRipjD5ztScBqvd8vJIf) — Confidence Gate Code Reviewer 的可导入分享模板，按说明完成首次只读任务后再开写入。 <sub>作者 Vicente (@community)</sub>
 - [Confidence Gate Code Reviewer](https://x.ai/bot/voxpqRMZbPRpIxptiyJ_g) — 用 >80% 置信门槛审计粘贴的 PR diff，APPROVE / WARNING / BLOCK。 <sub>作者 [Vicente](https://x.com/v_burgos_) (@v_burgos_)</sub>
 - [Connect multiple Grok Bot accounts](https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL) — 一次安装连接后，把所有 Grok Bot 席位收在同一屋檐下管理。 <sub>作者 [Paulo](https://x.com/pauloglez90) (@pauloglez90) · [出处](https://x.com/pauloglez90/status/2102631623468765633)</sub>
@@ -163,7 +164,7 @@
 - [Korean Public API](https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ) — 按你的想法推荐韩国政府公开数据接口。 <sub>作者 [Moon](https://x.com/reallygood83) (@reallygood83) · [出处](https://x.com/reallygood83/status/2096586211909664899)</sub>
 - [Kun](https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE) — 持续更新的首席工程师助手，汇总 Kun 的帖子视频与开源内容。 <sub>作者 [Kun](https://x.com/kunchenguid) (@kunchenguid) · [出处](https://x.com/kunchenguid/status/2105806675399852090)</sub>
 - [KVOp](https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS) — 站点运营机器人，健康监控、下次会话清单，优先 VPS 自动化。 <sub>作者 [KELVIC-3D](https://x.com/3dKelvic) (@3dKelvic)</sub>
-- [Lauren Tan](https://x.ai/bot/4KAElqS6FCSb73vLXZ14S) — Poteto 风格的工程与智能体工作流思考伙伴，先想透再动手，少写但写好，并证明能跑。 <sub>作者 [Saad](https://x.com/saadkamal) · [出处](https://x.com/saadkamal/status/2107157268278231444)</sub>
+- [Lauren (@poteto)](https://x.ai/bot/4KAElqS6FCSb73vLXZ14S) — Poteto 风格的工程与智能体工作流思考伙伴，先想透再动手，少写但写好，并证明能跑。 <sub>作者 [Saad](https://x.com/saadkamal) · 社区旧称 *Lauren Tan* · [出处](https://x.com/saadkamal/status/2107157268278231444)</sub>
 - [lgtm the pr closer](https://x.ai/bot/vGk7yV-vF92ZegpNF3NPo) — 每天早上醒来，把开着的 pull request 清掉。 <sub>作者 [Claire](https://x.com/clairevo) · [出处](https://x.com/clairevo/status/2093496605488083203)</sub>
 - [Life at the Speed of Play](https://x.ai/bot/GkzMzuaxSoJhBCZxSRAkM) — Mark Pincus《Life at the Speed of Play》伴读，谈直觉、点子与交付。 <sub>作者 [Joe](https://x.com/CardCaptain) · [出处](https://x.com/CardCaptain)</sub>
 - [Lighting Specialist](https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA) — 剧场与建筑照明设计助手，覆盖灯具、光度、DMX/sACN/Art-Net、图纸与规范向规格。 <sub>作者 [kmkonline](https://x.com/kmkonline) · [出处](https://x.com/kmkonline/status/2101593722433745384)</sub>
@@ -269,7 +270,6 @@
 - [Tesla Bot](https://x.ai/bot/g5J-pr8mBUjLbY2LktOl1) — 特斯拉与 SpaceX 新闻台兼 TSLA 期权分析，给可发草稿。 <sub>作者 [Matt](https://x.com/LeeMatt17631) (@LeeMatt17631)</sub>
 - [Teslascope](https://x.ai/bot/l9MPhPAe-OSzvcMVfXrTe) — 面向车主的Teslascope助手，问行程、超充、充电、软件与能耗都能答。 <sub>作者 [Tyler](https://x.com/teslascope) (@teslascope)</sub>
 - [Testbench](https://x.ai/bot/jbcYU5l_7qsLl49AIzh5q) — 给共享电脑扛不动的活租一块 GPU，按运行时长计费。 <sub>作者 [Prism](https://x.com/useprismnetwork) (@useprismnetwork) · [出处](https://x.com/useprismnetwork/status/2094790128296239563)</sub>
-- [The Coder](https://x.ai/bot/eWee2PsTChAwOGEKpKpT_) — 编码与交付助手。 <sub>作者 Christie (@community)</sub>
 - [Threat Hunter](https://x.ai/bot/xz-a6CWE-HtbBB4yO7J0U) — 搭建免费 Wazuh SIEM 的威胁狩猎机器人。 <sub>作者 [Paul](https://x.com/pjvann) (@pjvann)</sub>
 - [Top Coder](https://x.ai/bot/dwuB7MmlnrkcXYtyOp-Hk) — 按锁定验收标准写代码并带测试交付，另有核验方确认做完才算做完。 <sub>作者 [Eric](https://x.com/EricBuess) · [出处](https://x.com/EricBuess/status/2100918548583375187)</sub>
 - [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) — 为Tabletop Simulator模组编写调试Lua脚本，用GitHub PR与现场注入试玩。 <sub>作者 [Naveed](https://x.com/shelftoworld) (@shelftoworld)</sub>

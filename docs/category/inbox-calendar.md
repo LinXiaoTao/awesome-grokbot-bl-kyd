@@ -2,7 +2,7 @@
 
 *Triage mail, draft replies, defend the calendar, run the weekday rhythm.*
 
-326 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
+328 bots · [← back to the catalog](../../README.md) · [简体中文](inbox-calendar.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar)
 
 ---
 
@@ -133,6 +133,7 @@
 - [Family Organizer](https://x.ai/bot/ZXZJKvToI4zz1t935mr7q) — Turns forwarded school emails into kid digests and calendar events, plus chore reminders and a weekly meal plan. <sub>by [Luke](https://x.com/PrairieWatcher) (@PrairieWatcher) · [origin](https://x.com/PrairieWatcher/status/2108516310212546945)</sub>
 - [Fare Watch](https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu) — Watches booked trips for cheaper fares, stays, or better dates from your inbox. <sub>by [Austin](https://x.com/ahoop) · [origin](https://x.com/ahoop/status/2104449084660629618)</sub>
 - [Feedback Triage](https://x.ai/bot/GMWdsAx2e40XGT9wCYo4Y) — Triages support and product feedback from email into bug, feature, and roadmap drafts. Approve Inbox gates every ticket and customer reply; sinks are. <sub>by [Patrick](https://x.com/psoreilly) (@psoreilly)</sub>
+- [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) — Builds and deploys your own Apple Mail-style app for your Grok Bot email. <sub>by [Krushal](https://x.com/krushalkalkani) (@krushalkalkani) · [origin](https://x.com/krushalkalkani/status/2109065176313938163)</sub>
 - [Fleet Factory](https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y) — A weekday close-out over inbox, calendar and whatever is in flight. <sub>by [Drew](https://x.com/SacredFolio) (@SacredFolio) · [origin](https://x.com/SacredFolio/status/2099992953834156454)</sub>
 - [Follow-Up Bot](https://x.ai/bot/9X3XAP55-_L_47wFmH-jf) — Drafts personal follow-up emails or X DMs for contacts from an event, sends nothing unapproved, and flags stalled threads. <sub>by [Day](https://x.com/day__bliss) (@day__bliss) · [origin](https://x.com/day__bliss/status/2106560603494269170)</sub>
 - [Follow-Up CRM](https://x.ai/bot/Z-_zKI__9SXoxmwAFI5bV) — Personal CRM for open loops across email and calendar. Weekly nudge and draft-only outreach. Never sends outreach unasked. <sub>by [Anthony](https://x.com/AnthonyDo) (@AnthonyDo)</sub>
@@ -329,6 +330,7 @@
 - [YahooMail](https://x.ai/bot/BV8TiWwvtXEp3miBJUWaq) — Clears and files Yahoo Mail inbox on request. <sub>by Carolina (@community)</sub>
 - [ZenSched](https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix) — Field workforce scheduling for agents. Connects to ZenSched over MCP so an agent can create the vendor account, schedule crews, run geofenced check-in,. <sub>by [Mike](https://x.com/zensched) (@zensched)</sub>
 - [セキュリティ点検](https://x.ai/bot/4zx8w8Oc9dm0d3Den_Abe) — Monthly nudges to review security settings for banks, brokers and email, with steps and checklists; never logs in. <sub>by [sapjp](https://x.com/sapjpx) (@sapjpx) · [origin](https://x.com/sapjpx/status/2108766268497248342)</sub>
+- [メルマガ整理ボット](https://x.ai/bot/bUhYvfA8mzvTSEWMpcTEO) — Finds the newsletters, promos and job-site mail piling up in Gmail and unsubscribes only the ones you pick; important mail is kept off the list. <sub>by [豪](https://x.com/devpapago)</sub>
 - [메일 정리봇](https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO) — Short morning pass over Naver Mail and Gmail that surfaces only payment and security risks. <sub>by [초코넛밀크티](https://x.com/choko_milkty) · [origin](https://x.com/choko_milkty/status/2100463896079544573)</sub>
 - [행사 참석 확인 폼 메이커](https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi) — Builds an event RSVP form on grok.me with email delivery and a phone-scannable QR for hosts. <sub>by [Brandon](https://x.com/brandonchung75) (@head77x) · [origin](https://x.com/brandonchung75/status/2106535957382197673)</sub>
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) — Keeps your agent bench, calendar and inbox on one weekday rhythm. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2094547674766929996)</sub>

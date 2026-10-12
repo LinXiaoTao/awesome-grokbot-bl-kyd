@@ -51,7 +51,6 @@
 - [Chief](https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW) — 一个前台对接整队专员 bot，用书面简报交接。 <sub>作者 [Tyler](https://x.com/MitchTiler) (@MitchTiler) · [出处](https://x.com/MitchTiler/status/2095711121193996674)</sub>
 - [Chief of Agents](https://x.ai/bot/N92u9t1nHlL_gtgk2nAeN) — 给独立创始人当总调度。把活分给专长 Bot，守家规，只在判断、花钱或队友卡住时打断你。 <sub>作者 Andrew · 社区旧称 *Jarvis* · [出处](https://github.com/andrewkittridge/grokory)</sub>
 - [Chief of Staff](https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF) — 低噪音参谋，盯桌面、Slack、收件箱和日历。 <sub>作者 [Aryaman](https://x.com/aryamankhawow) (@aryamankhawow) · 社区旧称 *Chief of Staff (Aryaman)* · [出处](https://x.com/aryamankhawow/status/2093385343928033312)</sub>
-- [Chief of Staff](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — 一张桌子上的参谋，同时管你的一天和公司。 <sub>作者 [Avid](https://x.com/Av1dlive) (@Av1dlive) · 社区旧称 *Chief of Staff (Avid)* · [出处](https://x.com/Av1dlive/status/2093389300490752106)</sub>
 - [Chief of Staff](https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz) — 把活分给六个 Bot，只在要拍板时叫醒你。 <sub>作者 [Игорь](https://x.com/iamigorekk) (@iamigorekk) · 社区旧称 *chief of staff (igor)* · [出处](https://x.com/iamigorekk/status/2093546304081162412)</sub>
 - [Chief of Staff](https://x.ai/bot/TPVT39k9ILCz7QYzRja2B) — 调度你其它的 Bot，顺带把你今晚要过夜的城市摸清楚。 <sub>作者 [Daily](https://x.com/TravisHein21740) (@TravisHein21740) · [出处](https://x.com/TravisHein21740/status/2096927727861297570)</sub>
 - [Chief of Staff](https://x.ai/bot/s4lVhWgvghY8dikqD0LC4) — 早间简报标明来源、为何重要和下一步，并把例行事项转给专家助手。 <sub>作者 [Vaibhav](https://x.com/vaibhavhome) (@vaibhavhome) · [出处](https://x.com/vaibhavhome/status/2100099243448873109)</sub>
@@ -77,6 +76,7 @@
 - [Devin](https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA) — 负责贴近底层的活，含守护进程、桌面应用、GPU 管线和发布脚本。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098149698032824663)</sub>
 - [Distill anyone](https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt) — 把公开人物的言论收成一个可对话的 Bot，还能每天刷新。 <sub>作者 [Kun](https://x.com/kunchenguid) (@kunchenguid)</sub>
 - [Document PM](https://x.ai/bot/xheAbAQYQT4esSGc8B3xX) — 把发现、定义、设计、成文这条产品环收成可交接的文档包。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
+- [DOGE (Department of Grok Efficiency)](https://x.ai/bot/d8OshqLZvtcKDcNluPuyo) — 一张桌子上的参谋，同时管你的一天和公司。 <sub>作者 [Avid](https://x.com/Av1dlive) (@Av1dlive) · 社区旧称 *Chief of Staff (Avid)* · [出处](https://x.com/Av1dlive/status/2093389300490752106)</sub>
 - [dr buzz](https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp) — 帮你造其他 Bot，每个只干一件事并有固定语气。 <sub>作者 [Talal](https://x.com/Talalakkari) (@Talalakkari) · [出处](https://x.com/Talalakkari/status/2096097164548260044)</sub>
 - [dr eggbot](https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW) — 设计高质量 Grok Bot，并把大活拆成更小的兄弟 Bot。 <sub>作者 [Brandon](https://x.com/brandonsbay) (@brandonsbay)</sub>
 - [Easy Apply Queue](https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp) — 盯着一小时 LinkedIn 投递窗口，同一岗位绝不再抓第二次。 <sub>作者 [Haseeb](https://x.com/HaseebMir91) (@HaseebMir91) · [出处](https://x.com/HaseebMir91/status/2094891095733710950)</sub>

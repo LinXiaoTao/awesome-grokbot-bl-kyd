@@ -2,7 +2,7 @@
 
 *分拣邮件、起草回复、守住日历、把工作日节奏跑起来。*
 
-326 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
+328 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](inbox-calendar.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=inbox-calendar&lang=zh)
 
 ---
 
@@ -133,6 +133,7 @@
 - [Family Organizer](https://x.ai/bot/ZXZJKvToI4zz1t935mr7q) — 把转发的学校邮件变成孩子摘要和日历事件，还有家务提醒和每周餐单。 <sub>作者 [Luke](https://x.com/PrairieWatcher) (@PrairieWatcher) · [出处](https://x.com/PrairieWatcher/status/2108516310212546945)</sub>
 - [Fare Watch](https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu) — 盯着已订行程从收件箱里找更便宜机票住宿或更好日期。 <sub>作者 [Austin](https://x.com/ahoop) · [出处](https://x.com/ahoop/status/2104449084660629618)</sub>
 - [Feedback Triage](https://x.ai/bot/GMWdsAx2e40XGT9wCYo4Y) — 把邮件里的支持与产品反馈分成缺陷、功能与路线图草稿，每张工单与客户回复都经收件箱门批准。 <sub>作者 [Patrick](https://x.com/psoreilly) (@psoreilly)</sub>
+- [Fig Mail](https://x.ai/bot/L_exyeIDAv-BkthWrjnJU) — 为你的 Grok Bot 邮箱搭建并部署一个 Apple Mail 风格的邮件应用。 <sub>作者 [Krushal](https://x.com/krushalkalkani) (@krushalkalkani) · [出处](https://x.com/krushalkalkani/status/2109065176313938163)</sub>
 - [Fleet Factory](https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y) — 工作日收工，过一遍收件箱、日历与进行中事项。 <sub>作者 [Drew](https://x.com/SacredFolio) (@SacredFolio) · [出处](https://x.com/SacredFolio/status/2099992953834156454)</sub>
 - [Follow-Up Bot](https://x.ai/bot/9X3XAP55-_L_47wFmH-jf) — 为活动上认识的人起草个性化跟进邮件或 X 私信，未经批准不发，冷掉的对话会提醒你。 <sub>作者 [Day](https://x.com/day__bliss) (@day__bliss) · [出处](https://x.com/day__bliss/status/2106560603494269170)</sub>
 - [Follow-Up CRM](https://x.ai/bot/Z-_zKI__9SXoxmwAFI5bV) — 跨邮件与日历的开放事项 CRM，周提醒且只起草触达。 <sub>作者 [Anthony](https://x.com/AnthonyDo) (@AnthonyDo)</sub>
@@ -329,6 +330,7 @@
 - [YahooMail](https://x.ai/bot/BV8TiWwvtXEp3miBJUWaq) — 邮件与收件箱助手。 <sub>作者 Carolina (@community)</sub>
 - [ZenSched](https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix) — 外勤排班代理，经 MCP 接 ZenSched，可建供应商账号、排班、地理围栏签到与调度。 <sub>作者 [Mike](https://x.com/zensched) (@zensched)</sub>
 - [セキュリティ点検](https://x.ai/bot/4zx8w8Oc9dm0d3Den_Abe) — 每月提醒你逐步检查银行、证券、邮箱等的安全设置，只给步骤和清单，不代为登录。 <sub>作者 [sapjp](https://x.com/sapjpx) (@sapjpx) · [出处](https://x.com/sapjpx/status/2108766268497248342)</sub>
+- [メルマガ整理ボット](https://x.ai/bot/bUhYvfA8mzvTSEWMpcTEO) — 把 Gmail 里堆积的邮件订阅、广告和招聘网站邮件找出来，只退订你选中的，重要邮件不会进候选。 <sub>作者 [豪](https://x.com/devpapago)</sub>
 - [메일 정리봇](https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO) — 每天早上短扫 Naver 邮箱和 Gmail，只把付款与安全风险摘要给你。 <sub>作者 [초코넛밀크티](https://x.com/choko_milkty) · [出处](https://x.com/choko_milkty/status/2100463896079544573)</sub>
 - [행사 참석 확인 폼 메이커](https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi) — 为活动主办方在 grok.me 生成报名确认表，提交进邮箱并附手机可扫二维码。 <sub>作者 [Brandon](https://x.com/brandonchung75) (@head77x) · [出处](https://x.com/brandonchung75/status/2106535957382197673)</sub>
 - [💼 CoS](https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D) — 把你的 Bot 席位、日历和收件箱，收进同一套工作日节奏。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · [出处](https://x.com/theaaron/status/2094547674766929996)</sub>

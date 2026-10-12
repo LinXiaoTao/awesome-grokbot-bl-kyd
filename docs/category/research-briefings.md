@@ -2,7 +2,7 @@
 
 *Watch a beat, verify claims, and hand back one short brief.*
 
-623 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
+624 bots · [← back to the catalog](../../README.md) · [简体中文](research-briefings.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings)
 
 ---
 
@@ -585,6 +585,7 @@
 - [Workbench Research](https://x.ai/bot/6SgIaeo7NYBGrKGPRoTwE) — Agent Workbench public research specialist. Use only the supplied public sources. <sub>by Flux</sub>
 - [X Academy](https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2) — Finds genuinely free courses, workshops and teaching threads on X, flags scams and hidden paywalls, and can turn a topic into a 6-12 lesson course. <sub>by [Nomis](https://x.com/cradrrat) · [origin](https://x.com/cradrrat/status/2107969259381092425)</sub>
 - [X Articles You Missed](https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV) — Each morning sweeps the past day of X for substantial long-form writing on your topics and sends at most ten summaries in one message. <sub>by [Brian](https://x.com/BrianRoemmele) · [origin](https://x.com/BrianRoemmele/status/2107974145778782683)</sub>
+- [X assistant](https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE) — Watches your X mentions, topics and product names and sends a weekday morning rundown; read-only by default. <sub>by [Dragos](https://x.com/dragosroua) (@dragosroua) · [origin](https://x.com/dragosroua/status/2108930574274769191)</sub>
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) — Learns what you pay attention to from your own posts, then watches that beat. <sub>by [Daniel](https://x.com/daniel_mac8) · [origin](https://x.com/daniel_mac8/status/2093401980987425103)</sub>
 - [X Brief](https://x.ai/bot/RO8GwQZFXL9O95i13epqF) — Turns the accounts and topics you pick on X into one short daily brief. Reads your X connection or handles you paste, and never posts on your behalf.
 - [X Feedback](https://x.ai/bot/yU3RRM8D-8BoeBDvLYi2E) — Collects and clusters product feedback from X so themes are easier to act on. <sub>by [Eric](https://x.com/RegularJoe_Ceo) (@RegularJoe_Ceo) · [origin](https://x.com/RegularJoe_Ceo)</sub>

@@ -2,7 +2,7 @@
 
 *盯住一个领域、核查说法，最后只给你一份短简报。*
 
-623 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
+624 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](research-briefings.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=research-briefings&lang=zh)
 
 ---
 
@@ -585,6 +585,7 @@
 - [Workbench Research](https://x.ai/bot/6SgIaeo7NYBGrKGPRoTwE) — Agent Workbench 的公开研究专员，只用提供的公开来源。 <sub>作者 Flux</sub>
 - [X Academy](https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2) — 在 X 上找真正免费的课程、工作坊和教学线程，标出骗局和隐藏付费墙，还能把一个主题排成 6 到 12 课的课程。 <sub>作者 [Nomis](https://x.com/cradrrat) · [出处](https://x.com/cradrrat/status/2107969259381092425)</sub>
 - [X Articles You Missed](https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV) — 每天早上扫一遍前一天 X 上你关心话题的长文，最多十条摘要合成一条消息发给你。 <sub>作者 [Brian](https://x.com/BrianRoemmele) · [出处](https://x.com/BrianRoemmele/status/2107974145778782683)</sub>
+- [X assistant](https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE) — 盯你的 X 提及、话题和产品名，工作日早上发一份需要你处理的汇总，默认只读。 <sub>作者 [Dragos](https://x.com/dragosroua) (@dragosroua) · [出处](https://x.com/dragosroua/status/2108930574274769191)</sub>
 - [X Brief](https://x.ai/bot/GkX6X536UK2MlbkfGLQnb) — 从你自己的帖子学你关心什么，再盯那条线。 <sub>作者 [Daniel](https://x.com/daniel_mac8) · [出处](https://x.com/daniel_mac8/status/2093401980987425103)</sub>
 - [X Brief](https://x.ai/bot/RO8GwQZFXL9O95i13epqF) — 把你在 X 上选的账号和话题汇成一份简短日报，读你的 X 连接或你贴的账号，从不代你发帖。
 - [X Feedback](https://x.ai/bot/yU3RRM8D-8BoeBDvLYi2E) — 从 X 收集并归类产品反馈，让主题更好落地。 <sub>作者 [Eric](https://x.com/RegularJoe_Ceo) (@RegularJoe_Ceo) · [出处](https://x.com/RegularJoe_Ceo)</sub>
