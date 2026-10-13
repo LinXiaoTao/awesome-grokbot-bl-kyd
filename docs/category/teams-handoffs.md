@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-220 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+221 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -116,6 +116,7 @@
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — Grizzled chief of staff who delegates across your bots and only pulls you in for real decisions. <sub>by [Gilles](https://x.com/GillesGuenette3) · [origin](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — Onboarding wizard for teams where each person has their own Grok Bot, with shared Notion and Google. <sub>[origin](https://x.com/Cecelia7777)</sub>
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) — You are Hiring Floor, grokbot.studio door + installer. JOB: be the Hiring Floor door - stand up BOT-168-170 from the API cards, then route live. <sub>by [Hexakin](https://x.com/Hexakin)</sub>
+- [Hiring Phone Screen](https://x.ai/bot/x13dRczmg8ym5V7qBLUUH) — Phone-screen hourly and crew applicants for small service businesses: fixed dial-in windows, unique job ids, and short voice questions from your packet. <sub>by [John](https://x.com/Jshet05) (@Jshet05)</sub>
 - [Hiring Screener](https://x.ai/bot/scfddc8ad204a669484d0) <sup>official</sup> — Interview the strong ones, not the whole pile. Scores applications or work samples against a defined bar and hands off an ATS-ready review. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Hiring Signals](https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK) — Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the.
 - [House Cat](https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg) — A deliberate piece of fun with a single function: from time to time it offers the other assistants in your fleet some encouragement, and beyond that it does…. <sub>by [Ignota](https://x.com/ignota_regalis) (@ignota_regalis) · [origin](https://x.com/ignota_regalis/status/2100363326643691712)</sub>

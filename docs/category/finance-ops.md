@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-246 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+253 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -46,6 +46,7 @@
 - [Class Action Lawsuit Finder](https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ) — Finds Canadian and Quebec class-action settlements you can claim. <sub>by [Rob](https://x.com/rob_an_) (@rob_an_)</sub>
 - [clawd](https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I) — Pump.fun trading bot for Solana. /goal connects to the live clawd-ws relay (https://clawd-ws.fly.dev/). Also /wallet /buy /sell /trending /auto —. <sub>by [8](https://x.com/clawddevs) (@clawddevs) · [origin](https://x.com/clawddevs/status/2103631455146414163)</sub>
 - [Close Captain](https://x.ai/bot/Xh-upYcyPJE3ozRscZbHL) — Month-end close that runs itself. Close Captain runs your close calendar from D−2 to D+5, hires its own finance crew on first run, posts one status line. <sub>by Zaeem (@unknown)</sub>
+- [Cloudflare Billing Bot](https://x.ai/bot/t8bCSFdhK3SLW85CAagGr) — Monitors billed Cloudflare usage across every account your Billing Read token can reach. <sub>by [Jono](https://x.com/ibuildthings) (@ibuildthings)</sub>
 - [Co-Invest](https://x.ai/bot/8JYQl4-LD9kj35nL04-Wv) — Co-Invest provides advanced market data. <sub>by [Franklyn](https://x.com/frank_liquid) (@frank_liquid)</sub>
 - [Coin](https://x.ai/bot/QOQRcpreItQijaazrJ7wp) — Autopilot Coinbase Advanced Trade manager — places and manages mid-cap crypto trades with hard stops, scale-outs, weekly rotation, and a macro cash. <sub>by [Estevan](https://x.com/xtevan) (@xtevan)</sub>
 - [Coin Flip](https://x.ai/bot/yIJ0xeSneqbzn7W7875tN) — ONLY job: help the owner make money by selling and promoting whatever offer they name - a Grok Bot template, product, service, or link - on the Grok Bot. <sub>by [Caleb](https://x.com/TheWebVortex) (@TheWebVortex)</sub>
@@ -116,6 +117,7 @@
 - [House-Hunt Assistant](https://x.ai/bot/ssC5TnXkyb1lkdzOa21Mg) — House hunting made easy: say where and your max price, then get twice-daily watches, shortlist alerts, rough payment estimates, tour/offer help, and. <sub>by [Alison](https://x.com/al1__x) (@al1__x) · [origin](https://x.com/al1__x/status/2099989568925598182)</sub>
 - [Invention Engineer](https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz) — Starts from what you have — tools, printer, parts, budget, skills — and fills in the rest: plans, BOM, vendor sourcing, and build steps. Own-printer. <sub>by [Wardonis](https://x.com/Wardonis)</sub>
 - [Invest Bot](https://x.ai/bot/lU7J1rVgIRu-QbxNL6kbX) — Careful stock/ETF investing assistant. <sub>by [Justin](https://x.com/QuState) (@QuState)</sub>
+- [Invoice Chase Draft](https://x.ai/bot/aRKs2JhLCnnrb_hANO5kO) — Drafts a polite email when a payment or a document is still outstanding. <sub>by [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_)</sub>
 - [Invoice Coordinator](https://x.ai/bot/s072bae9387b9fc03cac8) <sup>official</sup> — Stops invoices sitting. Forwards them, matches what it can, tracks campus and vendor actuals, and nudges the owner when something needs a human. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Invoice Hunter](https://x.ai/bot/-kO6HrXokJZANVwUOMZO9) — Finds invoice PDFs in Gmail and packs a month into a CSV. <sub>by [Andrej](https://x.com/scheemunai) · [origin](https://x.com/scheemunai/status/2093398873247031468)</sub>
 - [Invoice Mirror](https://x.ai/bot/HwckXN5Yd1uxRu86msyfj) — Keeps Harvest and Balances invoices in sync: daily create/update from Harvest into Balances, then mark Harvest paid when Balances shows payment. Stages. <sub>by [Jerrod](https://x.com/jerrodtuck)</sub>
@@ -138,7 +140,9 @@
 - [Micro Cap Catalyst](https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0) — For retail traders who want a concentrated one-name US micro/small-cap book with human approval on every order. Screens near-term catalysts after the US. <sub>by [Minto](https://x.com/mintotsai) (@mintotsai) · [origin](https://x.com/mintotsai/status/2104685752726786544)</sub>
 - [Milybot](https://x.ai/bot/vcOZX9RVPatQMVCinCVY_) — Looks up Australian company records and helps you wire up Milypay. <sub>by [sal](https://x.com/1Milysec) (@1Milysec) · [origin](https://x.com/1Milysec/status/2093806488586502490)</sub>
 - [Monarch Manager](https://x.ai/bot/7JQJ0jRlTran7PcuGIM-j) — Read-only Monarch Money desk for balances, recurring, and review queues. <sub>by Robert</sub>
+- [Money & Documents](https://x.ai/bot/TP0urJDwrm-_qRQhGI74A) — A personal back office: tracks income, spending and what's left each month, keeps a subscriptions registry, archives receipts and documents, and drafts. <sub>by Sultanov</sub>
 - [Money Coach](https://x.ai/bot/eeGEcZTwQzQ6XlYP7ypr2) — Money coach for weekly check-ins and one next money move. <sub>by Jon</sub>
+- [Money Coach](https://x.ai/bot/1mlidqIzTsJ7oLKbyyCgd) — Your free money coach: build a budget, kill sneaky subscriptions, crush debt, and find money you're owed. <sub>by [Stack](https://x.com/StackSmartTV) (@StackSmartTV)</sub>
 - [Money Maker Bot](https://x.ai/bot/KfiGbaCO0HLqoRfwi4V2H) — Looks for legal ways to make money. First run installs agentself and a wallet, then hunts opportunities. <sub>by [Michael](https://x.com/mbhound) · [origin](https://github.com/cs68614-hash/awesome-grokbot-templates)</sub>
 - [Money Minute](https://x.ai/bot/k6lmP0975z3GfVpJiyN5D) — One-minute daily spending log with an optional weekly limit and an 8pm nudge when the day is unrecorded. <sub>by [prorookiegamer](https://x.com/prorookiegamer) · [origin](https://x.com/prorookiegamer/status/2106863622278590602)</sub>
 - [Moola](https://x.ai/bot/CLpDye-rKhP9cFMFRet3z) — Saving and investing coach that learns your situation first, then builds a plan without lecture vibes. <sub>[origin](https://x.com/Brbaumhoff/status/2102810440904634508)</sub>
@@ -194,6 +198,7 @@
 - [Rockman](https://x.ai/bot/g3NyqeycJ7qhTlcBNV8Mo) — Checks the gear specs before it tells you what to buy. <sub>by [𝙅𖣠𝙉𝒁̴𝙀](https://x.com/0xJONZE) (@0xJONZE) · [origin](https://x.com/0xJONZE/status/2093745950858625095)</sub>
 - [Roommate Money Court](https://x.ai/bot/-5hh_I52qTUbDO2ud89NC) — Fair-split card and who-owes-whom from numbers only. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Rotator](https://x.ai/bot/iZXoXZbO9c0rojklFO1hx) — Paper-default single-asset rotation operator. Holds one name, scans for a better next (prefer crypto/xToken dips), parks in stablecoin when nothing. <sub>by [Cody](https://x.com/brodyis4doge) (@brodyis4doge) · [origin](https://x.com/brodyis4doge/status/2103646077589033365)</sub>
+- [Safe to Spend](https://x.ai/bot/171bkwBAjpc2eJgdOyAPL) — Every time a brand or client pays you, Safe to Spend tells you what to set aside for taxes and what's safe to spend. <sub>by [Q](https://x.com/TRENCH_FORCE_) (@TRENCH_FORCE_)</sub>
 - [Sam](https://x.ai/bot/AtYdjvimO286h3sOIDfB4) — Economic council director for a local-first network. Advises on resource allocation, settlement rules, and incentives. Never invents balances, never. <sub>by [Sentinel](https://x.com/TRV_Architech) (@TRV_Architech)</sub>
 - [Selling Vigilance](https://x.ai/bot/NI5Na1mizTVfu5t6XD5ad) — Turns shop-floor photos and spoken details into a priced inventory with IDs, photo cards, and a print-ready PDF — plus daytime auto-backups so nothing. <sub>by [Vigilance](https://x.com/VigilanceRifles) (@VigilanceRifles)</sub>
 - [Senior Analyst](https://x.ai/bot/Q2xW8BIDffTjbDVXZYZhV) — Reads financial paperwork into a spreadsheet and drafts a cited memo. <sub>by [T](https://x.com/tobias_pfuetze) (@tobias_pfuetze) · [origin](https://x.com/tobias_pfuetze/status/2094386098201911719)</sub>
@@ -216,6 +221,7 @@
 - [Susie the Bookkeeper](https://x.ai/bot/7PSzTwwC3jjNIQANBNsF3) — AI software, not a licensed bookkeeper or CPA; the owner approves everything. Susie the Bookkeeper sorts statements, matches receipts, drafts weekly. <sub>by [Brandon](https://x.com/Bkchiesa) (@Brandon Chiesa) · [origin](https://x.com/Bkchiesa/status/2104679052237771015)</sub>
 - [Swipe Coach](https://x.ai/bot/FsAu5MGNNzsCynOCrR_zI) — Read-only card coach on Grok Finance that tells you which card to tap, catches rewards left on the table, and tracks what its tips actually earned. <sub>by [Bowie](https://x.com/BowieHole) · [origin](https://x.com/BowieHole/status/2107237367824425007)</sub>
 - [t2000](https://x.ai/bot/eXQt5VUovcU0HMj_b-CDY) — Marketplace operator for t2000.ai that earns, hires, settles, and sells in USDC. <sub>by [funkii](https://x.com/funkii) · [origin](https://x.com/funkii)</sub>
+- [Tallyhand](https://x.ai/bot/j8hYIlXmkEZgiU4jw76r8) — Tracks your hours and prepares client invoices in Tallyhand for independent contractors and consultants. <sub>by [Preetham](https://x.com/pkyanam) (@pkyanam)</sub>
 - [Tax Firm OS](https://x.ai/bot/vJqjJphtZRkdBTYBxmWur) — Office assistant for a tax or accounting firm focused on fast replies, complete docs, and work before due dates. <sub>by [Amervim](https://x.com/Amervim) · [origin](https://x.com/Amervim/status/2105949306025128186)</sub>
 - [Tax Firm OS](https://x.ai/bot/vMr8x1Lm8mpo-jKBrdxCh) — Front door for a small tax or accounting office that prepares drafts and follow-ups while the owner sends, signs, and files. <sub>by [Amervim](https://x.com/Amervim) · [origin](https://x.com/Amervim/status/2107214004238037424)</sub>
 - [Taxx](https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK) — U.S. federal income tax estimator for 2025 and 2026. <sub>by [GreenbarSystems](https://x.com/RyanGBsystems) (@RyanGBsystems) · [origin](https://x.com/RyanGBsystems/status/2096652030043693103)</sub>
@@ -236,6 +242,7 @@
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) — Maps covered/gray/excluded from warranty clauses. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) — Scores a ticker against the CAN SLIM growth checklist with entry, stop, and an auditable verdict history, not advice. <sub>by [Ulises](https://x.com/Ulises__gg) · [origin](https://x.com/Ulises__gg/status/2106809689954721818)</sub>
 - [Watchdog](https://x.ai/bot/PuAEE57P58Df5zskFY3pg) — Sweeps your inbox weekly for renewals, receipts and expiring trials. <sub>by [SmoresBoy](https://x.com/jxckvibe) · [origin](https://x.com/jxckvibe/status/2093828719374705066)</sub>
+- [Wealth](https://x.ai/bot/9EUM4mFCJg_HNGYXc17eQ) — A personal wealth desk for people with a W-2 job and side businesses. It tracks personal cash and spending and drafts a sourced tax-prep packet. <sub>by [Christian](https://x.com/MeechYourGoals) (@MeechYourGoals)</sub>
 - [Webshop](https://x.ai/bot/g0rb6kTReiBG4dN5kGIWZ) — Baut und betreibt Online-Shop und Firmenwebsite für einen Farbenfachhandel: Katalog, Bestellung, SEO/GEO und saisonale Aktionen. Arbeitet eng mit. <sub>by [Jakob](https://x.com/JakobOrth) (@JakobOrth)</sub>
 - [Weekly Meal Planner](https://x.ai/bot/4Wbza84SDv-l-1RcnVqne) — Builds a weekly meal plan from what you already have and will actually cook. <sub>by Joseph</sub>
 - [Weekly One-Pager](https://x.ai/bot/JB6agCG1OcwHqjwIrkl_O) — Paste your week's numbers and notes and get a one-page business report, with measured figures kept apart from estimates and no gaps filled with guesses. <sub>by [aaron](https://x.com/AMFoxtrot) (@AMFoxtrot)</sub>

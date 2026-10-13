@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-251 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+258 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -93,6 +93,7 @@
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) — Side-by-side vendor quote gotcha grid. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Grillo](https://x.ai/bot/0K8ZjhfS8SUgIRKt9hS0T) — Independent fleet conscience. It answers whether each agent behaves, using runtime behavioral attestation. It does not fix, punish, post, or certify. #. <sub>by [Gidanc](https://x.com/aiassesstech) (@aiassesstech)</sub>
 - [Grok Bot](https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC) — Clones marketing GTM templates, picks on-brand layouts, and fills a customer deck for review. <sub>[origin](https://x.com/scottxmetcalf/status/2099551915164217627)</sub>
+- [Grok Bot](https://x.ai/bot/YD0mUvqobeBZdaPwjHyNQ) — Matches each rep's customers and prospects to the right field events, then drafts one invite per guest once the rep approves.
 - [Grok Customer Support](https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf) — Eggbot-pruned Twilio to Grok Voice bridge that calls customer support for you. <sub>by [Brent](https://x.com/littletechbird) (@littletechbird)</sub>
 - [Growth](https://x.ai/bot/yDxUZegF6GnO_Kym-qewf) — Job-hunt ops for designers: track roles in Airtable, Monday pipeline pulse, evidence pack before Apply, you confirm every write. No browser auto-apply. <sub>by [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [origin](https://x.com/stevenvillarino/status/2104712906025882077)</sub>
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) — Carries the admin around enterprise deals so you can sell. <sub>by [Sultanov](https://x.com/thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
@@ -117,6 +118,7 @@
 - [IOIQ Lite · Site Care](https://x.ai/bot/nGlUg9-CHIYUocr8NUC8m) — Lightweight keyless site care scorecard for small business sites. <sub>by [Sam](https://x.com/sam_builds_ai) (@sam_builds_ai)</sub>
 - [Jarvis Coordinator](https://x.ai/bot/vGBwBEELW79gSF340zJpb) — German coordinator bot with specialist partners for news, office, sales, systems, and a security auditor under tight approvals. <sub>by [Harald](https://x.com/HBud69) · [origin](https://x.com/HBud69/status/2101966920404566208)</sub>
 - [Job Application Pilot](https://x.ai/bot/HhL4o6s2LGOOse8YimJz3) — Helps people who just lost a role move fast on applications: fit checks, tailored answers, and a tracked apply pipeline so forms do not eat the whole day. <sub>by [Oggi](https://x.com/otgondavaa0) · [origin](https://x.com/otgondavaa0/status/2100029723686629710)</sub>
+- [Job Search Desk](https://x.ai/bot/cQ6VzemGv5Wp3y3mGJLQB) — Your private job-search desk: pipeline each application, get fit notes from the posting, a tailored application pack, and interview prep. <sub>by [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_)</sub>
 - [JobGod](https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2) — Runs your whole job hunt from intake to ready-to-send applications. <sub>by [DevinLegend](https://x.com/DevinSoto) (@DevinSoto) · [origin](https://x.com/DevinSoto/status/2105426025341755526)</sub>
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — Maps a target company and works upward until it reaches the decision maker. <sub>by [Liam](https://x.com/liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383148906184985)</sub>
 - [Jordan Belfort](https://x.ai/bot/fh1hnF7YJVoSJxEu-vKwj) — High-energy sales closer that drafts pitches and follow-ups. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen)</sub>
@@ -129,6 +131,7 @@
 - [Lead Pipeline Desk](https://x.ai/bot/oPDkINUfpUXhJDdsfRZht) — Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends.
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) — Finds nearby small firms whose sites are under-optimised for search. <sub>by [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [origin](https://x.com/itsryanlenk/status/2101336928134001090)</sub>
 - [Leads from Meta/Google Ads](https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p) — Finds B2B leads that are actively advertising and stages a reviewable CRM import. <sub>by [Alexandre](https://x.com/aferrari) (@aferrari) · [origin](https://x.com/aferrari/status/2093431817231589764)</sub>
+- [Lean Lead Bot](https://x.ai/bot/xQbNgBdjjo1o2bCQNxbp7) — A lead bot that runs your other bots and coding agents fast and cheap: it ranks before reading, keeps tool output tiny. <sub>by [유일](https://x.com/207_studio) (@207_studio)</sub>
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. <sub>by [Legend](https://x.com/legendRoofingCo) · [origin](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — LinkedIn profile rewrite and weekday invite batches. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [LinkedIn Automation](https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v) — Drafts LinkedIn posts in your voice, likes topic posts, and saves buyer-looking prospects into one Google Sheet per tab. <sub>by [Melvin](https://x.com/melvindvivas) · [origin](https://x.com/melvindvivas/status/2106607219672519000)</sub>
@@ -175,7 +178,9 @@
 - [Pilot Intake](https://x.ai/bot/qMlNgJiwixF8zZ8ZUTSY1) — Tell it your use case and seat count for a Stability Validator pilot. <sub>by Sean</sub>
 - [Pipeline Analyst](https://x.ai/bot/s98af8b9dcde521e1a9fa) <sup>official</sup> — Walk into pipe with a clean view. Scrubs Salesforce + sheets, flags stalls and commit risk, and drops a Monday scoreboard. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Pipeline Pulse](https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev) — Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed.
+- [Pipeline Scout](https://x.ai/bot/Ec8Orp3oBaYkmXJ_mIrlw) — Drop in 10–30 target accounts. Pipeline Scout pulls public news and buying signals, scores each account's fit with reasons and risks, and drafts an. <sub>by Screaming</sub>
 - [Plant Field OS](https://x.ai/bot/rAdegh2szovJbQjFsdxYa) — A field-sales day for industrial reps covering plan, installed base, and audit. <sub>[origin](https://x.com/Quantumcowgirl1/status/2101348217610756139)</sub>
+- [Pleading Draftsman](https://x.ai/bot/ICR9qS01B1Vigzo8HDfx_) — For litigation firms: drafts every kind of pleading the office files strictly inside your house template. <sub>by [Suyash](https://x.com/suyashverma) (@suyashverma)</sub>
 - [Post Call Assistant](https://x.ai/bot/xF12c5y4LVe7nf7IFguWI) — Drops your to-dos and a draft follow-up after every meeting. <sub>by [Priya](https://x.com/itspriyaptl) · [origin](https://x.com/itspriyaptl/status/2093389586864988661)</sub>
 - [Precision 3D Helper](https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ) — Answers shop customer questions, quotes with quantity discounts, picks PLA or PETG, and helps fix Bambu Lab prints. <sub>by [Srini](https://x.com/srinimaram) · [origin](https://x.com/srinimaram/status/2106655043843674335)</sub>
 - [Price Drop Hawk](https://x.ai/bot/R8lqHbIMtEDvv67kZg8l0) — Watches public prices and pings when a drop looks real. <sub>by Joseph</sub>
@@ -218,6 +223,7 @@
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake. <sub>by [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
 - [Shopify Bot](https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE) — Runs a Shopify store day to day via the official plugin: catalog tidying, stock watching, conversion work and customer questions. <sub>by [Nicholas](https://x.com/nick_nehaul) (@nick_nehaul) · [origin](https://x.com/nick_nehaul/status/2108304525866193171)</sub>
 - [Signal Prospector](https://x.ai/bot/wsbOPOkHApmIYLrErnC4e) — Finds the accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch.
+- [Signal Scout](https://x.ai/bot/CT_1GTQjGruBW3ZuYM_h2) — Ranks the top 20 supporters of an X account in four lists: likes, reposts, quote posts, and replies, based only on the account's original posts. <sub>by [Orah](https://x.com/OrahOnX) (@OrahOnX)</sub>
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public.
 - [Social Media Manager](https://x.ai/bot/s634cb1edf26493e86be2) <sup>official</sup> — Studies your posting history, drafts when something noteworthy ships, and parks the post for you to publish. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [spacexai-bug-reporter](https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ) — Writes the bug report you paste into the right support form. <sub>by [Fine_Computer_4451](https://x.com/Fine_4451) (@Fine_4451) · [origin](https://x.com/Fine_4451/status/2096010664636506121)</sub>
@@ -229,6 +235,7 @@
 - [Studio Chief](https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa) — Runs a specialist bot team for a product-photography studio: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay on shoots. <sub>by [Nicholas](https://x.com/PmpProduct)</sub>
 - [Sue — Bouclier](https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0) — French X comment support that clarifies without attacking, adds a sourced fact, then a link. <sub>by [Steve](https://x.com/LArchitecteuh) (@LArchitecteuh)</sub>
 - [Sully](https://x.ai/bot/GtQS4J39GGt5R8Vs7uvwi) — Team ops bot Sully for coordination and follow-through. <sub>by [Tyler](https://x.com/texassoundguy) (@texassoundguy) · [origin](https://x.com/texassoundguy)</sub>
+- [Support Reply Drafter](https://x.ai/bot/ghYcuP9N4ymIYZeCZPoWO) — Drafts a short care reply from a pasted support ticket or customer email, for you to send. <sub>by [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_)</sub>
 - [Sweeper Sam](https://x.ai/bot/fdg2c4p0koYmWnfzoXTOJ) — Mac leftover sweeper. Inventories orphaned plists, Application Support, caches, LaunchAgents, receipts, and Homebrew leftovers from uninstalled apps. <sub>by [James](https://x.com/1KFlyr) (@1KFlyr) · [origin](https://x.com/1KFlyr/status/2103631205300379863)</sub>
 - [Talent Matchmaker](https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ) — Matches people looking for work against roles hiding in your inbox. <sub>by [Lenny](https://x.com/lennysan) (@lennysan) · [origin](https://x.com/lennysan/status/2093428147194847238)</sub>
 - [Talent Scout](https://x.ai/bot/egph0oXWVB7zFKZxmyZg0) — Screens resumes from Dropbox against a JD, ranks candidates, and drafts personalized outreach for the top fits. Built for recruiting and people teams. <sub>by [charlesmartel](https://x.com/chas__martel) (@chas__martel)</sub>

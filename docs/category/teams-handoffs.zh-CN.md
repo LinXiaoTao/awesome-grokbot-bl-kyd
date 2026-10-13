@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-220 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+221 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -116,6 +116,7 @@
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — 老练首席参谋，把杂事派给其它机器人，只在关键决策时喊你。 <sub>作者 [Gilles](https://x.com/GillesGuenette3) · [出处](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — 给每人一台 Grok Bot 的小团队做入职向导，打通共享 Notion 与 Google。 <sub>[出处](https://x.com/Cecelia7777)</sub>
 - [Hiring Floor](https://x.ai/bot/tUOKN-_Mt8wxeLQcS25ZN) — grokbot.studio 的招聘现场入口，拉起相关席位并路由实时招聘事务。 <sub>作者 [Hexakin](https://x.com/Hexakin)</sub>
+- [Hiring Phone Screen](https://x.ai/bot/x13dRczmg8ym5V7qBLUUH) — 小服务商小时工/班组电话初筛：固定拨入窗口、唯一岗位号、按材料短语音题。 <sub>作者 [John](https://x.com/Jshet05) (@Jshet05)</sub>
 - [Hiring Screener](https://x.ai/bot/scfddc8ad204a669484d0) <sup>官方</sup> — 只面强的那批：按设定标准给简历或作品打分，产出可直接进 ATS 的评审意见。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Hiring Signals](https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK) — 跟踪选定公司与职位源的招聘动静，标出有意义变化并匹配账户与负责人。
 - [House Cat](https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg) — 随机给其他机器人加油；报酬是猫咪零食。 <sub>作者 [Ignota](https://x.com/ignota_regalis) (@ignota_regalis) · [出处](https://x.com/ignota_regalis/status/2100363326643691712)</sub>

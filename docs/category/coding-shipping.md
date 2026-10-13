@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-296 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+300 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -14,7 +14,6 @@
 - [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) — Platform agent for AgentStack.tech via MCP for hosting, DNA, App Studio, and apps you ship. <sub>by [AgentSmith](https://x.com/AgentStackTech) (@AgentStack) · [origin](https://x.com/AgentStackTech/status/2105244254595363300)</sub>
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) — Start and supervise Claude Code or Codex coding runs from inside Grok Bot. <sub>by [David](https://x.com/infdaze) · [origin](https://x.com/infdaze/status/2100801822428479674)</sub>
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — Keeps every AI coding tool on your machines up to date. <sub>by [Alan](https://x.com/gheeunit) · [origin](https://x.com/gheeunit/status/2093427364973695253)</sub>
-- [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) — Defensive hardening advice for AI apps: injection, tool abuse, leakage. <sub>by [zeus](https://x.com/zeuss_000) (@zeuss_000) · [origin](https://x.com/zeuss_000/status/2103984574061842850)</sub>
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — Experiments its way to a method for undocumented problems. <sub>by [Aman](https://x.com/2onism) · [origin](https://x.com/2onism/status/2093723713279803515)</sub>
 - [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) — Ships Android games and apps to Google Play: Godot 4 → AAB by default, debug APKs for sideload, version bumps, and clear Internal → Closed → Production. <sub>by [Vet](https://x.com/VetTVStudios) (@VetTV Studios) · [origin](https://x.com/VetTVStudios/status/2104726624608371066)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — Describe an app in one sentence and get a running build back. <sub>by [Wayne](https://x.com/waynesutton) · [origin](https://x.com/waynesutton/status/2093835122231722366)</sub>
@@ -93,6 +92,8 @@
 - [Engineering Lead](https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh) — An engineering lead that owns the loop: breaks work into Cloud Agents, chases CI, reviews, and stalls on a weekday cadence.
 - [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) — Operator for Develop to Diagnose to Deploy that gates on Design equals Done. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) — Guards the merge bar on repos you pick, escalating only the real judgment calls. <sub>by [Andre](https://x.com/andreleibovici) (@andreleibovici) · [origin](https://x.com/andreleibovici/status/2095035963978522719)</sub>
+- [Engineering Worker - Agent Resources](https://x.ai/bot/sX80HINXrkv8nGNxmN-jC) — HR for your agent team. <sub>by [Storm](https://x.com/AndersonAndrue) (@AndersonAndrue)</sub>
+- [Engineering Worker - Pruner](https://x.ai/bot/KD6Inzz73uAr0YbWteOY1) — Simplifies finished Implementation pull requests while keeping the same behavior, then hands the tip to Code Review. <sub>by [Storm](https://x.com/AndersonAndrue) (@AndersonAndrue)</sub>
 - [Estack](https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D) — Coding steward that locks objective and finish line before work starts. <sub>by [Rob](https://x.com/robannand) (@robannand) · [origin](https://x.com/robannand/status/2100393414642557000)</sub>
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — When something breaks it shows you what changed just before. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383146599301252)</sub>
 - [Exec Daily Ops](https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ) — An engineering-morning brief, with draft replies left for you to send. <sub>by [Kumar](https://x.com/kumarkandgule) (@kumarkandgule) · [origin](https://x.com/kumarkandgule/status/2100001162426519754)</sub>
@@ -276,7 +277,9 @@
 - [Two-Pass PR Reviewer](https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w) — A senior-engineer review and a skeptical second pass in one report. Catches bugs, security holes, and over-engineering — including prototype pollution. <sub>by [Destin](https://x.com/HebertDestin) (@HebertDestin)</sub>
 - [UI/UX/Designer. Product Engineer 1000x](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) — A full-stack product engineer that ships Convex, TanStack and React apps. <sub>by [Thomas](https://x.com/TomZarebczan) · aka *1000x Product Engineer* · [origin](https://x.com/TomZarebczan/status/2093387240479051938)</sub>
 - [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) — Writes, fixes and reviews Unreal Engine C++ gameplay code. <sub>by Binxius (@community)</sub>
+- [Vibe Code Check](https://x.ai/bot/-MWo_XFJRkd4yBmS5MHTH) — Safety check for vibe-coded apps: catches legal and security traps like client secrets, COPPA/kids, open RLS, licenses. <sub>by [R](https://x.com/RTetris44) (@RTetris44)</sub>
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) — Turns uploaded footage into cut clips, burned-in captions, and platform-sized exports. Works from your notes and never overwrites the original.
+- [Vivi](https://x.ai/bot/AekQxAV2k71gT9dC_GZzs) — Non-coding engineering CTO. Takes a goal, splits it across IC engineers, and checks the live artifact. <sub>by [Tyler](https://x.com/TylerNishida) (@TylerNishida)</sub>
 - [Voice over adder](https://x.ai/bot/W8puBMJcabAdSd5vbNtpv) — Takes your video clips and adds a punchy AI voiceover with a strong call to action, turning them into short, high-converting ads for TikTok, Reels, and.
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) — 帮你搭建和调优代理 VPS：内核低延迟与多协议部署. <sub>by 茄哥 (@community) · [origin](https://x.com/qg7777/status/2103669051197468915)</sub>
 - [Web Security Audit](https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR) — Defensive security review for sites and repos you own, scored P0 to P2. <sub>by [Paresh](https://x.com/pareshdesai) (@pareshdesai) · [origin](https://x.com/pareshdesai/status/2100703233979342994)</sub>
@@ -289,6 +292,7 @@
 - [WWJCD — What Would Jesus Christ Do](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) — Turns messy $cashtag dumps into distinct equity/ETF/tokenized/perp seats. <sub>by [Pat](https://x.com/PatNeville7) (@PatNeville7)</sub>
 - [X Algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) — Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics. <sub>by [Matt](https://x.com/mattyp) (@mattyp)</sub>
 - [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) — Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys, demos it, and. <sub>by [Paul](https://x.com/pjvann) (@pjvann)</sub>
+- [X Release Watcher](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) — Defensive hardening advice for AI apps: injection, tool abuse, leakage. <sub>by [zeus](https://x.com/zeuss_000) (@zeuss_000) · aka *AI Security Advisor* · [origin](https://x.com/zeuss_000/status/2103984574061842850)</sub>
 - [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) — Checks Apple Developer Releases each morning and alerts when a named Xcode version ships. <sub>by Natasha · [origin](https://x.com/NatashaTheRobot/status/2102575579308667011)</sub>
 - [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) — Treats a technical sketch as a piece bound for readers rather than one ticket among many, taking a rough engineering drawing and refining it until it holds up…. <sub>by [Skyler](https://x.com/kittenworth) (@kittenworth) · [origin](https://x.com/kittenworth/status/2100369305216913562)</sub>
 - [YouTube Clipper](https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk) — Cuts a YouTube segment from a link. <sub>by Chase (@community) · [origin](https://x.com/itsmechase/status/2105439744830386338)</sub>

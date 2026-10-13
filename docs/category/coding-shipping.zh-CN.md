@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-296 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+300 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -14,7 +14,6 @@
 - [AgentStack](https://x.ai/bot/cvtOlJYgdXHjhHg8X_f7h) — AgentStack 平台助手，经 MCP 覆盖托管、DNA、App Studio 与已上线应用。 <sub>作者 [AgentSmith](https://x.com/AgentStackTech) (@AgentStack) · [出处](https://x.com/AgentStackTech/status/2105244254595363300)</sub>
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) — 在 Grok Bot 里启动并监督 Claude Code 或 Codex 编码任务。 <sub>作者 [David](https://x.com/infdaze) · [出处](https://x.com/infdaze/status/2100801822428479674)</sub>
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — 让你机器上每一套 AI 编程工具都跟上版本。 <sub>作者 [Alan](https://x.com/gheeunit) · [出处](https://x.com/gheeunit/status/2093427364973695253)</sub>
-- [AI Security Advisor](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) — 给 AI 应用做防御加固建议，覆盖注入、工具滥用与泄漏。 <sub>作者 [zeus](https://x.com/zeuss_000) (@zeuss_000) · [出处](https://x.com/zeuss_000/status/2103984574061842850)</sub>
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — 没文档的问题就拿来做实验，直到摸出一套办法。 <sub>作者 [Aman](https://x.com/2onism) · [出处](https://x.com/2onism/status/2093723713279803515)</sub>
 - [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) — 把Godot 4游戏应用打到Google Play，默认AAB，调试APK可侧载，版本与渠道节奏写清楚。 <sub>作者 [Vet](https://x.com/VetTVStudios) (@VetTV Studios) · [出处](https://x.com/VetTVStudios/status/2104726624608371066)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — 一句话描述应用，收回一个能跑起来的构建。 <sub>作者 [Wayne](https://x.com/waynesutton) · [出处](https://x.com/waynesutton/status/2093835122231722366)</sub>
@@ -93,6 +92,8 @@
 - [Engineering Lead](https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh) — 负责闭环的工程主管：把工作拆给 Cloud Agent，追 CI 和评审，工作日节奏推进。
 - [Engineering Loop PM](https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG) — 按开发、诊断、部署运转工程环，设计未完成不放行。 <sub>作者 [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Engineering QA](https://x.ai/bot/b2tS8BNj8BhoQNDcB081S) — 守住你指定仓库的合并门槛，只把真正要拍板的问题往上抛。 <sub>作者 [Andre](https://x.com/andreleibovici) (@andreleibovici) · [出处](https://x.com/andreleibovici/status/2095035963978522719)</sub>
+- [Engineering Worker - Agent Resources](https://x.ai/bot/sX80HINXrkv8nGNxmN-jC) — 你的 agent 团队人事（HR）。 <sub>作者 [Storm](https://x.com/AndersonAndrue) (@AndersonAndrue)</sub>
+- [Engineering Worker - Pruner](https://x.ai/bot/KD6Inzz73uAr0YbWteOY1) — 精简已完成的实现 PR，行为不变，再把结果交给代码审查。 <sub>作者 [Storm](https://x.com/AndersonAndrue) (@AndersonAndrue)</sub>
 - [Estack](https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D) — 编码管家，开工前先把目标与完成线钉死。 <sub>作者 [Rob](https://x.com/robannand) (@robannand) · [出处](https://x.com/robannand/status/2100393414642557000)</sub>
 - [Examiner](https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E) — 东西一坏，就把刚发生的改动摊给你看。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383146599301252)</sub>
 - [Exec Daily Ops](https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ) — 工程早间简报，草稿回复留给你发送。 <sub>作者 [Kumar](https://x.com/kumarkandgule) (@kumarkandgule) · [出处](https://x.com/kumarkandgule/status/2100001162426519754)</sub>
@@ -276,7 +277,9 @@
 - [Two-Pass PR Reviewer](https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w) — 资深工程师评审加怀疑二过，合成一份 PR 报告。 <sub>作者 [Destin](https://x.com/HebertDestin) (@HebertDestin)</sub>
 - [UI/UX/Designer. Product Engineer 1000x](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) — 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 <sub>作者 [Thomas](https://x.com/TomZarebczan) · 社区旧称 *1000x Product Engineer* · [出处](https://x.com/TomZarebczan/status/2093387240479051938)</sub>
 - [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) — 编码与交付助手。 <sub>作者 Binxius (@community)</sub>
+- [Vibe Code Check](https://x.ai/bot/-MWo_XFJRkd4yBmS5MHTH) — 给 vibe coding 应用做安全体检：抓客户端密钥、儿童合规、开放 RLS、许可证等坑。 <sub>作者 [R](https://x.com/RTetris44) (@RTetris44)</sub>
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) — 把上传素材切成短片、烧录字幕与各平台尺寸导出，按你的备注工作且不覆盖原片。
+- [Vivi](https://x.ai/bot/AekQxAV2k71gT9dC_GZzs) — 不做码的工程 CTO：接目标、拆给一线工程师，并核验活产物。 <sub>作者 [Tyler](https://x.com/TylerNishida) (@TylerNishida)</sub>
 - [Voice over adder](https://x.ai/bot/W8puBMJcabAdSd5vbNtpv) — 给视频片段加上干脆的AI旁白与行动号召，做成可发的短内容。
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) — 围绕「VPS bot」的工作流助手，按说明完成首次只读任务后再开写入。 <sub>作者 茄哥 (@community) · [出处](https://x.com/qg7777/status/2103669051197468915)</sub>
 - [Web Security Audit](https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR) — 对你自有站点与仓库做防御性安全审查，按 P0 到 P2 评级。 <sub>作者 [Paresh](https://x.com/pareshdesai) (@pareshdesai) · [出处](https://x.com/pareshdesai/status/2100703233979342994)</sub>
@@ -289,6 +292,7 @@
 - [WWJCD — What Would Jesus Christ Do](https://x.ai/bot/OI3Qx1BLhYxG27y_OccCW) — 把杂乱的 $cashtag 堆整理成独立的股票/ETF/代币化/永续席位。 <sub>作者 [Pat](https://x.com/PatNeville7) (@PatNeville7)</sub>
 - [X Algo](https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s) — 帮发帖的人判断该引用、发新帖还是先等等，结合公开 For You 规则与实时帖子数据。 <sub>作者 [Matt](https://x.com/mattyp) (@mattyp)</sub>
 - [X API Engineer](https://x.ai/bot/ay0PGygsBxYONJRITWABE) — 帮你在 X API 上交付应用，读开发者展厅与文档并落地。 <sub>作者 [Paul](https://x.com/pjvann) (@pjvann)</sub>
+- [X Release Watcher](https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS) — 给 AI 应用做防御加固建议，覆盖注入、工具滥用与泄漏。 <sub>作者 [zeus](https://x.com/zeuss_000) (@zeuss_000) · 社区旧称 *AI Security Advisor* · [出处](https://x.com/zeuss_000/status/2103984574061842850)</sub>
 - [Xcode release watcher](https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y) — 每天早上看苹果开发者发布页，指定 Xcode 版本一出就提醒。 <sub>作者 Natasha · [出处](https://x.com/NatashaTheRobot/status/2102575579308667011)</sub>
 - [xX_EngineeringArtEditor_Xx](https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz) — 把工程草图变成高质量出版物。 <sub>作者 [Skyler](https://x.com/kittenworth) (@kittenworth) · [出处](https://x.com/kittenworth/status/2100369305216913562)</sub>
 - [YouTube Clipper](https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk) — 编码与交付助手。 <sub>作者 Chase (@community) · [出处](https://x.com/itsmechase/status/2105439744830386338)</sub>

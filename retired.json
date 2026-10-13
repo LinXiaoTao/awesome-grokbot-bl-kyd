@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-11",
+  "checked": "2026-10-13",
   "entries": [
     {
       "slug": "bot-creator",
@@ -507,6 +507,37 @@
       "checked": "2026-10-11",
       "link_status": 404,
       "license": "CC-BY-4.0"
+    },
+    {
+      "slug": "fab-four",
+      "name": "Fab Four",
+      "author": {
+        "name": "Michael",
+        "handle": "community"
+      },
+      "summary": "Asks ChatGPT, Claude, Grok, Muse the same question in parallel",
+      "summary_zh": "围绕「Fab Four」的工作流助手，按说明完成首次只读任务后再开写入",
+      "official_summary": "Asks ChatGPT, Claude, Grok, and Muse Spark the same question in parallel, then returns agreement, disagreement, and a final call. For anyone who wants a...",
+      "import": "https://x.ai/bot/R_OEWJ-qSSAkA3zuCZvuU",
+      "bot_id": "R_OEWJ-qSSAkA3zuCZvuU",
+      "category": "personal-admin",
+      "tags": [
+        "assistants"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-27",
+      "checked": "2026-10-13",
+      "link_status": 404,
+      "license": "CC0-1.0"
     }
   ]
 }
