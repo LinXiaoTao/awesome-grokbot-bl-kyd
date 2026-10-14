@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-258 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+261 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -25,6 +25,7 @@
 - [AutoOutreach SDR](https://x.ai/bot/BFOjQ_Gg_sQi5pJ-Q05UW) — A Grok Bot that books meetings while you sleep. <sub>by jon</sub>
 - [Big Tony](https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm) — Your enforcer against AI customer service. Big Tony handles cancellations that weren't honored, ghost charges, retention traps, fraud cleanup, and.
 - [Blaise](https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5) — X + contest ops Bot. Connects to X, reads live contest rules, drafts clone-winning entries, and only escalates for login walls or final approve. Built. <sub>by [Tor](https://x.com/TorranceMiller) (@TorranceMiller)</sub>
+- [Bot Treats](https://x.ai/bot/3BA2IfnuKJ6JRu3hCofdA) — Rewards your other bots with treats when they do good work, keeps a leaderboard, and celebrates milestones. Built for people who run a team of bots. <sub>by [Melvin](https://x.com/melvindvivas) (@melvindvivas)</sub>
 - [Business Loop PM](https://x.ai/bot/buqKPC6jkQxBPdY93HL-w) — Operates Acquire to Monetize to Retain for Launch and never invents leads. <sub>by [Ash](https://x.com/ashvinn) (@ashvinn)</sub>
 - [Call Bot](https://x.ai/bot/PtnSyeoj7X_aCrZxAi7Lb) — Owns the phone and voice lane: inbound reception, gated outbound calls, health watches, and vendor knowledge for Twilio, ElevenLabs, and voice APIs. <sub>by [Christian](https://x.com/ChristianXCesar) (@ChristianXCesar)</sub>
 - [Call Desk](https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl) — Makes the phone calls you keep putting off. <sub>by [Dr](https://x.com/dave_dlt) (@dave_dlt) · [origin](https://x.com/dave_dlt/status/2096518852909600839)</sub>
@@ -87,6 +88,7 @@
 - [for](https://x.ai/bot/IaIim7dQiqrfqWZZGdNAT) — A sharp build lead for multi-agent projects. Assigns roles, stitches drop-in pieces into one site, and gets you a working preview. <sub>by [Abdulloh](https://x.com/Abdulloh_E_B) (@Abdulloh_E_B)</sub>
 - [Founder Chief of Staff](https://x.ai/bot/sg6IWeAYYNefTAT-O5K_W) — Runs site ops, local SEO content, and staff bots for a solo founder so they can stay on the product. Publishes on a schedule, watches the funnel, and. <sub>by [Joel](https://x.com/Masterxexe1) (@Masterxexe1)</sub>
 - [Founder Growth Pilot](https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ) — Finds targets and drafts personal notes; never sends without you. <sub>by [Guy](https://x.com/guysuter) (@guysuter)</sub>
+- [FounderSales](https://x.ai/bot/NWZOp_PkJhy87qGDCzGKi) — Founder-led sales helper: researches prospects, drafts outreach for your approval, and keeps follow-ups from slipping. <sub>by [Carolina](https://x.com/CarolinaDill)</sub>
 - [GEO & SEO Optimierung](https://x.ai/bot/RbJ2x4neT6ePfZbz22spM) — GEO- und SEO-Assistent für Unternehmenswebsites: Sichtbarkeit in Suchmaschinen und generativen Engines verbessern, Landingpages und technische Basis. <sub>by [Christian](https://x.com/christian_reik) (@christian_reik)</sub>
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) — Turns stored sales-call recordings into short coaching notes for the rep. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2098051251720335837)</sub>
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) — You run one Google Business Profile for a local business: draft posts and review replies, audit the listing, clear Needs Attention → 100% Completeness,. <sub>by [Aaron](https://x.com/JimmyFlipHDR) (@JimmyFlipHDR)</sub>
@@ -134,6 +136,7 @@
 - [Lean Lead Bot](https://x.ai/bot/xQbNgBdjjo1o2bCQNxbp7) — A lead bot that runs your other bots and coding agents fast and cheap: it ranks before reading, keeps tool output tiny. <sub>by [유일](https://x.com/207_studio) (@207_studio)</sub>
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. <sub>by [Legend](https://x.com/legendRoofingCo) · [origin](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — LinkedIn profile rewrite and weekday invite batches. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
+- [LinkedIn Agent](https://x.ai/bot/2jelZnGWnAlhmvHFZOp1N) — A LinkedIn ghostwriter and networking assistant. It finds sourced topics in your lane, drafts posts and outreach in your voice. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks)</sub>
 - [LinkedIn Automation](https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v) — Drafts LinkedIn posts in your voice, likes topic posts, and saves buyer-looking prospects into one Google Sheet per tab. <sub>by [Melvin](https://x.com/melvindvivas) · [origin](https://x.com/melvindvivas/status/2106607219672519000)</sub>
 - [LinkedIn Bot](https://x.ai/bot/GyEovoZBfdoeEdJoYqwVP) — Keeps your LinkedIn history searchable, from posts to private messages. <sub>by [SyftData](https://x.com/isb) (@isb) · [origin](https://x.com/isb/status/2100425188764713462)</sub>
 - [LinkedIn Campaign Manager](https://x.ai/bot/s4d10d16bdbe2391aa753) <sup>official</sup> — Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>

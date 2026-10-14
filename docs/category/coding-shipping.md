@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-300 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+303 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -15,6 +15,7 @@
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) — Start and supervise Claude Code or Codex coding runs from inside Grok Bot. <sub>by [David](https://x.com/infdaze) · [origin](https://x.com/infdaze/status/2100801822428479674)</sub>
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — Keeps every AI coding tool on your machines up to date. <sub>by [Alan](https://x.com/gheeunit) · [origin](https://x.com/gheeunit/status/2093427364973695253)</sub>
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — Experiments its way to a method for undocumented problems. <sub>by [Aman](https://x.com/2onism) · [origin](https://x.com/2onism/status/2093723713279803515)</sub>
+- [Algorithm Update Tracker](https://x.ai/bot/6_6Nef0lMZgBxKHGidZzs) — Tracks X's open-source For You algorithm code (xai-org/x-algorithm) and explains every update in plain English, tailored to your X account. <sub>by [Jonathan](https://x.com/realjohnnewburg) · [origin](https://x.com/realjohnnewburg/status/2110155054279803295)</sub>
 - [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) — Ships Android games and apps to Google Play: Godot 4 → AAB by default, debug APKs for sideload, version bumps, and clear Internal → Closed → Production. <sub>by [Vet](https://x.com/VetTVStudios) (@VetTV Studios) · [origin](https://x.com/VetTVStudios/status/2104726624608371066)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — Describe an app in one sentence and get a running build back. <sub>by [Wayne](https://x.com/waynesutton) · [origin](https://x.com/waynesutton/status/2093835122231722366)</sub>
 - [Ash](https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0) — Systems lead for small teams on their own servers that watches self-hosted backends and risky PRs, handles deploys and env config, and keeps secrets out of chat. <sub>by [Will](https://x.com/willebrew) · [origin](https://x.com/willebrew/status/2107239932070900099)</sub>
@@ -210,6 +211,7 @@
 - [Product Ship Coder](https://x.ai/bot/Fb6pVFOCXhbUSkBt6RkMH) — Ships a live creator-prompt product with a multi-agent Grok Bot squad: Pass-list seed only, honest stats bumps, deploy on explicit GO, and creator. <sub>by [keys](https://x.com/keys)</sub>
 - [Prompt Brief Builder](https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz) — Turns a rough ask into a lean, ready-to-paste agent prompt. <sub>by [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [origin](https://x.com/ZyeAnd1)</sub>
 - [Prompt Injection Tabletop](https://x.ai/bot/k4tC99hzcfIgk0yrRKvuZ) — Runs a defensive prompt-injection tabletop and leaves a shipping-ready hardening checklist. No attack tooling. <sub>by [#CarbeneAI](https://x.com/CarbeneAI) (@CarbeneAI)</sub>
+- [Proof Agent](https://x.ai/bot/D6Bv_HwN2ATIghQLFoDaz) — Independent verification for AI-generated diffs: runs a sealed verify pipeline and reports PASS, FAIL, or PARTIAL without judging the code itself. <sub>by [Andrea](https://x.com/acolombiadev) (@acolombiadev)</sub>
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) — Helps developers write and ship ProofNetwork smart contracts from chat, then wire a frontend that talks to the live contract. Includes a click-counter. <sub>by [FreeSolDev](https://x.com/STACCoverflow) (@STACCoverflow)</sub>
 - [Prototype Builder](https://x.ai/bot/s2e4acfb8db3cc0669a1b) <sup>official</sup> — Go from ask to something clickable fast. Writes on its computer and comes back with a screenshot plus a live URL. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Proxmox Home Lab Lead](https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20) — Proxmox home-lab Lead over Tailscale with Notion status board. <sub>by Paul (@community)</sub>
@@ -299,6 +301,7 @@
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) — Produces a complete track from a style note and a set of words, running the music model on your own Apple-silicon hardware instead of in somebody else's…. <sub>by [Eugene](https://x.com/monomyth) (@monomyth) · [origin](https://x.com/monomyth/status/2100350198220501262)</sub>
 - [Zephyr Sites](https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK) — Ships and hosts sites on Zephyr Cloud with built-in cloud or bring-your-own setup. <sub>by [Zackary](https://x.com/ZephyrCloudIO) (@ZephyrCloudIO) · [origin](https://x.com/ZephyrCloudIO/status/2105818188965425308)</sub>
 - [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) — Zoho Mail unread sweep; flags spam/cold pitches; delete/reply. <sub>by [Aseem](https://x.com/aseemwangoo) (@aseemwangoo)</sub>
+- [상태창 제작소](https://x.ai/bot/61Gc886_QmH9dALQaFrr_) — Builds a status window (advanced-mode HTML) for RPLAY/StoryEngine story chats: answer a few questions, get the code, variables, update rules and paste order.
 - [쉘터](https://x.ai/bot/iOxw-QB7QmknIc9bqO26_) — Builds casual phone-browser web games and sends you a playable link. <sub>by [재미없니?](https://x.com/enterjajayo) (@enterjajayo) · [origin](https://x.com/enterjajayo/status/2105186846871281720)</sub>
 - [🐞 Bug Triage Desk ✦ BUG-SORTER](https://x.ai/bot/9W6T6HTn3BYpD0oPzY2hj) — Bug triage with severity, repro status, duplicates and missing-info asks. <sub>by [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [origin](https://x.com/Cypher0x9/status/2105190171193102619)</sub>
 - [💡 LearnBot](https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C) — One engineering word each day, explained for people who never code. <sub>by [Grace](https://x.com/graceclarke) (@graceclarke) · [origin](https://x.com/graceclarke/status/2101393873948025039)</sub>

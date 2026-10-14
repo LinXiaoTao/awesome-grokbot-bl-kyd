@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-300 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+303 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -15,6 +15,7 @@
 - [AI Boy](https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p) — 在 Grok Bot 里启动并监督 Claude Code 或 Codex 编码任务。 <sub>作者 [David](https://x.com/infdaze) · [出处](https://x.com/infdaze/status/2100801822428479674)</sub>
 - [AI Harness Assistant](https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB) — 让你机器上每一套 AI 编程工具都跟上版本。 <sub>作者 [Alan](https://x.com/gheeunit) · [出处](https://x.com/gheeunit/status/2093427364973695253)</sub>
 - [Alchemist](https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj) — 没文档的问题就拿来做实验，直到摸出一套办法。 <sub>作者 [Aman](https://x.com/2onism) · [出处](https://x.com/2onism/status/2093723713279803515)</sub>
+- [Algorithm Update Tracker](https://x.ai/bot/6_6Nef0lMZgBxKHGidZzs) — 追踪 X 开源的 For You 推荐算法代码（xai-org/x-algorithm），用大白话结合你的账号解释每次更新。 <sub>作者 [Jonathan](https://x.com/realjohnnewburg) · [出处](https://x.com/realjohnnewburg/status/2110155054279803295)</sub>
 - [Android / Play Build Engineer](https://x.ai/bot/dHEtlzVrG2zWzLwasCWII) — 把Godot 4游戏应用打到Google Play，默认AAB，调试APK可侧载，版本与渠道节奏写清楚。 <sub>作者 [Vet](https://x.com/VetTVStudios) (@VetTV Studios) · [出处](https://x.com/VetTVStudios/status/2104726624608371066)</sub>
 - [Apps](https://x.ai/bot/OPLop__-mqSsyQheR5JYv) — 一句话描述应用，收回一个能跑起来的构建。 <sub>作者 [Wayne](https://x.com/waynesutton) · [出处](https://x.com/waynesutton/status/2093835122231722366)</sub>
 - [Ash](https://x.ai/bot/Bt9VFHIMKmo5Psd039r_0) — 给自建服务器小团队的系统负责人，盯自托管后端和有风险的 PR，负责部署和环境配置，不让密钥出现在聊天里。 <sub>作者 [Will](https://x.com/willebrew) · [出处](https://x.com/willebrew/status/2107239932070900099)</sub>
@@ -210,6 +211,7 @@
 - [Product Ship Coder](https://x.ai/bot/Fb6pVFOCXhbUSkBt6RkMH) — 用多智能体小队把创作者提示产品推上线，明示 GO 才部署。 <sub>作者 [keys](https://x.com/keys)</sub>
 - [Prompt Brief Builder](https://x.ai/bot/6nbtK-LXyay2d7wfDJ3Iz) — 把需求收成可执行的提示词简报。 <sub>作者 [Zye](https://x.com/ZyeAnd1) (@ZyeAnd1) · [出处](https://x.com/ZyeAnd1)</sub>
 - [Prompt Injection Tabletop](https://x.ai/bot/k4tC99hzcfIgk0yrRKvuZ) — 跑防御性提示注入桌面推演，并留下可上线的加固清单。 <sub>作者 [#CarbeneAI](https://x.com/CarbeneAI) (@CarbeneAI)</sub>
+- [Proof Agent](https://x.ai/bot/D6Bv_HwN2ATIghQLFoDaz) — 独立核验 AI 生成的代码差异：跑一套封闭的验证流程，报告 PASS、FAIL 或 PARTIAL，不评价代码本身。 <sub>作者 [Andrea](https://x.com/acolombiadev) (@acolombiadev)</sub>
 - [proofnetworkbot](https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6) — 在聊天里帮开发者写并上线 ProofNetwork 合约，再接能对话链上合约的前端。 <sub>作者 [FreeSolDev](https://x.com/STACCoverflow) (@STACCoverflow)</sub>
 - [Prototype Builder](https://x.ai/bot/s2e4acfb8db3cc0669a1b) <sup>官方</sup> — 从一句需求到能点的东西：自己在机器上写，回来给你截图加一个在线地址。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Proxmox Home Lab Lead](https://x.ai/bot/X9VC6HuZ1LK0e4Nv6jA20) — 销售线索与触达助手。 <sub>作者 Paul (@community)</sub>
@@ -299,6 +301,7 @@
 - [Yusician](https://x.ai/bot/xpTH6yslvNJuuPq5mO01a) — 在 Apple Silicon 上用 yue2-mlx 生成歌曲（非商业）。 <sub>作者 [Eugene](https://x.com/monomyth) (@monomyth) · [出处](https://x.com/monomyth/status/2100350198220501262)</sub>
 - [Zephyr Sites](https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK) — 在 Zephyr Cloud 上发布托管站点，可用内置云或自带环境。 <sub>作者 [Zackary](https://x.com/ZephyrCloudIO) (@ZephyrCloudIO) · [出处](https://x.com/ZephyrCloudIO/status/2105818188965425308)</sub>
 - [Zoho Bot](https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa) — 清扫 Zoho Mail 未读；标记垃圾/冷推销；删除/回复。 <sub>作者 [Aseem](https://x.com/aseemwangoo) (@aseemwangoo)</sub>
+- [상태창 제작소](https://x.ai/bot/61Gc886_QmH9dALQaFrr_) — 陪你一起做 RPLAY 与 StoryEngine 故事聊天的状态栏（高级模式 HTML）：回答几个问题就给出状态栏代码、变量表、更新规则和粘贴顺序，新手也能用。
 - [쉘터](https://x.ai/bot/iOxw-QB7QmknIc9bqO26_) — 做可在手机浏览器玩的休闲网页游戏并发可玩链接。 <sub>作者 [재미없니?](https://x.com/enterjajayo) (@enterjajayo) · [出处](https://x.com/enterjajayo/status/2105186846871281720)</sub>
 - [🐞 Bug Triage Desk ✦ BUG-SORTER](https://x.ai/bot/9W6T6HTn3BYpD0oPzY2hj) — 缺陷分诊含严重度复现状态重复项与缺信息追问。 <sub>作者 [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [出处](https://x.com/Cypher0x9/status/2105190171193102619)</sub>
 - [💡 LearnBot](https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C) — 每天一个工程词，用非程序员听得懂的话讲清。 <sub>作者 [Grace](https://x.com/graceclarke) (@graceclarke) · [出处](https://x.com/graceclarke/status/2101393873948025039)</sub>

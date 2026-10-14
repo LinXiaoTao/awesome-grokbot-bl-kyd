@@ -2,12 +2,13 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-221 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+223 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) — 维护一份短的共享工作正典，让其它机器人从同一套角色、目标、关键人、系统和定论起步。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2102052001542717882)</sub>
 - [3CPO](https://x.ai/bot/3VQwuanA2wWINc0FQDAFn) — 每日个人伴侣，从夜间随身影像学习并沉淀长期记忆，为以后交给机器人做准备。 <sub>作者 [Marcos](https://x.com/rodriguesconatm) · [出处](https://x.com/rodriguesconatm/status/2100532520815047117)</sub>
+- [Active Memory](https://x.ai/bot/Isa_MXoJ1kFEEBLZDlHnJ) — 给长期运行的机器人一张交接卡：跨天跨周记住你的偏好和每个任务的进度。 <sub>作者 [Schien](https://x.com/schienwang)</sub>
 - [Adam](https://x.ai/bot/s8cUaz0aoomvjsIyOKANn) — 你说目标，Adam 拆给手下 bot，再收回一个清晰决定。 <sub>作者 [Ed](https://x.com/EdisonTanEdtreo) (@EdisonTanEdtreo) · [出处](https://x.com/EdisonTanEdtreo/status/2103222731831713842)</sub>
 - [Affiliate Recruiter](https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ) — 按主题和竞品推广人找联盟候选人，排出短名单并附联系方式和初稿话术。 <sub>作者 [Silvestro](https://x.com/zilvestro) (@zilvestro) · [出处](https://x.com/zilvestro/status/2097995020217323736)</sub>
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) — 审计你的 Bot 舰队，指出哪些只是在占位。 <sub>作者 [Siddharth](https://x.com/sdrth) (@sdrth) · [出处](https://x.com/sdrth/status/2096328200129478935)</sub>
@@ -112,6 +113,7 @@
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — 家庭幕僚长，把家里各路帮手机器人协调到一起。 <sub>作者 [Mike](https://x.com/shootthebull) (@shootthebull) · [出处](https://x.com/shootthebull/status/2100685236707197420)</sub>
 - [Handoff](https://x.ai/bot/CYiVuYkkle--PvvmEhHho) — 把项目中途的噪音收成一件最紧要的事、三步动作和负责人。 <sub>作者 [Tool](https://x.com/thisisclaireli) (@thisisclaireli) · [出处](https://x.com/thisisclaireli/status/2100733642771423379)</sub>
 - [Handoff](https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz) — 跨机器人交接与任务接力。 <sub>作者 [Scott](https://x.com/SkippyyTM) (@SkippyyTM) · [出处](https://x.com/SkippyyTM/status/2105731364217639007)</sub>
+- [Handoff Bridge](https://x.ai/bot/C0Y39IIyol0PV6GDN9OgX) — 把你的 Cursor 助手和接不进 Cursor 的外部 AI（比如 Meta AI）连起来，靠电脑上的一个简单任务文件夹交接。 <sub>作者 [green](https://x.com/ohio_dino) (@ohio_dino)</sub>
 - [Heartbeat Dreamer](https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8) — 只读侦察，给变化打分并向上汇报。 <sub>作者 [A-A-ron](https://x.com/theaaron) (@theaaron) · [出处](https://x.com/theaaron/status/2105369742039261662)</sub>
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — 老练首席参谋，把杂事派给其它机器人，只在关键决策时喊你。 <sub>作者 [Gilles](https://x.com/GillesGuenette3) · [出处](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — 给每人一台 Grok Bot 的小团队做入职向导，打通共享 Notion 与 Google。 <sub>[出处](https://x.com/Cecelia7777)</sub>

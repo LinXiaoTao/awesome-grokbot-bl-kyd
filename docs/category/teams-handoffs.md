@@ -2,12 +2,13 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-221 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+223 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
 - [2nd Brain](https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO) — Keeps a short shared work canon so peer bots start from the same role, goals, VIPs, systems, and decisions. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2102052001542717882)</sub>
 - [3CPO](https://x.ai/bot/3VQwuanA2wWINc0FQDAFn) — Daily personal companion that learns from nightly body-cam uploads, builds durable memory, and prepares for a future robot handoff. <sub>by [Marcos](https://x.com/rodriguesconatm) · [origin](https://x.com/rodriguesconatm/status/2100532520815047117)</sub>
+- [Active Memory](https://x.ai/bot/Isa_MXoJ1kFEEBLZDlHnJ) — Gives your long-running bots a handoff card: they keep your preferences and where every task stands across days and weeks. <sub>by [Schien](https://x.com/schienwang)</sub>
 - [Adam](https://x.ai/bot/s8cUaz0aoomvjsIyOKANn) — Name an outcome and Adam splits it across your bots, then returns one clear decision. <sub>by [Ed](https://x.com/EdisonTanEdtreo) (@EdisonTanEdtreo) · [origin](https://x.com/EdisonTanEdtreo/status/2103222731831713842)</sub>
 - [Affiliate Recruiter](https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ) — Finds and ranks affiliate candidates who could sell your product, with contacts and a draft approach. <sub>by [Silvestro](https://x.com/zilvestro) (@zilvestro) · [origin](https://x.com/zilvestro/status/2097995020217323736)</sub>
 - [Agent Manager](https://x.ai/bot/smAuLZmXktpC5rPOLmq4W) — Audits your fleet of bots and tells you which ones are dead weight. <sub>by [Siddharth](https://x.com/sdrth) (@sdrth) · [origin](https://x.com/sdrth/status/2096328200129478935)</sub>
@@ -112,6 +113,7 @@
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — Household chief of staff that keeps the family's helper bots in step. <sub>by [Mike](https://x.com/shootthebull) (@shootthebull) · [origin](https://x.com/shootthebull/status/2100685236707197420)</sub>
 - [Handoff](https://x.ai/bot/CYiVuYkkle--PvvmEhHho) — Cuts mid-project noise down to one task, three steps, and an owner. <sub>by [Tool](https://x.com/thisisclaireli) (@thisisclaireli) · [origin](https://x.com/thisisclaireli/status/2100733642771423379)</sub>
 - [Handoff](https://x.ai/bot/RFIlM2oslgj0jsKlG4qDz) — For ADD minds who start great ideas. Finds verified places to hand off the next phase. <sub>by [Scott](https://x.com/SkippyyTM) (@SkippyyTM) · [origin](https://x.com/SkippyyTM/status/2105731364217639007)</sub>
+- [Handoff Bridge](https://x.ai/bot/C0Y39IIyol0PV6GDN9OgX) — Connects your Cursor assistants with outside AIs that can't connect to Cursor, like Meta AI, through a simple job folder on your computer. <sub>by [green](https://x.com/ohio_dino) (@ohio_dino)</sub>
 - [Heartbeat Dreamer](https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8) — A read-only scout that grades what changed and reports it up the chain. <sub>by [A-A-ron](https://x.com/theaaron) (@theaaron) · [origin](https://x.com/theaaron/status/2105369742039261662)</sub>
 - [Henry](https://x.ai/bot/4V0rzExpIY19WpNGt71Fp) — Grizzled chief of staff who delegates across your bots and only pulls you in for real decisions. <sub>by [Gilles](https://x.com/GillesGuenette3) · [origin](https://x.com/GillesGuenette3)</sub>
 - [High Five](https://x.ai/bot/7pdRsSeKkooXL_2rk8M09) — Onboarding wizard for teams where each person has their own Grok Bot, with shared Notion and Google. <sub>[origin](https://x.com/Cecelia7777)</sub>
