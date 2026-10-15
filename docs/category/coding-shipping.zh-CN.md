@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-303 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+304 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -173,6 +173,7 @@
 - [Likenor PM](https://x.ai/bot/QQTKC4P0h1TNHBzUO0o31) — GitHub 项目板的交付桌项目经理，管一个在审 PR、完成条件门、Copilot 同分支修复，以及便宜安静的唤醒。 <sub>作者 [Andrew](https://x.com/AndToll1234) (@AndToll1234)</sub>
 - [Lingxi's Engineer Bot](https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_) — 放手型工程主管，挂上你点名的仓库云代理，三十分钟节奏盯 PR，只在关键处问你。
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — 丢给它文件、文件夹或 Bot 产出，收回一条可分享链接。 <sub>作者 [Adam](https://x.com/adamludwin) (@adamludwin) · [出处](https://x.com/adamludwin/status/2093402167394914392)</sub>
+- [Locally](https://x.ai/bot/TAS_Ef2phuIndqWeMz_9b) — 由你本地的模型写代码，它负责规划和审查编码任务，可以在同一台机器上，也可以通过 Tailscale。 <sub>作者 [Mia](https://x.com/MiaAI_lab) (@MiaAI_lab)</sub>
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — 工程外环，坐在你那些编程代理上面。 <sub>作者 [Matt](https://x.com/mattyp) (@mattyp) · [出处](https://x.com/mattyp/status/2093380201128595966)</sub>
 - [Major Tom](https://x.ai/bot/nUrR_6A3I4ndkkPQ5dwQH) — 工程宅兔子，一步步带新用户配置 Grok Bot，再帮你搞 CAD、代码和物理讲解。 <sub>作者 Ξ</sub>
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) — 建造团队的阶段门台长，盯最小有用组合并诚实标测量或估计。 <sub>作者 [Chris](https://x.com/Chris)</sub>
@@ -232,10 +233,10 @@
 - [Ryan App Builder](https://x.ai/bot/acSvd_2n8QnlnAjJebkvy) — 面向零基础的手机应用设计与搭建向导。 <sub>作者 [Blake](https://x.com/BlakeKing777) (@BlakeKing777)</sub>
 - [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) — 按你选的风格出 2D 游戏美术和精灵表。 <sub>作者 [Danny](https://x.com/DannyLimanseta) (@DannyLimanseta) · [出处](https://x.com/DannyLimanseta/status/2093381938484810054)</sub>
 - [Safari 27 MCP](https://x.ai/bot/8obMM4mRWRLf51EB2n4JV) — 用 Safari WebDriver 接口冒烟测试在线店面。 <sub>作者 [Shagghie](https://x.com/PixelRainbowNFT) (@PixelRainbowNFT) · [出处](https://x.com/PixelRainbowNFT/status/2105442711696179348)</sub>
-- [Sanity](https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx) — Sanity 内容模型、模式和 GROQ 专长。 <sub>作者 [Adam](https://x.com/ahdumgray) (@ahdumgray) · [出处](https://x.com/ahdumgray/status/2093504459741794550)</sub>
 - [SAP Technical Consultant](https://x.ai/bot/O08yUdBz6vFFqYITvWPPi) — S/4HANA 顾问，帮你做干净核心的设计决定。 <sub>作者 [Lalit](https://x.com/beinglalit21) (@beinglalit21) · [出处](https://x.com/beinglalit21/status/2093783196488061076)</sub>
 - [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) — 在聊天里用 Midkernel 扫 GitHub 仓库，回报报告和完整日志。 <sub>作者 [James](https://x.com/mdashjames) (@mdashjames)</sub>
 - [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) <sup>官方</sup> — 快速过供应商安全问卷：登门户、从信任中心和历史标书取答案，逐项填好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) — 机器人审计员：技能、连接器、例程、记忆或代码进入或改动机器人前，只读不运行，给出明确的放行或否决。
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) — 自主 SEO 工程师，在站点仓库里拉起 SEOAgent，冲自然流量。 <sub>作者 [alexander.v.lindsay@gmail.com](https://x.com/SEOAgent_) (@SEOAgent_) · [出处](https://x.com/SEOAgent_)</sub>
 - [Servel Ops](https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ) — 用 servel CLI 管 Servel Docker Swarm 集群的部署、节点与日志。 <sub>作者 [Kerem](https://x.com/serveldev) (@serveldev)</sub>
 - [Sheet Check](https://x.ai/bot/U2v0cRLZUnDIBVYizh_cW) — 表格问答，引用单元格，否则说不知道。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>

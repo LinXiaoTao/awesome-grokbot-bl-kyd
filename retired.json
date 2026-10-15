@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-13",
+  "checked": "2026-10-15",
   "entries": [
     {
       "slug": "bot-creator",
@@ -538,6 +538,49 @@
       "checked": "2026-10-13",
       "link_status": 404,
       "license": "CC0-1.0"
+    },
+    {
+      "slug": "sanity",
+      "name": "Sanity",
+      "author": {
+        "name": "Adam",
+        "handle": "ahdumgray",
+        "url": "https://x.com/ahdumgray"
+      },
+      "summary": "A specialist for Sanity content models, schemas and GROQ",
+      "summary_zh": "Sanity 内容模型、模式和 GROQ 专长。",
+      "official_summary": "A Sanity CMS specialist for content modeling, Studio schemas, GROQ, Portable Text, and migrations. Ships with the official Sanity connector and...",
+      "import": "https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx",
+      "bot_id": "qR7nq7v3w0bwpojx2LgQx",
+      "category": "coding-shipping",
+      "tags": [
+        "developer",
+        "engineering",
+        "content",
+        "knowledge-base"
+      ],
+      "integrations": [
+        "Sanity"
+      ],
+      "origin": "https://x.com/ahdumgray/status/2093504459741794550",
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "ZeroPointRepo/GrokBotDev",
+          "url": "https://github.com/ZeroPointRepo/GrokBotDev"
+        },
+        {
+          "catalog": "elie222/botdirectory.ai",
+          "url": "https://github.com/elie222/botdirectory.ai"
+        }
+      ],
+      "first_seen": "2026-08-29",
+      "checked": "2026-10-15",
+      "link_status": 404,
+      "license": "CC-BY-4.0"
     }
   ]
 }

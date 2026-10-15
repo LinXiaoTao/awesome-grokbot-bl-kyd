@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-303 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+304 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -173,6 +173,7 @@
 - [Likenor PM](https://x.ai/bot/QQTKC4P0h1TNHBzUO0o31) — Shipping-desk PM for a GitHub project board. Owns one live Review PR, Done-when gates, Copilot same-branch fixes, and cheap quiet wakes — built while. <sub>by [Andrew](https://x.com/AndToll1234) (@AndToll1234)</sub>
 - [Lingxi's Engineer Bot](https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_) — A hands-off engineering supervisor. Boards work, launches cloud agents on the repo you name, watches PRs on a 30-minute cadence, and only asks you to.
 - [Linky](https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk) — Send it any file, folder or bot output and it hands back a shareable URL. <sub>by [Adam](https://x.com/adamludwin) (@adamludwin) · [origin](https://x.com/adamludwin/status/2093402167394914392)</sub>
+- [Locally](https://x.ai/bot/TAS_Ef2phuIndqWeMz_9b) — Plans and reviews your coding jobs while your own local model writes the code, on the same machine or over Tailscale. <sub>by [Mia](https://x.com/MiaAI_lab) (@MiaAI_lab)</sub>
 - [loops](https://x.ai/bot/Ub3T7usX-c6yRQibQq83P) — An engineering outer loop that sits above your coding agents. <sub>by [Matt](https://x.com/mattyp) (@mattyp) · [origin](https://x.com/mattyp/status/2093380201128595966)</sub>
 - [Major Tom](https://x.ai/bot/nUrR_6A3I4ndkkPQ5dwQH) — Engineering-nerd rabbit that walks new users through Grok Bot setup, then helps with CAD, code and physics. <sub>by Ξ</sub>
 - [MasterT](https://x.ai/bot/IJ7YopUZqZmxfR5-8fvyQ) — Stage-gate desk lead for builder teams: hone-in the smallest useful combo, keep Measured|Partial|Estimate honesty, run workday quiet/resume, and pull. <sub>by [Chris](https://x.com/Chris)</sub>
@@ -232,10 +233,10 @@
 - [Ryan App Builder](https://x.ai/bot/acSvd_2n8QnlnAjJebkvy) — A friendly phone-app designer and builder for people who have never coded. Ryan turns your idea into a real app you can add to your home screen, one. <sub>by [Blake](https://x.com/BlakeKing777) (@BlakeKing777)</sub>
 - [Sable: Game Art](https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys) — Generates 2D game art and sprite sheets in a style you pick. <sub>by [Danny](https://x.com/DannyLimanseta) (@DannyLimanseta) · [origin](https://x.com/DannyLimanseta/status/2093381938484810054)</sub>
 - [Safari 27 MCP](https://x.ai/bot/8obMM4mRWRLf51EB2n4JV) — Drives Safari's WebDriver interface to smoke-test online storefronts. <sub>by [Shagghie](https://x.com/PixelRainbowNFT) (@PixelRainbowNFT) · [origin](https://x.com/PixelRainbowNFT/status/2105442711696179348)</sub>
-- [Sanity](https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx) — A specialist for Sanity content models, schemas and GROQ. <sub>by [Adam](https://x.com/ahdumgray) (@ahdumgray) · [origin](https://x.com/ahdumgray/status/2093504459741794550)</sub>
 - [SAP Technical Consultant](https://x.ai/bot/O08yUdBz6vFFqYITvWPPi) — An S/4HANA advisor for clean-core design decisions. <sub>by [Lalit](https://x.com/beinglalit21) (@beinglalit21) · [origin](https://x.com/beinglalit21/status/2093783196488061076)</sub>
 - [Security Bot](https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6) — Scans a GitHub repo from chat via Midkernel and returns a report plus full log. <sub>by [James](https://x.com/mdashjames) (@mdashjames)</sub>
 - [Security Questionnaire Filler](https://x.ai/bot/s1bde25ba45eca88ff276) <sup>official</sup> — Logs into vendor security portals, pulls answers from your trust center and past RFPs, and drafts every field for review. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
+- [Sentinel](https://x.ai/bot/N5O7tWV0-A750rFT9P_BH) — An auditor for your bots: before a skill, connector, routine, memory or code enters or changes a bot, it reads it without running it and says go or no-go.
 - [SEOAgent](https://x.ai/bot/scYgD9jdFhooaSHihRzy7) — Autonomous SEO engineer that bootstraps SEOAgent in your site repo and grows organic traffic. <sub>by [alexander.v.lindsay@gmail.com](https://x.com/SEOAgent_) (@SEOAgent_) · [origin](https://x.com/SEOAgent_)</sub>
 - [Servel Ops](https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ) — Manages Servel Docker Swarm clusters via the servel CLI for deploys, nodes, and logs. <sub>by [Kerem](https://x.com/serveldev) (@serveldev)</sub>
 - [Sheet Check](https://x.ai/bot/U2v0cRLZUnDIBVYizh_cW) — Spreadsheet Q&A that cites cells or says I don’t know. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
