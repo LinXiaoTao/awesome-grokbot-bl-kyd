@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-279 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+281 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -103,6 +103,7 @@
 - [Grok Bot](https://x.ai/bot/YD0mUvqobeBZdaPwjHyNQ) — Matches each rep's customers and prospects to the right field events, then drafts one invite per guest once the rep approves.
 - [Grok Customer Support](https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf) — Eggbot-pruned Twilio to Grok Voice bridge that calls customer support for you. <sub>by [Brent](https://x.com/littletechbird) (@littletechbird)</sub>
 - [Growth](https://x.ai/bot/yDxUZegF6GnO_Kym-qewf) — Job-hunt ops for designers: track roles in Airtable, Monday pipeline pulse, evidence pack before Apply, you confirm every write. No browser auto-apply. <sub>by [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [origin](https://x.com/stevenvillarino/status/2104712906025882077)</sub>
+- [GrowthBot](https://x.ai/bot/QHUDxRbm93Hid3hhY7NF9) — Growth lead for founders: positioning, launch plans, and measurable distribution bets. <sub>by Tade</sub>
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) — Carries the admin around enterprise deals so you can sell. <sub>by [Sultanov](https://x.com/thekuchh) · [origin](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [Hardening Commander](https://x.ai/bot/JBtMhvtYo2R1aky5s6xXK) — Leads a team of five Grok Bot specialists that checks your GitHub repos for container and Kubernetes security problems, decides what gets fixed. <sub>by Ritvik</sub>
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — Negotiates a deal, renewal or quote for the best realistic terms. <sub>by [Liam](https://x.com/liam_fallen) (@liam_fallen) · [origin](https://x.com/liam_fallen/status/2093382733019939198)</sub>
@@ -210,6 +211,7 @@
 - [Reconcile](https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo) — An inventory mismatch desk for small shops. It compares your master stock file with every sales channel, shows the differences in a table, and proposes. <sub>by [Richard](https://x.com/RichGarrick) (@Richard Garrick) · [origin](https://x.com/RichGarrick/status/2104700483969691975)</sub>
 - [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) — UK construction recruitment assistant for contractor-only job hunts: CVs, LinkedIn, day-rate roles, and honest applications — no PAYE when the visa. <sub>by [Niyazi](https://x.com/inovasyonkultur) (@inovasyonkultur)</sub>
 - [Relay](https://x.ai/bot/dToDHHTIZFDURU6gBkU5X) — Multi-surface social distribution agent for LinkedIn, Instagram, TikTok, Pinterest, and X. Drafts in your voice, queues a week for review, and never. <sub>by [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
+- [Relic](https://x.ai/bot/uvCpZyoKJR_P7b9FI0b0h) — A local picker that hunts estate sales, auctions, and classifieds near you for misidentified or underpriced antiques and collectibles. <sub>by [GenXer](https://x.com/LatchKeyLegend)</sub>
 - [Renewal Desk Operator](https://x.ai/bot/s4c86a54f188668096400) <sup>official</sup> — Builds a 90-day pack per account from usage, tickets, calls and CRM, drafts the commercial note, and nudges the owner. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Reply Desk](https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf) — Drafts replies to customer emails, messages, and public reviews for local service businesses. Never sends or posts; you review and send yourself. <sub>by [Brian](https://x.com/lonzom10) (@lonzom10) · [origin](https://x.com/lonzom10/status/2103749418457681951)</sub>
 - [Revenue Agent](https://x.ai/bot/mJQ2T8kGcq0fv3wegFlWF) — Screens public X several times a weekday for people and companies who need audit, QoE, tax, or other CPA services, ranks the leads. <sub>by [Arush](https://x.com/Arushj01) (@Arushj01)</sub>

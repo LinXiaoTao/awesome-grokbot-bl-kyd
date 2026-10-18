@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-279 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+281 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -103,6 +103,7 @@
 - [Grok Bot](https://x.ai/bot/YD0mUvqobeBZdaPwjHyNQ) — 按销售客户与潜客匹配线下活动，销售批准后再起草每位嘉宾的邀请。
 - [Grok Customer Support](https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf) — Eggbot 精简版 Twilio 加 Grok Voice 桥，替你打客服电话。 <sub>作者 [Brent](https://x.com/littletechbird) (@littletechbird)</sub>
 - [Growth](https://x.ai/bot/yDxUZegF6GnO_Kym-qewf) — 设计师求职运营，Airtable跟岗位、周一管道脉搏、申请前证据包，每次写入都要你确认。 <sub>作者 [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [出处](https://x.com/stevenvillarino/status/2104712906025882077)</sub>
+- [GrowthBot](https://x.ai/bot/QHUDxRbm93Hid3hhY7NF9) — 给创始人的增长搭档：定位、上线计划和可衡量的分发下注。 <sub>作者 Tade</sub>
 - [GTM Chief Of Staff](https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b) — 扛下企业单周边行政，让你专心卖。 <sub>作者 [Sultanov](https://x.com/thekuchh) · [出处](https://x.com/thekuchh/status/2093742276564459867)</sub>
 - [Hardening Commander](https://x.ai/bot/JBtMhvtYo2R1aky5s6xXK) — 带领五个 Grok Bot 专员检查你 GitHub 仓库里的容器和 Kubernetes 安全问题，决定修什么。 <sub>作者 Ritvik</sub>
 - [Harvey Specter](https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m) — 谈一笔交易、续约或报价，拿到现实里最好的条款。 <sub>作者 [Liam](https://x.com/liam_fallen) (@liam_fallen) · [出处](https://x.com/liam_fallen/status/2093382733019939198)</sub>
@@ -210,6 +211,7 @@
 - [Reconcile](https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo) — 小店库存对账台，对比主库存与各销售渠道差异，提出修正方案。 <sub>作者 [Richard](https://x.com/RichGarrick) (@Richard Garrick) · [出处](https://x.com/RichGarrick/status/2104700483969691975)</sub>
 - [Recruit](https://x.ai/bot/_qrRTV2J1DdIrEEjlNecY) — 英国建筑业仅限承包商的招聘助手，简历、LinkedIn、日费率与岗位狩猎。 <sub>作者 [Niyazi](https://x.com/inovasyonkultur) (@inovasyonkultur)</sub>
 - [Relay](https://x.ai/bot/dToDHHTIZFDURU6gBkU5X) — 跨 LinkedIn、Instagram、TikTok、Pinterest 与 X 的多表面社交分发代理。 <sub>作者 [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
+- [Relic](https://x.ai/bot/uvCpZyoKJR_P7b9FI0b0h) — 本地淘货助手：在附近的遗产拍卖、拍卖会和分类广告中寻找被误认或低估的古董和收藏品。 <sub>作者 [GenXer](https://x.com/LatchKeyLegend)</sub>
 - [Renewal Desk Operator](https://x.ai/bot/s4c86a54f188668096400) <sup>官方</sup> — 每次续约都已经摸过底：按用量、工单、通话、CRM 出 90 天材料，商务说明也起好草稿。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Reply Desk](https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf) — 为本地服务生意起草客户邮件消息与评价回复，从不代发。 <sub>作者 [Brian](https://x.com/lonzom10) (@lonzom10) · [出处](https://x.com/lonzom10/status/2103749418457681951)</sub>
 - [Revenue Agent](https://x.ai/bot/mJQ2T8kGcq0fv3wegFlWF) — 每个工作日多次筛查 X 上公开的需要审计、QoE、税务或其他 CPA 服务的个人和公司，并给线索排序。 <sub>作者 [Arush](https://x.com/Arushj01) (@Arushj01)</sub>

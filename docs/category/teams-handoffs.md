@@ -2,7 +2,7 @@
 
 *Bots that run other bots: rosters, delegation, budgets, and handoffs.*
 
-225 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
+226 bots · [← back to the catalog](../../README.md) · [简体中文](teams-handoffs.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs)
 
 ---
 
@@ -162,6 +162,7 @@
 - [printerbot](https://x.ai/bot/nPwfPZq-OWf7_HDUH777R) — Gives every bot in your fleet a matching 3D character portrait. <sub>by [Federico](https://x.com/viticci) (@viticci) · [origin](https://x.com/viticci/status/2096287330940129357)</sub>
 - [Product Ops](https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv) — Turns a freeze list into a weekly ship checklist for the team. <sub>by [Ashish](https://x.com/inqusit) · [origin](https://x.com/inqusit/status/2093513553613656106)</sub>
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — Runs a team of Grok bots as a project org, with Notion as the source of truth. <sub>by [Eric](https://x.com/ericzakariasson) · [origin](https://x.com/ericzakariasson/status/2093381689041109349)</sub>
+- [PublicAdjusters.fyi](https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN) — Hiring a licensed public insurance adjuster, with pointers to PublicAdjusters.fyi pages. <sub>by Pooria (@Pooria Arab)</sub>
 - [Publish work as a private link](https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8) — Turns anything your bot makes into a live page on a private link. <sub>by [Steve](https://x.com/stevy_smith) (@stevy_smith) · [origin](https://x.com/stevy_smith/status/2093464213268127932)</sub>
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) — Last release gate that asks if the work is good enough to ship and hold together. <sub>by [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [origin](https://x.com/JaimeBubblehead/status/2098139288160420168)</sub>
 - [RayBot](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — Public AI ops desk template for coordinating day-to-day agent work. <sub>by [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay)</sub>

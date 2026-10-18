@@ -2,7 +2,7 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-306 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+307 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
@@ -195,6 +195,7 @@
 - [orc](https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg) — 多代理机群的工程编排器，排工人车道、跑归约与安全扫掠，推动 forge 评审前进。 <sub>作者 [Capital](https://x.com/CapitalCopilot) (@CapitalCopilot)</sub>
 - [Orcastrator](https://x.ai/bot/dNB0Z_qCdINGUH833OoDd) — GitHub 与 PR 相关助手。 <sub>作者 Frankie (@community)</sub>
 - [Orchard Sensors](https://x.ai/bot/AXez4BKs4EM9RH9il-XEv) — 从 LoRaWan 传感器采样土壤湿度和气温。 <sub>作者 [BHamilton](https://x.com/BHamilt94615115) (@BHamilt94615115)</sub>
+- [Order Aftercare](https://x.ai/bot/p8UyBNXk45v8hpd8_gR08) — 下单后跟踪网购订单：物流、配送问题、退货窗口、退款和降价。 <sub>作者 [Jared](https://x.com/dcostaverage)</sub>
 - [Outer Loop](https://x.ai/bot/KEHiZEKH3rwCzf0su4iib) — 编程代理之上的工程外环，收集上下文、写目标提示、拉起云代理，再推动评审与合并，由你点名仓库。 <sub>作者 [Xavier](https://x.com/ixef) (@ixef)</sub>
 - [Outsrc](https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg) — 把编码任务路由到你机器上已装好的终端智能体。 <sub>作者 [Edward](https://x.com/edtadros) (@edtadros) · [出处](https://x.com/edtadros/status/2105427985130283206)</sub>
 - [overnight shipper](https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf) — 睡前丢一个点子，早上起来审 pull request。 <sub>作者 [Josh](https://x.com/joshkim) · [出处](https://x.com/joshkim/status/2093582410638311676)</sub>
@@ -257,7 +258,6 @@
 - [SSH to Grok via Tailscale](https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA) — 把 Bot 电脑加入你的 Tailscale，便于直接 SSH。 <sub>作者 [Altman](https://x.com/app_sail) (@app_sail) · 社区旧称 *SSH to Grok Bot via Tailscale* · [出处](https://x.com/app_sail/status/2103886508264653232)</sub>
 - [Stack Scout](https://x.ai/bot/i-EG19ZoxICUxVu0ACGim) — 新手与初级的技术栈调研伙伴，描述需求后找两到四个真实库并核对文档许可。 <sub>作者 [Paweł](https://x.com/Zibulasx) (@zibulasX) · [出处](https://x.com/Zibulasx/status/2104695980386070696)</sub>
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) — 你依赖的服务商一承认出问题，第一时间通知你。 <sub>作者 [sat0xshi](https://x.com/sat0xshi) · [出处](https://x.com/sat0xshi/status/2096802965676016066)</sub>
-- [Stagehand](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) — WordPress 集成，只改预发环境，未经要求不动线上。 <sub>作者 [Patrick](https://x.com/pmconsulting) (@pmconsulting) · [出处](https://x.com/pmconsulting/status/2105104846940741797)</sub>
 - [Staging QA Tester](https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ) — 像真人一样测预发站各角色路径，改完再还原并出报告。 <sub>作者 [Nic](https://x.com/njivy) (@njivy) · [出处](https://x.com/njivy/status/2103635667683311946)</sub>
 - [Steve Jobs](https://x.ai/bot/62-P66Nu4KJH99n7fdMzH) — 创始人主导产品的技术负责人：专家给建议，除非老板否决，技术上由它拍板。 <sub>作者 Charlie</sub>
 - [SteveCAD](https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_) — 陪你做 CAD：按指令建模和修改 3D 模型，找合适的标准件，并对图纸跑分析。 <sub>[出处](https://x.com/10_X_eng/status/2108346976160928220)</sub>
@@ -281,6 +281,7 @@
 - [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) — 为Tabletop Simulator模组编写调试Lua脚本，用GitHub PR与现场注入试玩。 <sub>作者 [Naveed](https://x.com/shelftoworld) (@shelftoworld)</sub>
 - [Two-Pass PR Reviewer](https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w) — 资深工程师评审加怀疑二过，合成一份 PR 报告。 <sub>作者 [Destin](https://x.com/HebertDestin) (@HebertDestin)</sub>
 - [UI/UX/Designer. Product Engineer 1000x](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) — 全栈产品工程师，用 Convex、TanStack 和 React 把应用真正送上线。 <sub>作者 [Thomas](https://x.com/TomZarebczan) · 社区旧称 *1000x Product Engineer* · [出处](https://x.com/TomZarebczan/status/2093387240479051938)</sub>
+- [UNLOCK](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) — WordPress 集成，只改预发环境，未经要求不动线上。 <sub>作者 [Patrick](https://x.com/pmconsulting) (@pmconsulting) · 社区旧称 *Stagehand* · [出处](https://x.com/pmconsulting/status/2105104846940741797)</sub>
 - [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) — 编码与交付助手。 <sub>作者 Binxius (@community)</sub>
 - [Vibe Code Check](https://x.ai/bot/-MWo_XFJRkd4yBmS5MHTH) — 给 vibe coding 应用做安全体检：抓客户端密钥、儿童合规、开放 RLS、许可证等坑。 <sub>作者 [R](https://x.com/RTetris44) (@RTetris44)</sub>
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) — 把上传素材切成短片、烧录字幕与各平台尺寸导出，按你的备注工作且不覆盖原片。

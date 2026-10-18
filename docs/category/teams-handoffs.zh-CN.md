@@ -2,7 +2,7 @@
 
 *管别的 Bot 的 Bot：花名册、委派、预算和交接。*
 
-225 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
+226 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](teams-handoffs.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=teams-handoffs&lang=zh)
 
 ---
 
@@ -162,6 +162,7 @@
 - [printerbot](https://x.ai/bot/nPwfPZq-OWf7_HDUH777R) — 给舰队里每个 Bot 做统一风格的 3D 角色肖像。 <sub>作者 [Federico](https://x.com/viticci) (@viticci) · [出处](https://x.com/viticci/status/2096287330940129357)</sub>
 - [Product Ops](https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv) — 把冻结清单变成团队每周要交付的核对表。 <sub>作者 [Ashish](https://x.com/inqusit) · [出处](https://x.com/inqusit/status/2093513553613656106)</sub>
 - [Projects Manager](https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD) — 把一队 Grok Bot 当项目组织来跑，以 Notion 为准。 <sub>作者 [Eric](https://x.com/ericzakariasson) · [出处](https://x.com/ericzakariasson/status/2093381689041109349)</sub>
+- [PublicAdjusters.fyi](https://x.ai/bot/oikJ-mEQtbtSZFqyxSvNN) — 关于聘请持证公共保险公估人的问答，并指向 PublicAdjusters.fyi。 <sub>作者 Pooria (@Pooria Arab)</sub>
 - [Publish work as a private link](https://x.ai/bot/n9zq64kTeEEc5NwrkAOi8) — 把 Bot 做出的东西变成私密链接上的活页面。 <sub>作者 [Steve](https://x.com/stevy_smith) (@stevy_smith) · [出处](https://x.com/stevy_smith/status/2093464213268127932)</sub>
 - [Quency](https://x.ai/bot/JQu6e3mIfy588elZm7BTo) — 发布前最后一道关，只问够不够上线、能不能站得住。 <sub>作者 [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [出处](https://x.com/JaimeBubblehead/status/2098139288160420168)</sub>
 - [RayBot](https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a) — 公开的 AI 运营台模板，协调日常代理事务。 <sub>作者 [Ray](https://x.com/BarPrepPlay) (@BarPrepPlay)</sub>

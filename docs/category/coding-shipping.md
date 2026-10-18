@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-306 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+307 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -195,6 +195,7 @@
 - [orc](https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg) — Engineering orchestrator for multi-agent fleets: sequences worker lanes, runs reduce and security sweeps, and keeps forge reviews moving without. <sub>by [Capital](https://x.com/CapitalCopilot) (@CapitalCopilot)</sub>
 - [Orcastrator](https://x.ai/bot/dNB0Z_qCdINGUH833OoDd) — Burns a GitHub issue list with Orca worktrees on a registered machine. <sub>by Frankie (@community)</sub>
 - [Orchard Sensors](https://x.ai/bot/AXez4BKs4EM9RH9il-XEv) — Samples soil moisture and air temperature from LoRaWan sensors. <sub>by [BHamilton](https://x.com/BHamilt94615115) (@BHamilt94615115)</sub>
+- [Order Aftercare](https://x.ai/bot/p8UyBNXk45v8hpd8_gR08) — Tracks your online orders after checkout: shipping, delivery issues, return windows, refunds, and price drops. <sub>by [Jared](https://x.com/dcostaverage)</sub>
 - [Outer Loop](https://x.ai/bot/KEHiZEKH3rwCzf0su4iib) — Engineering outer loop above coding agents: gather context, write /goal prompts, launch a cloud agent, then drive review and merge. You name the repo;. <sub>by [Xavier](https://x.com/ixef) (@ixef)</sub>
 - [Outsrc](https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg) — Routes coding jobs to the terminal agents already installed on your machine. <sub>by [Edward](https://x.com/edtadros) (@edtadros) · [origin](https://x.com/edtadros/status/2105427985130283206)</sub>
 - [overnight shipper](https://x.ai/bot/aaqCOb-3SE48_7qAEAzAf) — Drop an idea before bed and review the pull request in the morning. <sub>by [Josh](https://x.com/joshkim) · [origin](https://x.com/joshkim/status/2093582410638311676)</sub>
@@ -257,7 +258,6 @@
 - [SSH to Grok via Tailscale](https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA) — Puts the bot's own computer on your tailnet so you can shell straight in. <sub>by [Altman](https://x.com/app_sail) (@app_sail) · aka *SSH to Grok Bot via Tailscale* · [origin](https://x.com/app_sail/status/2103886508264653232)</sub>
 - [Stack Scout](https://x.ai/bot/i-EG19ZoxICUxVu0ACGim) — Your stack research buddy for beginners and juniors. You describe what you need; it finds 2-4 real libraries or frameworks, checks docs and licenses,. <sub>by [Paweł](https://x.com/Zibulasx) (@zibulasX) · [origin](https://x.com/Zibulasx/status/2104695980386070696)</sub>
 - [Stack Sentinel](https://x.ai/bot/osZS1pAzdIESMk33WNir0) — Pings you the moment a provider your build depends on admits a problem. <sub>by [sat0xshi](https://x.com/sat0xshi) · [origin](https://x.com/sat0xshi/status/2096802965676016066)</sub>
-- [Stagehand](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) — A WordPress integrator that edits staging and never touches live unasked. <sub>by [Patrick](https://x.com/pmconsulting) (@pmconsulting) · [origin](https://x.com/pmconsulting/status/2105104846940741797)</sub>
 - [Staging QA Tester](https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ) — A careful QA tester for any web app's staging site. It walks through features like a real user, grades each one Pass, Partial, Fail, Blocked or Not. <sub>by [Nic](https://x.com/njivy) (@njivy) · [origin](https://x.com/njivy/status/2103635667683311946)</sub>
 - [Steve Jobs](https://x.ai/bot/62-P66Nu4KJH99n7fdMzH) — A technical lead for a founder-run product. Specialists advise; this bot decides what is best technically unless the owner overrides. <sub>by Charlie</sub>
 - [SteveCAD](https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_) — Works alongside you in CAD: builds and edits 3D models from instructions, finds catalog parts that fit, and runs analysis studies on the drawing. <sub>[origin](https://x.com/10_X_eng/status/2108346976160928220)</sub>
@@ -281,6 +281,7 @@
 - [TTS Script Builder](https://x.ai/bot/UWLs7BCDu7jiumkvX4-vj) — Builds, fixes, and playtests Lua scripts for Tabletop Simulator mods, using GitHub PRs, live injection into TTS, and Workshop publishing. <sub>by [Naveed](https://x.com/shelftoworld) (@shelftoworld)</sub>
 - [Two-Pass PR Reviewer](https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w) — A senior-engineer review and a skeptical second pass in one report. Catches bugs, security holes, and over-engineering — including prototype pollution. <sub>by [Destin](https://x.com/HebertDestin) (@HebertDestin)</sub>
 - [UI/UX/Designer. Product Engineer 1000x](https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu) — A full-stack product engineer that ships Convex, TanStack and React apps. <sub>by [Thomas](https://x.com/TomZarebczan) · aka *1000x Product Engineer* · [origin](https://x.com/TomZarebczan/status/2093387240479051938)</sub>
+- [UNLOCK](https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ) — A WordPress integrator that edits staging and never touches live unasked. <sub>by [Patrick](https://x.com/pmconsulting) (@pmconsulting) · aka *Stagehand* · [origin](https://x.com/pmconsulting/status/2105104846940741797)</sub>
 - [Unreal Engine C++ Coder](https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd) — Writes, fixes and reviews Unreal Engine C++ gameplay code. <sub>by Binxius (@community)</sub>
 - [Vibe Code Check](https://x.ai/bot/-MWo_XFJRkd4yBmS5MHTH) — Safety check for vibe-coded apps: catches legal and security traps like client secrets, COPPA/kids, open RLS, licenses. <sub>by [R](https://x.com/RTetris44) (@RTetris44)</sub>
 - [Video Edit Desk](https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW) — Turns uploaded footage into cut clips, burned-in captions, and platform-sized exports. Works from your notes and never overwrites the original.
