@@ -2,12 +2,13 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-307 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+309 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
 - [A11y Fix Queue](https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K) — Prioritized accessibility fix queue from audit dumps. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Adversarial Security & Usability](https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ) — Runs adversarial passes on product docs and code for security and usability. Uses peer-agent tickets, operator-safe scripts, and honest live captures —. <sub>by [Aben](https://x.com/cservincf) (@cservincf)</sub>
+- [AgenC Helper](https://x.ai/bot/Jodoh3TnuH8iQhxkGqMaI) — An engineering teammate bot inspired by Lauren Tan's (@poteto) public pstack approach: ship less code that is better and verified. <sub>by [J.P.](https://x.com/Macro_Harder)</sub>
 - [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) — General-purpose agent Alpha template for shipping tasks across coding and ops workflows. <sub>by [Joshua](https://x.com/Telephantix) · [origin](https://x.com/Telephantix)</sub>
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) — Keeps a local coding agent iterating until your acceptance test passes. <sub>by [dancingteeth](https://x.com/dancingteeth) · [origin](https://x.com/dancingteeth/status/2093868415542845628)</sub>
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) — A janitor for multi-bot workspaces that stops cruft piling up. <sub>by [Chip](https://x.com/chiplay) · [origin](https://x.com/chiplay/status/2093502053037293650)</sub>
@@ -206,6 +207,7 @@
 - [Path Consolidator Bot](https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-) — Finds duplicate code paths and helps consolidate them. <sub>by [Joshua](https://x.com/joshuastowell25) (@joshuastowell25)</sub>
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) — Audits one URL the way AI crawlers see it and drafts an llms.txt patch list. <sub>by [Eric](https://x.com/ericesoteric) (@ericesoteric) · [origin](https://x.com/ericesoteric/status/2102910573952508090)</sub>
 - [Pit Crew](https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1) — Tunes up the computer your bots run on: frees memory and disk, keeps updates flowing. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2103144210681700713)</sub>
+- [Pitstop](https://x.ai/bot/BmvnQ9BkCIQ2AGIneJ1Ez) — Keeps the developer tools you choose up to date every day. It upgrades each one through whatever installed it, one at a time, never downgrades. <sub>by [Jay](https://x.com/jayparkcanada)</sub>
 - [Playtest Operator](https://x.ai/bot/s2cfcbb8a38b8e22b7d18) <sup>official</sup> — Brute-force test the product path when APIs aren't enough. Drives the UI on a computer, captures failures, and returns a tight findings pack. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PM bot](https://x.ai/bot/FeeqMRMJr2jwixCROZcIh) — Acts as your PM. Writes the dated cut: what's in, what's out, and how you'll know it's done. Engineering doesn't start until you approve it.
 - [Pod](https://x.ai/bot/lsyECsGbEgYpp6PdhDWR5) — Review-first eyes on a game or interactive product build sessions. <sub>by Quinn (@community)</sub>

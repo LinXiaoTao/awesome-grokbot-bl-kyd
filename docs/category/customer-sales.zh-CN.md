@@ -2,7 +2,7 @@
 
 *找客户、起草外呼、通话后援、客户跟进到底。*
 
-281 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
+286 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](customer-sales.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales&lang=zh)
 
 ---
 
@@ -94,6 +94,7 @@
 - [Founder Growth Pilot](https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ) — 找目标并起草私人短信；未经你同意绝不发送。 <sub>作者 [Guy](https://x.com/guysuter) (@guysuter)</sub>
 - [FounderSales](https://x.ai/bot/NWZOp_PkJhy87qGDCzGKi) — 创始人自销助手：调研潜客、起草待你拍板的外联，并盯紧跟进不漏。 <sub>作者 [Carolina](https://x.com/CarolinaDill)</sub>
 - [GEO & SEO Optimierung](https://x.ai/bot/RbJ2x4neT6ePfZbz22spM) — 企业网站的生成式引擎与搜索优化助手，提升搜索与生成引擎可见度，并夯实落地页与技术基础。 <sub>作者 [Christian](https://x.com/christian_reik) (@christian_reik)</sub>
+- [Go Direct](https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e) — 跳过媒体，Lulu 帮创始人把故事直接讲给真正重要的 50 到 500 人：投资人、早期客户和未来员工。 <sub>作者 [Landon](https://x.com/LandonH) · [出处](https://x.com/LandonH/status/2110874066064396574)</sub>
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) — 从已存的销售通话录音里抽出几条给销售看的短辅导。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2098051251720335837)</sub>
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) — 打理本地商家的谷歌商家资料，起草帖子与评价回复并审计资料健康度。 <sub>作者 [Aaron](https://x.com/JimmyFlipHDR) (@JimmyFlipHDR)</sub>
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) — 供应商报价并排陷阱对照表。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
@@ -128,6 +129,7 @@
 - [IOIQ Lite · Site Care](https://x.ai/bot/nGlUg9-CHIYUocr8NUC8m) — 面向小企业站点的轻量无钥匙站点养护记分卡。 <sub>作者 [Sam](https://x.com/sam_builds_ai) (@sam_builds_ai)</sub>
 - [Jarvis Coordinator](https://x.ai/bot/vGBwBEELW79gSF340zJpb) — 德语协调 Bot，搭档新闻、办公、销售、系统与安全审计专家，默认谨慎批准。 <sub>作者 [Harald](https://x.com/HBud69) · [出处](https://x.com/HBud69/status/2101966920404566208)</sub>
 - [Job Application Pilot](https://x.ai/bot/HhL4o6s2LGOOse8YimJz3) — 帮刚失业的人快速推进申请，契合检查、定制回答与可跟踪投递管道。 <sub>作者 [Oggi](https://x.com/otgondavaa0) · [出处](https://x.com/otgondavaa0/status/2100029723686629710)</sub>
+- [Job Search Chief of Staff](https://x.ai/bot/ZVmTPe7q2tTeG0JA1rwbG) — 求职总参谋：审核你的搜岗 bot 找到的线索，协调简历和进度跟踪 bot，只把需要你处理的事推给你。 <sub>作者 [russell](https://x.com/SelbyAI)</sub>
 - [Job Search Desk](https://x.ai/bot/cQ6VzemGv5Wp3y3mGJLQB) — 私人求职台：每条申请进漏斗，对照岗位写匹配笔记、定制材料与面试准备。 <sub>作者 [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_)</sub>
 - [JobGod](https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2) — 从收件到可发送申请，跑完整场求职流程。 <sub>作者 [DevinLegend](https://x.com/DevinSoto) (@DevinSoto) · [出处](https://x.com/DevinSoto/status/2105426025341755526)</sub>
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — 摸清目标公司，一路往上找到能拍板的人。 <sub>作者 [Liam](https://x.com/liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383148906184985)</sub>
@@ -161,6 +163,7 @@
 - [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) — 销售线索与触达助手。 <sub>作者 Bryan (@community)</sub>
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) — 从一个对口客户扩出同类公司，并确认里面谁能拍板。 <sub>作者 [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [出处](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) — 为场地营销搭并更新私密 Luma 活动页，含文案、品牌、报名、容量候补与名单导出。
+- [Maker's Map](https://x.ai/bot/CErfCNSf3MzBG5CmGv9oi) — 给想开小店的人的分步导师，帮手作和小型创作者在 Etsy 或 Shopify 上起步卖货。 <sub>作者 [SOCIETI](https://x.com/SOCIETILILI)</sub>
 - [Mappy](https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l) — 把目标公司里现在在职的人图画出来。 <sub>作者 [Nick](https://x.com/NickRoman) (@NickRoman) · 社区旧称 *Mappy (Talent Map)* · [出处](https://x.com/NickRoman/status/2093426904950833178)</sub>
 - [Mary (Realtor Assistant)](https://x.ai/bot/eQ4tLI6SMBanz6rovfhyV) — 美国房产经纪的温暖务实助手，盯执照续期、起草文案并整理看房日程。 <sub>作者 [Rick](https://x.com/2Slick) (@2Slick)</sub>
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) — AI 视频与工作室走向市场机器人，生成并迭代短视频、审计社交、起草广告。 <sub>作者 [Patrick](https://x.com/sheridap) (@sheridap)</sub>
@@ -242,6 +245,8 @@
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — 面向 ShopFloor 风格 Etsy 数字店的运营桌，起草上架、客服与节奏。 <sub>作者 [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
 - [Shopify Bot](https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE) — 通过官方插件日常打理 Shopify 店铺：整理商品、盯库存、优化转化、回复顾客问题。 <sub>作者 [Nicholas](https://x.com/nick_nehaul) (@nick_nehaul) · [出处](https://x.com/nick_nehaul/status/2108304525866193171)</sub>
 - [Shopify Store Manager](https://x.ai/bot/ugu85YlM4ARybmt6SDJI8) — 每天盯你的 Shopify 店铺（订单、支付、库存、前台和结账），一切正常时不打扰。 <sub>作者 [Jono](https://x.com/ibuildthings) (@ibuildthings)</sub>
+- [Shopify Store Operator](https://x.ai/bot/_sYZ-UZztgPsmOp4L7Nqr) — 盯着你的 Shopify 店：每日低库存提醒、每周滞销品和周一销售回顾。 <sub>作者 [Jabes](https://x.com/turbomilker)</sub>
+- [Shopify Store Pulse](https://x.ai/bot/kBSc1eU-xj4uQzFkjK7z_) — 每个工作日早上发一份 Shopify 店铺简报：昨日订单、需要处理的退款和退货。 <sub>作者 [Cristopher](https://x.com/crisships)</sub>
 - [Signal Prospector](https://x.ai/bot/wsbOPOkHApmIYLrErnC4e) — 在 CRM 和产品数据里找刚表现出意向的客户和人，排序后起草第一封触达。
 - [Signal Scout](https://x.ai/bot/CT_1GTQjGruBW3ZuYM_h2) — 只看某 X 账号原创帖，排出点赞/转发/引用/回复四份前20支持者榜。 <sub>作者 [Orah](https://x.com/OrahOnX) (@OrahOnX)</sub>
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — 旧金山扫街助手，贴地图钉或路口，就告诉你该路缘下次公示清扫时间。

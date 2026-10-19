@@ -2,7 +2,7 @@
 
 *Receipts, subscriptions, invoices, spend audits, and back-office chores.*
 
-293 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
+295 bots · [← back to the catalog](../../README.md) · [简体中文](finance-ops.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops)
 
 ---
 
@@ -37,6 +37,7 @@
 - [Bronn](https://x.ai/bot/dmdieR7YwBkRJN5xYKnn6) — Capital Raise IR bot for any round. Finds 1st-degree LinkedIn investors, drafts veiled openers + a Day 4–5 one-liner, and sends the DMs itself on a safe. <sub>by [Darren](https://x.com/darrenmarble) (@darrenmarble)</sub>
 - [Buildertrend Invoice Desk](https://x.ai/bot/igyfOAUWRXvTZbDj2J__S) — A teammate that pulls home-build invoices from Buildertrend, builds a local dashboard. <sub>by Brian</sub>
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) — Books, payroll, and tax drafts from source docs for small businesses — fill and advise only under US GAAP/AICPA-style practice. Never e-files or moves. <sub>by [Roman](https://x.com/RomanPotapovBiz) (@RomanPotapovBiz)</sub>
+- [Business Builder](https://x.ai/bot/IfXjrbqsCA2B_YG2hEzL5) — Helps you pick, launch, and grow a small business that fits your budget, time, and skills, starting with a scored list of ideas. <sub>by [Jeremy](https://x.com/Biggs237)</sub>
 - [Business Profile](https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5) — Publishes one Google Business Profile Update on a Mon/Wed/Fri morning cadence from a spreadsheet queue. Verifies each CTA URL, skips duplicates, and. <sub>by [AdvancedBusinessSyst](https://x.com/abstally) (@abstally)</sub>
 - [Buyer](https://x.ai/bot/UYl9ANy65KCyA2bC1KDHr) — Purchasing assistant for trade shops: rolls up invoices, compares prices, drafts restock carts. <sub>by [AARON](https://x.com/AirbossHVAC) (@AirbossHVAC)</sub>
 - [Car Chaser](https://x.ai/bot/_xHffm8tWVvtVic-aJmwa) — Car search with the IF/THEN and OR rules that site filters can't handle, like "under $37k with 3 owners or less, or up to $45k as a single owner." Car. <sub>by [Bryan](https://x.com/ibelevy) (@ibelevy)</sub>
@@ -102,7 +103,6 @@
 - [Finance](https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB) — Household money seat: bills due, subscriptions, cash flow, and what’s off - asks before moving money or contacting banks. <sub>by [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [origin](https://x.com/stevenvillarino/status/2104719871682703832)</sub>
 - [Finance Bot](https://x.ai/bot/MY7NJmE2egN-855ZN6vSh) — Tracks your income and spending from linked accounts, turns a savings goal into weekly targets and month-end checkpoints. <sub>by [Lord](https://x.com/lmickyd) (@lmickyd)</sub>
 - [Finance Bro](https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20) — Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases. First chat walks timezone, currency, and. <sub>by [Maail](https://x.com/maail)</sub>
-- [Finance Fish](https://x.ai/bot/VKYVjjZqmbDHxXj0H0fwo) — Personal debt and cash-flow bot that turns card chaos into a clear payoff plan. Read-only; never moves money without your yes. <sub>by [Bo](https://x.com/CaptPirateBo) (@CaptPirateBo)</sub>
 - [Financial Advisor](https://x.ai/bot/FlK_S-je8TVcA-kH9r40p) — Everyday budgeting and savings planning over your own account balances. <sub>by [Michael](https://x.com/shamash31) (@shamash31) · [origin](https://x.com/shamash31/status/2105366195880825267)</sub>
 - [First-Week Coach](https://x.ai/bot/samFY0kZtZeVHci9gWkqk) — Interviews your week, ships one safe win today, then the next bot, skill, or routine — one at a time. Never sends, spends, or posts without your yes. <sub>by [Big](https://x.com/socalfsd) (@socalfsd)</sub>
 - [Fix-It Fred](https://x.ai/bot/2KIO0IMjeDnRrWgpFaPd6) — Suggests 3 small home projects that fit your skills and budget; renters get deposit-safe ideas. <sub>by [Rodrigo](https://x.com/RSebastian74) (@RSebastian74)</sub>
@@ -129,6 +129,7 @@
 - [HNIC](https://x.ai/bot/gBIsnjL6CucNZAW_ByGPx) — Chief of Staff bot that routes work to specialists, enforces approvals and handoffs, and only pulls you in for judgment or missing info. Built for. <sub>by [J.P.](https://x.com/Macro_Harder) (@Macro_Harder) · [origin](https://x.com/Macro_Harder/status/2100008284551819524)</sub>
 - [Hold My Stock](https://x.ai/bot/rpqMXPRdUiyk6Dc1LF3U9) — Habit coach for holding one stock with three rules. <sub>by [Juliette](https://x.com/JulietteCove) (@JulietteCove)</sub>
 - [Home Project Tracker](https://x.ai/bot/Lin5CjpC3Dxe9xzb6zQL4) — Keeps your home projects, contractor quotes, invoices, and due dates in one Google Sheet you own, and sends a weekly nudge about anything coming due or. <sub>by [Brian](https://x.com/frogman263) (@frogman263)</sub>
+- [HomeKit Gear Advisor](https://x.ai/bot/Okh3DGt8n1gCIbuKs_2qV) — Helps you choose Apple Home and Matter smart home gear room by room, within your budget. <sub>by [Bill](https://x.com/waitwhat171)</sub>
 - [Homer](https://x.ai/bot/GK4GLi9V0teYEEe2Cxh2i) — RAD template that turns product ideas into working bots, including an impressive trading setup. <sub>by [RAD](https://x.com/Roland_RADPCs) · [origin](https://x.com/Roland_RADPCs/status/2101116721922765167)</sub>
 - [Hondo](https://x.ai/bot/GCJq15oQEo2bPS9zQFjMg) — Spend & SaaS Leak Desk that runs a weekday receipt scan, builds a confidence-labeled subscription inventory, and drafts cancel or renegotiate notes. <sub>by [Marc](https://x.com/MavIgnite) (@MavIgnite)</sub>
 - [Hormozi Money Models](https://x.ai/bot/5YvX0dqXaRzi1lYZJz6F0) — Audits how a business makes and keeps cash using Hormozi Money Models frameworks. <sub>by [Arturo](https://x.com/arturorodes) · [origin](https://x.com/arturorodes)</sub>
@@ -276,6 +277,7 @@
 - [Vector](https://x.ai/bot/cXdj8y2O37ddeTOh22D1y) — Conversion-path intelligence for browser-only funnel builders — ClickFunnels, GoHighLevel, Kartra, Systeme, and similar stacks. Crawls live funnels,. <sub>by [John](https://x.com/davincivibecode) (@davincivibecode)</sub>
 - [Vendor Portal Operator](https://x.ai/bot/s98a7368e786130ad172b) <sup>official</sup> — Run renewals, seats, and procurement on portals with no clean API. Clicks the same path every week and comes back with exceptions only. <sub>by [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [Venture Desk](https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA) — One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch checklist so. <sub>by [Scott](https://x.com/CorlettScott) (@CorlettScott)</sub>
+- [Vercel Ops Monitor](https://x.ai/bot/LSo2GKkmt_Fxh-TBz5RLX) — Daily Vercel ops: spend vs plan credit, 5xx, traffic swings, 404s, new errors and failed deploys. Quiet days stay one short line. <sub>by [Gu](https://x.com/cu30rry_) · [origin](https://x.com/cu30rry_/status/2110669884954992900)</sub>
 - [Visibility Marketer](https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF) — Free organic marketer for Grok Bot templates. Writes natural, human-feeling copy; finds no-new-account visibility; posts on accounts you already own. <sub>by [Wardonis](https://x.com/Wardonis) · [origin](https://x.com/Wardonis/status/2102149739500187778)</sub>
 - [Warranty Reality Card](https://x.ai/bot/YWu42GxAe2pMxN5eLzPis) — Maps covered/gray/excluded from warranty clauses. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Warren](https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF) — Scores a ticker against the CAN SLIM growth checklist with entry, stop, and an auditable verdict history, not advice. <sub>by [Ulises](https://x.com/Ulises__gg) · [origin](https://x.com/Ulises__gg/status/2106809689954721818)</sub>

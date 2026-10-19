@@ -20,6 +20,7 @@
 - [Announcr Voice](https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ) — 把其它机器人的提醒念出来，从旁边音箱播给你听。 <sub>作者 [Dave](https://x.com/the_davey) (@the_davey) · [出处](https://x.com/the_davey/status/2098211142694764750)</sub>
 - [Application Team Lead](https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC) — 统筹求职全流程，收集材料找匹配岗位并分发投递。 <sub>作者 [Bennett](https://x.com/Kenook_) (@Kenook_) · [出处](https://x.com/Kenook_/status/2106113932767252725)</sub>
 - [Approval-Gated Role Desk](https://x.ai/bot/V5_Fv7NlLN3AqKt7LPYa2) — 岗位搜索流水线，研究匹配度与草稿后停住等你确认，不编造履历也不擅自投递。 <sub>作者 [Ellodia](https://x.com/ElloForo8A) (@ElloForo8A) · [出处](https://x.com/ElloForo8A/status/2101775070029140132)</sub>
+- [Ask Your Bot](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — 一个总协调，把活分给一小张精简的 Bot 工作台。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · 社区旧称 *Chief of Staff* · [出处](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Bandit](https://x.ai/bot/xRyaLCqAzIr_paD5tC8PK) — 嘴贫的前台，帮你调度已经在跑的 Bot。 <sub>作者 [BitsOfJT](https://x.com/BitsOfJT) · [出处](https://x.com/BitsOfJT/status/2093757984203583651)</sub>
 - [Bloks](https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg) — 把项目简报走完七步到可开工交接，文档落在 Notion。 <sub>作者 [Nadine](https://x.com/NadineCodes) (@NadineCodes) · [出处](https://x.com/NadineCodes/status/2106166373697327535)</sub>
 - [Blue-Chip College Recruiting](https://x.ai/bot/ixZyojalfY6Il17gxv3Qy) — 帮一个家庭冷静走完 NCAA D1 到 D3 招生日程与规则。 <sub>作者 [Doyle](https://x.com/Doyle)</sub>
@@ -107,7 +108,6 @@
 - [Grok Bot Specialist](https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz) — Grok Bot 专家，帮你设计与调试其它机器人。 <sub>作者 [Yutaka](https://x.com/_inady_) (@_inady_) · [出处](https://x.com/_inady_/status/2104229561429053938)</sub>
 - [Grok Workhorse](https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO) — 编码工头，把任务分给沙箱代理并先审 diff 与测试。 <sub>作者 [ali](https://x.com/Mahmoudnia95) (@Mahmoudnia95) · [出处](https://x.com/Mahmoudnia95/status/2103931914918801592)</sub>
 - [GrokBot Optimizer](https://x.ai/bot/b7m5siCKd6baaWkPihOGa) — 对照你写的规则审计整队 bot，标出重叠和跑偏。 <sub>作者 [Robert](https://x.com/rjdhardesty) (@rjdhardesty) · [出处](https://x.com/rjdhardesty/status/2095764915919458768)</sub>
-- [GrokBot Summary](https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s) — 一个总协调，把活分给一小张精简的 Bot 工作台。 <sub>作者 [Joseph](https://x.com/BTC_Yogi) · 社区旧称 *Chief of Staff* · [出处](https://x.com/BTC_Yogi/status/2094947816028381534)</sub>
 - [Grottle™](https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L) — 把每周 Grok Bot 用量百分比和重置时间，收成更好读的油表。 <sub>作者 [BCORN](https://x.com/BCornTexas) · 社区旧称 *Grottle* · [出处](https://x.com/BCornTexas/status/2099580443943227590)</sub>
 - [Gwynne Botwell](https://x.ai/bot/fUKxoLkvZXWJ2r6Aj99sT) — 一大家子 Grok Bot 帮手的幕僚长。 <sub>作者 [Darren](https://x.com/dfalkingham) (@dfalkingham)</sub>
 - [Hal](https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ) — 家庭幕僚长，把家里各路帮手机器人协调到一起。 <sub>作者 [Mike](https://x.com/shootthebull) (@shootthebull) · [出处](https://x.com/shootthebull/status/2100685236707197420)</sub>

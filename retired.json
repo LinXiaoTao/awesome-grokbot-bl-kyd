@@ -1,6 +1,6 @@
 {
   "note": "Shares that did not return HTTP 200 on the last sweep. Kept for transparency; do not import.",
-  "checked": "2026-10-17",
+  "checked": "2026-10-19",
   "entries": [
     {
       "slug": "bot-creator",
@@ -613,6 +613,71 @@
       ],
       "first_seen": "2026-09-16",
       "checked": "2026-10-17",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "finance-fish",
+      "name": "Finance Fish",
+      "author": {
+        "name": "Bo",
+        "handle": "CaptPirateBo",
+        "url": "https://x.com/CaptPirateBo"
+      },
+      "summary": "Personal debt and cash-flow bot that turns card chaos into a clear payoff plan. Read-only; never moves money without your yes.",
+      "summary_zh": "个人债务和现金流机器人，把乱七八糟的信用卡理成清晰的还款计划，只读，没你点头绝不动钱",
+      "official_summary": "🐟 Personal debt and cash-flow bot that turns card chaos into a clear payoff plan. Read-only money pulls, avalanche math, and calm weekly check-ins....",
+      "import": "https://x.ai/bot/VKYVjjZqmbDHxXj0H0fwo",
+      "bot_id": "VKYVjjZqmbDHxXj0H0fwo",
+      "category": "finance-ops",
+      "tags": [
+        "finance"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-10-15",
+      "checked": "2026-10-19",
+      "link_status": 404,
+      "license": "CC0-1.0"
+    },
+    {
+      "slug": "research-lead",
+      "name": "Research Lead",
+      "author": {
+        "name": "Scott",
+        "handle": "TraderScottyS",
+        "url": "https://x.com/TraderScottyS"
+      },
+      "summary": "Fans out financials/products/pipeline/risk into one ticker memo.",
+      "summary_zh": "把财务／产品／管线／风险铺开，合成一份 ticker 备忘。",
+      "official_summary": "Leads a public-company equity research pod. Assigns Financials, Products, Pipeline, and Risk, then stitches one primary-source memo — business,...",
+      "import": "https://x.ai/bot/sF0FLiic1qUdaYsqoHtBL",
+      "bot_id": "sF0FLiic1qUdaYsqoHtBL",
+      "category": "research-briefings",
+      "tags": [
+        "research",
+        "briefing"
+      ],
+      "sources": [
+        {
+          "catalog": "majiayu000/awesome-grok-bot",
+          "url": "https://github.com/majiayu000/awesome-grok-bot"
+        },
+        {
+          "catalog": "cs68614-hash/awesome-grokbot-templates",
+          "url": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+        }
+      ],
+      "first_seen": "2026-09-21",
+      "checked": "2026-10-19",
       "link_status": 404,
       "license": "CC0-1.0"
     }

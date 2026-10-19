@@ -2,12 +2,13 @@
 
 *写代码、审 PR、盯着编码代理干活、把机器照顾好。*
 
-307 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
+309 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](coding-shipping.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping&lang=zh)
 
 ---
 
 - [A11y Fix Queue](https://x.ai/bot/eqLXXJ3pLEWLTLBVpoJ2K) — 从审计转储排出优先的无障碍修复队列。 <sub>作者 [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
 - [Adversarial Security & Usability](https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ) — 对产品文档与代码做对抗式安全与可用性检查，用工单、可操作脚本与真实抓取。 <sub>作者 [Aben](https://x.com/cservincf) (@cservincf)</sub>
+- [AgenC Helper](https://x.ai/bot/Jodoh3TnuH8iQhxkGqMaI) — 受 Lauren Tan（@poteto）公开的 pstack 方法启发的工程搭档：写更少但更好、经过验证的代码。 <sub>作者 [J.P.](https://x.com/Macro_Harder)</sub>
 - [AGENT ALpha](https://x.ai/bot/lwxCB8eGT08l2QbG3Ne9p) — 通用 Agent Alpha 模板，覆盖编码与运维类交付任务。 <sub>作者 [Joshua](https://x.com/Telephantix) · [出处](https://x.com/Telephantix)</sub>
 - [Agent Looper](https://x.ai/bot/AETdGbRRNWfckrRGv22LD) — 盯着本机编程代理反复改，直到验收测试通过。 <sub>作者 [dancingteeth](https://x.com/dancingteeth) · [出处](https://x.com/dancingteeth/status/2093868415542845628)</sub>
 - [Agent Smith](https://x.ai/bot/JcFj23aaufNWkuiiJTX0j) — 多 Bot 工作区的清洁工，不让垃圾越堆越多。 <sub>作者 [Chip](https://x.com/chiplay) · [出处](https://x.com/chiplay/status/2093502053037293650)</sub>
@@ -206,6 +207,7 @@
 - [Path Consolidator Bot](https://x.ai/bot/wL-TZSSeq-ZkLoogQGjU-) — 找出重复代码路径并帮助合并。 <sub>作者 [Joshua](https://x.com/joshuastowell25) (@joshuastowell25)</sub>
 - [Peep.txt](https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ) — 按 AI 爬虫视角审计单个网址，并起草一份 llms.txt 补丁清单。 <sub>作者 [Eric](https://x.com/ericesoteric) (@ericesoteric) · [出处](https://x.com/ericesoteric/status/2102910573952508090)</sub>
 - [Pit Crew](https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1) — 给 bot 所在电脑做保养，腾内存和磁盘，保持更新顺畅。 <sub>作者 [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [出处](https://x.com/scottxmetcalf/status/2103144210681700713)</sub>
+- [Pitstop](https://x.ai/bot/BmvnQ9BkCIQ2AGIneJ1Ez) — 每天让你选定的开发工具保持最新：按各自的安装方式逐个升级，绝不降级。 <sub>作者 [Jay](https://x.com/jayparkcanada)</sub>
 - [Playtest Operator](https://x.ai/bot/s2cfcbb8a38b8e22b7d18) <sup>官方</sup> — API 测不到的路径就硬来：在机器上直接操作界面，抓下失败，交一份精简发现清单。 <sub>作者 [SpaceX](https://x.com/DenisLabelle) (@DenisLabelle)</sub>
 - [PM bot](https://x.ai/bot/FeeqMRMJr2jwixCROZcIh) — 当你的 PM：写带日期的范围裁剪，什么做、什么不做、怎样算完成，你批准后工程才开工。
 - [Pod](https://x.ai/bot/lsyECsGbEgYpp6PdhDWR5) — 围绕「Pod」的工作流助手，按说明完成首次只读任务后再开写入。 <sub>作者 Quinn (@community)</sub>

@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-281 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+286 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -94,6 +94,7 @@
 - [Founder Growth Pilot](https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ) — Finds targets and drafts personal notes; never sends without you. <sub>by [Guy](https://x.com/guysuter) (@guysuter)</sub>
 - [FounderSales](https://x.ai/bot/NWZOp_PkJhy87qGDCzGKi) — Founder-led sales helper: researches prospects, drafts outreach for your approval, and keeps follow-ups from slipping. <sub>by [Carolina](https://x.com/CarolinaDill)</sub>
 - [GEO & SEO Optimierung](https://x.ai/bot/RbJ2x4neT6ePfZbz22spM) — GEO- und SEO-Assistent für Unternehmenswebsites: Sichtbarkeit in Suchmaschinen und generativen Engines verbessern, Landingpages und technische Basis. <sub>by [Christian](https://x.com/christian_reik) (@christian_reik)</sub>
+- [Go Direct](https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e) — Skip the press. Lulu helps founders tell their story straight to the 50 to 500 people who actually matter: investors, early customers, future hires. <sub>by [Landon](https://x.com/LandonH) · [origin](https://x.com/LandonH/status/2110874066064396574)</sub>
 - [Gong Call Coach](https://x.ai/bot/KpodhhBqjA4FHv47R1HrD) — Turns stored sales-call recordings into short coaching notes for the rep. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf) · [origin](https://x.com/scottxmetcalf/status/2098051251720335837)</sub>
 - [Google Business Profile Manager](https://x.ai/bot/IylsiGKgYwXYOOZ99_CwT) — You run one Google Business Profile for a local business: draft posts and review replies, audit the listing, clear Needs Attention → 100% Completeness,. <sub>by [Aaron](https://x.com/JimmyFlipHDR) (@JimmyFlipHDR)</sub>
 - [Gotcha Grid](https://x.ai/bot/TemeQ_BwE1Vbnv7eIanfp) — Side-by-side vendor quote gotcha grid. <sub>by [Andy](https://x.com/yandymccutcheon) (@yandymccutcheon)</sub>
@@ -128,6 +129,7 @@
 - [IOIQ Lite · Site Care](https://x.ai/bot/nGlUg9-CHIYUocr8NUC8m) — Lightweight keyless site care scorecard for small business sites. <sub>by [Sam](https://x.com/sam_builds_ai) (@sam_builds_ai)</sub>
 - [Jarvis Coordinator](https://x.ai/bot/vGBwBEELW79gSF340zJpb) — German coordinator bot with specialist partners for news, office, sales, systems, and a security auditor under tight approvals. <sub>by [Harald](https://x.com/HBud69) · [origin](https://x.com/HBud69/status/2101966920404566208)</sub>
 - [Job Application Pilot](https://x.ai/bot/HhL4o6s2LGOOse8YimJz3) — Helps people who just lost a role move fast on applications: fit checks, tailored answers, and a tracked apply pipeline so forms do not eat the whole day. <sub>by [Oggi](https://x.com/otgondavaa0) · [origin](https://x.com/otgondavaa0/status/2100029723686629710)</sub>
+- [Job Search Chief of Staff](https://x.ai/bot/ZVmTPe7q2tTeG0JA1rwbG) — A chief of staff for your job search: reviews your scout bot's leads, coordinates your resume and tracker bots, and surfaces only what needs you. <sub>by [russell](https://x.com/SelbyAI)</sub>
 - [Job Search Desk](https://x.ai/bot/cQ6VzemGv5Wp3y3mGJLQB) — Your private job-search desk: pipeline each application, get fit notes from the posting, a tailored application pack, and interview prep. <sub>by [Mike](https://x.com/DoonerDesigns_) (@DoonerDesigns_)</sub>
 - [JobGod](https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2) — Runs your whole job hunt from intake to ready-to-send applications. <sub>by [DevinLegend](https://x.com/DevinSoto) (@DevinSoto) · [origin](https://x.com/DevinSoto/status/2105426025341755526)</sub>
 - [John Wick](https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7) — Maps a target company and works upward until it reaches the decision maker. <sub>by [Liam](https://x.com/liam_fallen) · [origin](https://x.com/liam_fallen/status/2093383148906184985)</sub>
@@ -161,6 +163,7 @@
 - [Local Leads Finder](https://x.ai/bot/20XAOL-rGYHvg0BvJgXLz) — Finds real buyers for your trade or building-supply business. <sub>by Bryan (@community)</sub>
 - [Lookalike Scout](https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI) — From one fit account, fans out lookalike businesses and confirms who would sign off. <sub>by [Taus](https://x.com/ShehjadTaus) (@ShehjadTaus) · [origin](https://x.com/ShehjadTaus/status/2098538235303735484)</sub>
 - [Luma Pages](https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY) — Builds and updates private Luma event pages for field marketers - copy, branding, registration settings, capacity and waitlist, and registration-list.
+- [Maker's Map](https://x.ai/bot/CErfCNSf3MzBG5CmGv9oi) — For aspiring small business owners. A step-by-step mentor for new handmade and small makers selling on Etsy or Shopify. <sub>by [SOCIETI](https://x.com/SOCIETILILI)</sub>
 - [Mappy](https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l) — Maps everyone currently working at a target company. <sub>by [Nick](https://x.com/NickRoman) (@NickRoman) · aka *Mappy (Talent Map)* · [origin](https://x.com/NickRoman/status/2093426904950833178)</sub>
 - [Mary (Realtor Assistant)](https://x.ai/bot/eQ4tLI6SMBanz6rovfhyV) — A warm, practical assistant for US real estate agents. Mary tracks licensing and renewals, drafts lead follow-ups, and preps listings, CMAs, showings,. <sub>by [Rick](https://x.com/2Slick) (@2Slick)</sub>
 - [Media](https://x.ai/bot/bAGe8vsdblitlsmH-z0ys) — AI video + studio GTM bot: generate and iterate short-form video, audit social, draft Ads/influencer outreach, and orchestrate ops jobs without holding. <sub>by [Patrick](https://x.com/sheridap) (@sheridap)</sub>
@@ -242,6 +245,8 @@
 - [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake. <sub>by [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
 - [Shopify Bot](https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE) — Runs a Shopify store day to day via the official plugin: catalog tidying, stock watching, conversion work and customer questions. <sub>by [Nicholas](https://x.com/nick_nehaul) (@nick_nehaul) · [origin](https://x.com/nick_nehaul/status/2108304525866193171)</sub>
 - [Shopify Store Manager](https://x.ai/bot/ugu85YlM4ARybmt6SDJI8) — Watches your Shopify store every day (orders, payments, inventory, storefront, and checkout) and stays quiet when everything's healthy. <sub>by [Jono](https://x.com/ibuildthings) (@ibuildthings)</sub>
+- [Shopify Store Operator](https://x.ai/bot/_sYZ-UZztgPsmOp4L7Nqr) — Watches your Shopify store with daily low-stock alerts, weekly slow movers, and a Monday sales recap. <sub>by [Jabes](https://x.com/turbomilker)</sub>
+- [Shopify Store Pulse](https://x.ai/bot/kBSc1eU-xj4uQzFkjK7z_) — Every weekday morning, sends a short pulse from your Shopify store: yesterday's orders, open refunds or returns that need attention. <sub>by [Cristopher](https://x.com/crisships)</sub>
 - [Signal Prospector](https://x.ai/bot/wsbOPOkHApmIYLrErnC4e) — Finds the accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch.
 - [Signal Scout](https://x.ai/bot/CT_1GTQjGruBW3ZuYM_h2) — Ranks the top 20 supporters of an X account in four lists: likes, reposts, quote posts, and replies, based only on the account's original posts. <sub>by [Orah](https://x.com/OrahOnX) (@OrahOnX)</sub>
 - [skippy](https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx) — A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public.
