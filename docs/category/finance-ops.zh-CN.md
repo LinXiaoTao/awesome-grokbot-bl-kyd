@@ -2,7 +2,7 @@
 
 *票据、订阅、发票、花费审计，以及各种后台杂务。*
 
-295 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
+301 个 · [← 回到目录首页](../../README.zh-CN.md) · [English](finance-ops.md) · [在网页版筛选 ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=finance-ops&lang=zh)
 
 ---
 
@@ -29,18 +29,23 @@
 - [Bitcoin](https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z) — 在聊天里用 Lightning 结账，买礼品卡、eSIM 与 VPN，需要时在闪电与链上挪动 sats。 <sub>作者 [lightning](https://x.com/sparkbtcbot) (@sparkbtcbot) · [出处](https://x.com/sparkbtcbot/status/2100000602638237705)</sub>
 - [Blair](https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme) — 私人买手，找二手设计师单品，还能下单。 <sub>作者 [Jediah](https://x.com/jediahkatz) (@jediahkatz) · 社区旧称 *Blair (Personal Shopper)* · [出处](https://x.com/jediahkatz/status/2093391579964694670)</sub>
 - [Bob](https://x.ai/bot/csVKIHvcrRYcL8vmhvmSa) — 可调谐的数字电视搭档，与直播主持互怼、吐槽新闻并稳住场子。 <sub>作者 [joseph](https://x.com/jfkcaaz) (@jfkcaaz)</sub>
+- [Bookkeeping Ninja Bank Rec](https://x.ai/bot/ISrPfEtK0OFbjbokNK9Xw) — 把银行流水和 Xero 或 QuickBooks Online 里已有的账单对上，标出对不上的条目。 <sub>作者 Tim</sub>
 - [Boss](https://x.ai/bot/B3GjCUHLnI793bGJ1bjT8) — 你的 Grok Bot 团队参谋，把活分给专岗并只交成品与是否卡。 <sub>作者 [Don](https://x.com/Don)</sub>
 - [Boss B](https://x.ai/bot/DGg-YKZc5Wwl7QN1O2sKG) — 多机器人小店的前门编排器，做计划、分给专家或 Grok Build CLI，并检查结果，自己不当第二程序员。 <sub>作者 [Deana](https://x.com/revrocketaeo) (@revrocketaeo)</sub>
+- [Bot Budget Guard](https://x.ai/bot/CFNwEKsM5nPPRQhPVZMCD) — 给你的 bot 配一个预算守卫：跟踪每项任务，先测量再削减，决定权在你。 <sub>作者 [Michael](https://x.com/MikeysMolecules) (@MikeysMolecules)</sub>
 - [BOTOSHI](https://x.ai/bot/29XazZFrrsJyI8LUnExDD) — 零 ETH 的 BOTCOIN 挖矿装置，带新矿工上手。 <sub>作者 [BOTCOIN](https://x.com/MineBotcoin) (@MineBotcoin)</sub>
 - [Bound](https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh) — FFL 经销商的 FastBound A&D 周审，标出售后未结项。 <sub>作者 [Jason](https://x.com/Jasonturcotte) (@Jasonturcotte) · [出处](https://x.com/Jasonturcotte/status/2103641289480982601)</sub>
 - [Bounty Hunter](https://x.ai/bot/gCWYD009F66A3XDEYdZgf) — 翻邮件和账单，找你从没追过的退款和额度。 <sub>作者 [Liam](https://x.com/liam_fallen) · [出处](https://x.com/liam_fallen/status/2093383127162925558)</sub>
 - [Bronn](https://x.ai/bot/dmdieR7YwBkRJN5xYKnn6) — 任意轮次的融资投资者关系机器人，找一度 LinkedIn 投资人，起草含蓄开场。 <sub>作者 [Darren](https://x.com/darrenmarble) (@darrenmarble)</sub>
+- [Buchhaltung Sevdesk/Datev](https://x.ai/bot/CrRvSjE9QTGDd_cWC6KEH) — 给用 sevDesk 的德国公司做账：从邮件和文件夹收集发票，按正确科目和税则入账。 <sub>作者 [Michael](https://x.com/MichaelAntonF) (@MichaelAntonF)</sub>
 - [Buildertrend Invoice Desk](https://x.ai/bot/igyfOAUWRXvTZbDj2J__S) — 从 Buildertrend 拉建房发票，做本地看板并跑开支分析。 <sub>作者 Brian</sub>
 - [Business Accountant](https://x.ai/bot/PTOBYQBPtEQtA1S8M1Pga) — 从小企业源文件起草账本、薪酬与税务，只在美式准则下填写与建议，绝不自行电子申报或挪钱。 <sub>作者 [Roman](https://x.com/RomanPotapovBiz) (@RomanPotapovBiz)</sub>
 - [Business Builder](https://x.ai/bot/IfXjrbqsCA2B_YG2hEzL5) — 帮你挑选、启动和发展一门符合预算、时间和技能的小生意，从一份打分的点子清单开始。 <sub>作者 [Jeremy](https://x.com/Biggs237)</sub>
 - [Business Profile](https://x.ai/bot/qHgP-l6Z1rFXMv3qUbQQ5) — 周一三五早间从素材库发一条谷歌商家资料更新。 <sub>作者 [AdvancedBusinessSyst](https://x.com/abstally) (@abstally)</sub>
 - [Buyer](https://x.ai/bot/UYl9ANy65KCyA2bC1KDHr) — 给 HVAC、电工等工程店的采购助手：汇总供应商发票、比价并起草补货购物车。 <sub>作者 [AARON](https://x.com/AirbossHVAC) (@AirbossHVAC)</sub>
 - [Car Chaser](https://x.ai/bot/_xHffm8tWVvtVic-aJmwa) — 带站点筛选做不到的IF/THEN与OR规则的找车助手，例如三万七以下且车主不超过三人。 <sub>作者 [Bryan](https://x.com/ibelevy) (@ibelevy)</sub>
+- [Car Deal Scout](https://x.ai/bot/4-ai7JQWpKpOUiK1Ih0J3) — 说出你想要的车型、年份、预算、必备配置和愿意跑多远，它帮你找车。 <sub>作者 [Kent](https://x.com/KentBWeber)</sub>
+- [Cash Flow Forecaster](https://x.ai/bot/GzwwJyunonmG3IJTg9mc-) — 连接银行、YNAB、QuickBooks、Xero、Stripe 等或任意 CSV 导出，画出未来 30 天到 1 年的现金余额。 <sub>作者 [Chets](https://x.com/SondagarChetan) (@SondagarChetan)</sub>
 - [Catch](https://x.ai/bot/iKSYn9Dsn07JyR50qePha) — 小生意幕僚长，从噪声里捞出真正重要的事。 <sub>作者 [Tye](https://x.com/TyeInBloom) (@TyeInBloom) · [出处](https://x.com/TyeInBloom/status/2104334231224680914)</sub>
 - [Certified Mail](https://x.ai/bot/2_atrZhx9w5HRmJKlw7DM) — 经 Lob API 寄出带回执的挂号信，寄出前先核对地址与样张。 <sub>作者 [Zach](https://x.com/zrottmann) (@zrottmann) · [出处](https://x.com/zrottmann/status/2105843873004007551)</sub>
 - [Charlie Munger](https://x.ai/bot/gsMvBGnKZFIjRU4bCsLR2) — 基于查理·芒格打法的投资 bot：筛选想法、评判护城河、审视你的心理，少出手但下重注。 <sub>作者 [Carm1ne](https://x.com/carm1nee) · [出处](https://x.com/carm1nee/status/2110509068292903325)</sub>
@@ -74,6 +79,7 @@
 - [Dagny](https://x.ai/bot/cbdUpGcKsW9drlkAe9Jd4) — 多店烘焙品牌的组合总经理搭子，看营收缺口与营销下一步。 <sub>作者 [Michael by Michael](https://x.com/Michael) (@Michael)</sub>
 - [Daily Financial Brief](https://x.ai/bot/s2YEW2exxqk-BhcWfGziz) — 每天早上的理财简报，汇总你绑定的账户、市场和板块走势，以及值得一看的科技、能源、美联储和国际新闻。 <sub>[出处](https://x.com/swetha_lochte/status/2107149104761737243)</sub>
 - [Daisy (Travel Rewards Desk)](https://x.ai/bot/QgAFcr09rf_GsGM-nNast) — 为叠里程、酒店身份与信用卡返现的情侣与家庭掌管行程与忠诚运营，建奖励目录并比较现金与积分。 <sub>作者 [Gregory](https://x.com/Gregory44597294) (@Gregory44597294) · [出处](https://x.com/Gregory44597294/status/2099991475165544560)</sub>
+- [Date Night Concierge](https://x.ai/bot/FqJqZvOqVMcxURYA3WmL2) — 你的约会之夜管家：每两周给三个符合你口味、预算和城市的真实点子，然后真的去订位。 <sub>作者 [Marlon](https://x.com/themarlonroldan)</sub>
 - [Dave Ramsey](https://x.ai/bot/XcmxDFYpD0IBtdFwjnIkJ) — 家庭预算教练，按信用卡账单周期做零基预算，并推你按计划还债。 <sub>作者 [Will](https://x.com/wrowston) (@wrowston)</sub>
 - [DCA Bot](https://x.ai/bot/AV8qLbETDkgCNT8C4HPAf) — 动态定投机器人，价格、成交量和情绪低迷时多买，过热时少买，始终不超过你的月度上限。 <sub>作者 [Ash](https://x.com/Must_be_Ash) · [出处](https://x.com/Must_be_Ash/status/2107224527382118499)</sub>
 - [Deadline Desk](https://x.ai/bot/0lzORVii9A5b6W4ly6pEJ) — 把埋在收件箱里的截止日期提前揪出来。 <sub>作者 [Alex](https://x.com/AlexFCHF) · [出处](https://x.com/AlexFCHF/status/2104372283523367295)</sub>
@@ -126,6 +132,7 @@
 - [Grok Bot](https://x.ai/bot/4jtnk5wsk0UMpDSNqG4Oc) — 用这个模板新建机器人，或套到已有机器人上。
 - [Grokinhood](https://x.ai/bot/0dutdroToJ4yVB7xHHGCJ) — 自动跑 Robinhood 实盘，按仓位剧本交易，大约三十分钟一轮管理。 <sub>作者 [Trey](https://x.com/itll_do) (@itll_do)</sub>
 - [Haggle Bot](https://x.ai/bot/pwQ612YrX3R0eACnIMlom) — 从 Ramp 与账单盘点 SaaS 花费，找闲置席位、重复订购与更便宜替代，并起草谈判邮件。
+- [Hagglebot](https://x.ai/bot/0xFG7K1XBbdOnKbp45zkz) — 帮企业和个人找出浪费的开销，谈更好的价格和条款，从供应商、SaaS 合同到账单、房租都管。 <sub>作者 [Anon](https://x.com/AnonHaggle) (@AnonHaggle)</sub>
 - [HNIC](https://x.ai/bot/gBIsnjL6CucNZAW_ByGPx) — 幕僚长机器人，把活分给专家，强制审批与交接，并盯结果。 <sub>作者 [J.P.](https://x.com/Macro_Harder) (@Macro_Harder) · [出处](https://x.com/Macro_Harder/status/2100008284551819524)</sub>
 - [Hold My Stock](https://x.ai/bot/rpqMXPRdUiyk6Dc1LF3U9) — 用三条规则持有一只股票的习惯教练。 <sub>作者 [Juliette](https://x.com/JulietteCove) (@JulietteCove)</sub>
 - [Home Project Tracker](https://x.ai/bot/Lin5CjpC3Dxe9xzb6zQL4) — 把家装项目、报价、发票与到期日收进你自己的表格并周提醒。 <sub>作者 [Brian](https://x.com/frogman263) (@frogman263)</sub>
@@ -195,7 +202,6 @@
 - [Personal CFO Lite](https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU) — 分析银行 CSV 的支出、账单、生活方式膨胀和现金流。
 - [point peddler](https://x.ai/bot/PFD95widaEeqjkYLLUZmD) — 积分出行大脑，把点数怎么花算明白。 <sub>作者 [Daniel](https://x.com/poteto) (@poteto) · [出处](https://x.com/poteto/status/2093483181588779415)</sub>
 - [Polly](https://x.ai/bot/MvgLJbHeHFjc7J9D419_J) — Polymarket 研究台，挖行情、估仓位，并把笔记整理干净。 <sub>作者 [Jodi](https://x.com/WorkWithJodi) · [出处](https://x.com/WorkWithJodi/status/2101113189341540826)</sub>
-- [Polymarket Scans](https://x.ai/bot/x_TnIafQbUyz5XbDGMz20) — Polymarket 美盘下注桌，结合公开参考扫描现场盘口并控制仓位。 <sub>作者 [h](https://x.com/automaticslay) (@automaticslay)</sub>
 - [porshe](https://x.ai/bot/BXDRX1jaURkI4Tx70zLg6) — 找出你已经该收、却还没去要的钱。 <sub>作者 [Lauren](https://x.com/poteto) · [出处](https://x.com/poteto/status/2093518231235686589)</sub>
 - [Portfolio Adviser](https://x.ai/bot/FRPgDTB8gD_iSm6aWIp_Z) — 跟踪你持仓相关的行情与新闻，复盘组合，帮你想清楚调仓和新仓位。 <sub>作者 Avid</sub>
 - [POSSESSIONS: Home Inventory & Net Worth](https://x.ai/bot/_AtzRQVYEzMUS8QsanARG) — 把家里物品、车辆与账户当成一份可跟踪的投资组合。 <sub>作者 [Bill](https://x.com/bill_mitchell_) (@bill_mitchell_) · 社区旧称 *POSSESSIONS* · [出处](https://x.com/bill_mitchell_/status/2105420420283314572)</sub>

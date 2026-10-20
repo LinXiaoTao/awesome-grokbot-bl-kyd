@@ -2,7 +2,7 @@
 
 *Write code, review PRs, babysit coding agents, keep the box healthy.*
 
-309 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
+313 bots · [← back to the catalog](../../README.md) · [简体中文](coding-shipping.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=coding-shipping)
 
 ---
 
@@ -48,6 +48,7 @@
 - [Chief of Staff](https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4) — Small-business chief of staff that routes work across specialist bots for GTM, editorial, and engineering while keeping connector lanes clean. <sub>by [EdibleAnus](https://x.com/TheEdibleAnus) · [origin](https://x.com/TheEdibleAnus/status/2100872166199660876)</sub>
 - [Claude Code](https://x.ai/bot/71PSQ4KBs-hNYBsH05X_n) — A dedicated coding agent that runs all software work through the Claude Code CLI. <sub>by [Daniel](https://x.com/DanielZambrini) (@DanielZambrini)</sub>
 - [Claude Code](https://x.ai/bot/21qraGWAc4RJ3ra04boUK) — Adds the real Claude Code CLI to your Grok Bot team on Opus 5.5. <sub>by IndependentDocX (@community)</sub>
+- [Claude Code Bot](https://x.ai/bot/1h-5qyBL3Pqkz3CplXpri) — Moves your bot's code work from Cursor cloud agents to Claude Code. <sub>by [Carlos](https://x.com/carlosnoriega)</sub>
 - [Claude Local](https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C) — Routes coding asks through Claude Code on your Mac for one GitHub repo via Remote Control setup. <sub>by [Seth](https://x.com/SethBuildsAI) (@SethBuildsAI) · [origin](https://x.com/SethBuildsAI/status/2102740205983711715)</sub>
 - [Claudey](https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D) — Hands frontend and architecture jobs to the Claude Code CLI, then opens the PR. <sub>by [Farzad](https://x.com/farzyness) (@farzyness) · [origin](https://x.com/farzyness/status/2094240859243913669)</sub>
 - [CLI Conductor](https://x.ai/bot/UOzzEspeL4vefpe8t3jql) — One bot that talks to all your other AIs: it routes each task to the best AI command-line tool you have (Grok CLI, Codex, Claude Code, Gemini CLI). <sub>by [XIang](https://x.com/jasonlix993)</sub>
@@ -117,6 +118,7 @@
 - [Founder Chief of Staff](https://x.ai/bot/W350IEIZT0ut-X-l-jyaG) — Chief of Staff for shipping Wardrobe Atelier — an app testing a product idea. <sub>by [Calista](https://x.com/clstachn)</sub>
 - [Founder Copilot](https://x.ai/bot/W_cxXC4RtYabFbl6rFg9l) — The AI co-founder for solo builders: a ranked morning brief across email, Stripe, Vercel and leads, plus customer insights, lead follow-ups, branding,. <sub>by [marcos](https://x.com/marcos)</sub>
 - [Framecraft](https://x.ai/bot/rT68Jw98kUdeABmvFobN5) — Builds and cleans Figma frames for product designers: library components, CSS-style autolayout, pixel-accurate spacing from inspected properties. Keeps. <sub>by [Steven](https://x.com/stevenvillarino) (@stevenvillarino) · [origin](https://x.com/stevenvillarino/status/2104719700987117983)</sub>
+- [Free AI Credits Finder](https://x.ai/bot/2RMpvk-o3eewwd0SKsQhU) — Hunts freebies: signs up for free AI tools, developer credits and cloud trials, tracks when they expire, and finds coupons and cashback. <sub>by Lida</sub>
 - [Frontier Model Watch](https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S) — One verified daily digest of releases from ten frontier AI labs. <sub>by [Amina](https://x.com/GuleidAmina) · [origin](https://x.com/GuleidAmina/status/2093400067617309106)</sub>
 - [Game Builder](https://x.ai/bot/iaOrz78m_w7I90kusc5ia) — Ships small playable games and mini-loops you can open offline, with win/lose and optional points, not pitch decks. <sub>by [Eric](https://x.com/EricBuess) · [origin](https://x.com/EricBuess/status/2100918623145488729)</sub>
 - [GameDev](https://x.ai/bot/ZHNsPcOU8ej_E7VNElxD0) — On-call HTML game fixer that ships small player-requested changes live. <sub>[origin](https://x.com/StreamTeem/status/2100742508925845971)</sub>
@@ -267,6 +269,7 @@
 - [substreams](https://x.ai/bot/4ZzeuafN9Z1boU8smYIXv) — Build and run Substreams blockchain data pipelines from chat. <sub>by [Graphtronauts](https://x.com/graphtronauts_c) (@graphtronauts_c) · [origin](https://x.com/graphtronauts_c/status/2094476749052555631)</sub>
 - [SWE](https://x.ai/bot/sd4474cf03cd8552905ff) — Cursor's software engineer bot: writes code, triages issues, monitors production, and more. <sub>by Cursor</sub>
 - [SWE Job Applier](https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf) — Chases engineering internships using Simplify and your own letter template. <sub>by [Fiona](https://x.com/fwhittington_24) (@fwhittington_24) · [origin](https://x.com/fwhittington_24/status/2098810814668886087)</sub>
+- [T3/GrokBot Connector](https://x.ai/bot/FfyFNHvtbtuRV04Rg9hBm) — Sends you one short note whenever a T3 Code, Claude Code, or Codex thread finishes, stalls, or errors. <sub>by [Taylor](https://x.com/taylorhbuilds)</sub>
 - [Tally Desk](https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5) — Builds Tally forms, reads the responses, fills one on request. <sub>by [Josh](https://x.com/joshkim) (@joshkim) · [origin](https://x.com/joshkim/status/2093795274598817946)</sub>
 - [Team Coordinador](https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk) — Keeps specialist bots in their lanes with a shared vault and a digest. <sub>by [Jean](https://x.com/LordCocoro) (@LordCocoro) · [origin](https://x.com/LordCocoro/status/2099986391220318235)</sub>
 - [Tech Demos](https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU) — Weekday X-bookmark scout that picks one new library to demo, asks for approval, then plans and builds it in a sticky monorepo with a Cursor cloud agent. <sub>by [Matt](https://x.com/mattyp) (@mattyp)</sub>
@@ -292,6 +295,7 @@
 - [VPS bot](https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T) — 帮你搭建和调优代理 VPS：内核低延迟与多协议部署. <sub>by 茄哥 (@community) · [origin](https://x.com/qg7777/status/2103669051197468915)</sub>
 - [Web Security Audit](https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR) — Defensive security review for sites and repos you own, scored P0 to P2. <sub>by [Paresh](https://x.com/pareshdesai) (@pareshdesai) · [origin](https://x.com/pareshdesai/status/2100703233979342994)</sub>
 - [Webhook Guide](https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66) — Walks you through setting up and triggering Grok Bot webhook routines step by step. <sub>by [Tobi](https://x.com/tobiasztop) (@tobiasztop)</sub>
+- [Webi](https://x.ai/bot/LI80oX1Y_cQ_t9f4LwgxE) — A web designer and front-end coder that owns your site's look, mockups and HTML/CSS/JS/WordPress code, and proves every change on the live URL. <sub>by [Jaime](https://x.com/JaimeBubblehead) (@JaimeBubblehead) · [origin](https://x.com/JaimeBubblehead/status/2111593469386817798)</sub>
 - [WebMCP Eval & Build Guide](https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD) — Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, then turn those gaps into a short Webtools Build brief. For owners. <sub>by [Growth](https://x.com/fxopsAI) (@fxopsAI)</sub>
 - [Website Publisher](https://x.ai/bot/UuKqeb4npN9RsP1G3REFR) — Website SEO and docs habits with weekly Search Console routine plus Cloudflare Mintlify MailerLite PostHog Resend Playwright GitHub plugins. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks) · [origin](https://x.com/ryanthawks/status/2105811724485943716)</sub>
 - [WhatsApp-Bot](https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1) — Turns repeat WhatsApp Web chores into scripts you can replay. <sub>by [Alexandre](https://x.com/alexhawat) (@alexhawat)</sub>

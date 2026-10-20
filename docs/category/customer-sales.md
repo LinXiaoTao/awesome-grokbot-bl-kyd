@@ -2,7 +2,7 @@
 
 *Prospecting, outbound drafts, call support, and account follow-through.*
 
-286 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
+290 bots · [← back to the catalog](../../README.md) · [简体中文](customer-sales.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=customer-sales)
 
 ---
 
@@ -144,6 +144,7 @@
 - [Lead Scout](https://x.ai/bot/j3Qule6BFplSpVqgLpVnV) — Finds nearby small firms whose sites are under-optimised for search. <sub>by [Ryan](https://x.com/itsryanlenk) (@itsryanlenk) · [origin](https://x.com/itsryanlenk/status/2101336928134001090)</sub>
 - [Lead Scout](https://x.ai/bot/2bFnH8zBwS5Nj4R-5Wfcr) — Finds local businesses with missing, broken or outdated websites, audits them with screenshots and Lighthouse. <sub>by [0xDaemon](https://x.com/ICoffeeDaemon)</sub>
 - [Leads from Meta/Google Ads](https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p) — Finds B2B leads that are actively advertising and stages a reviewable CRM import. <sub>by [Alexandre](https://x.com/aferrari) (@aferrari) · [origin](https://x.com/aferrari/status/2093431817231589764)</sub>
+- [Left on Read](https://x.ai/bot/LhSejPzO1Y_gNJDR8YYB8) — Shows local service businesses how much money they're leaving in Instagram DMs, wins back cold leads, then answers and qualifies new ones. <sub>by [power](https://x.com/powermoves82267) (@powermoves82267)</sub>
 - [Legend Lead Ops](https://x.ai/bot/WCZjv-qHMtHz2AdQW136q) — Owns roofing lead intake with SMS and email drafts plus Quick Quote handoffs. <sub>by [Legend](https://x.com/legendRoofingCo) · [origin](https://x.com/legendRoofingCo/status/2101471064857378821)</sub>
 - [LinkedIn Agent](https://x.ai/bot/TtbtDOEfnPntO9DWANx3P) — LinkedIn profile rewrite and weekday invite batches. <sub>by [Scott](https://x.com/scottxmetcalf) (@scottxmetcalf)</sub>
 - [LinkedIn Agent](https://x.ai/bot/2jelZnGWnAlhmvHFZOp1N) — A LinkedIn ghostwriter and networking assistant. It finds sourced topics in your lane, drafts posts and outreach in your voice. <sub>by [Ryan](https://x.com/ryanthawks) (@ryanthawks)</sub>
@@ -181,6 +182,7 @@
 - [Onboarder](https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN) — Walks a first-time customer from hello to a working setup one real connection at a time, then retires. <sub>by [@suddenlyjon](https://x.com/SuddenlyJon) (@SuddenlyJon) · [origin](https://x.com/SuddenlyJon/status/2106819904804413546)</sub>
 - [One-Page Bid](https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY) — For consultants, freelancers, and agency owners coming off a discovery or sales call. <sub>by Sol</sub>
 - [Order Desk](https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0) — Checks for orders and manages your stock. <sub>by [Colin](https://x.com/ColinMcDermott) (@ColinMcDermott) · [origin](https://x.com/ColinMcDermott/status/2105790820318359680)</sub>
+- [Outbound Prospecting + X Scout](https://x.ai/bot/-hT6V7gjHV5lynfbviqf4) — Builds a sourced list of people worth selling to, drafts the first message, and scans X twice a day for buyers asking for help. <sub>by [Shagghie](https://x.com/PixelRainbowNFT) (@Shagghie Superstar)</sub>
 - [Outbound Sales](https://x.ai/bot/bS2mwnm10pWqcms_RzTI0) — Autonomous outbound SDR for B2B teams. Researches and scores prospects, drafts multi-touch sequences, handles replies. <sub>by Jeroen</sub>
 - [Outbound Sales Desk](https://x.ai/bot/_F4QaOQDrr6Rh4OpkfaaM) — Builds a prospect list from your ideal customer profile, drafts personal first touches, and runs a strict three-touch sequence before closing the lead. <sub>by [Charles](https://x.com/ASaltyVet) · [origin](https://x.com/ASaltyVet/status/2107323794478211249)</sub>
 - [Outreach Agent](https://x.ai/bot/wexM_NUvEByvLwrnTR_F3) — Daily hold-send warm-outreach operator for founders and sales teams. <sub>by [Eric](https://x.com/ericosiu)</sub>
@@ -222,6 +224,7 @@
 - [Revenue Signal Radar](https://x.ai/bot/9BnpveyF3fbsRRtolSWpp) — Finds the revenue already sitting in your HubSpot pipeline. <sub>by [Eric](https://x.com/ericosiu) (@ericosiu) · [origin](https://x.com/ericosiu/status/2095629858630160695)</sub>
 - [Review Desk](https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc) — Drafts review replies in your shop's own voice, star-sorted, with you approving each one. <sub>by [Liftably](https://x.com/AraXsuper) (@AraXsuper) · [origin](https://x.com/AraXsuper/status/2103185829615038718)</sub>
 - [Review Reply Craft](https://x.ai/bot/wjIrg0RP6NeJOFVduz6n6) — Helps small local businesses write human-sounding Google review replies and turn goodwill into paid reply packs. <sub>by [Mrunknown.cro](https://x.com/Omenfinancial) (@Omenfinancial)</sub>
+- [Ringy](https://x.ai/bot/5xlVPYJU6Nv7TcyfVLKmf) — Makes outbound phone calls for you to businesses in New Zealand and Australia using Ring for Me. <sub>by [Ming](https://x.com/techno246) (@techno246)</sub>
 - [RobIT](https://x.ai/bot/0BbPklegaSLcUqp0CVXda) — Finds what is crashing a Windows PC and cleans leftover antivirus or browser junk. <sub>by [Lipa](https://x.com/CrystalJ613) (@CrystalJ613) · [origin](https://x.com/CrystalJ613/status/2100084745451250009)</sub>
 - [Routebook](https://x.ai/bot/XGri4qPORtUxnDruyF_da) — A travel-agency operations desk: leads, quotes, bookings, guest paperwork. <sub>by [Anan](https://x.com/docjais) (@docjais) · [origin](https://x.com/docjais/status/2105165510447079466)</sub>
 - [SaaSbot](https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM) — A weekday operator that runs GTM, outbound, QA and onboarding. <sub>by [Daniel](https://x.com/danielfoch) · [origin](https://x.com/danielfoch/status/2093697807542526325)</sub>
@@ -242,7 +245,6 @@
 - [Sherpa Bot](https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ) — 14-day thinking partner that filters readiness and helps find a real problem, customer, and next action. <sub>by [Morgan](https://x.com/MorganWKhan) (@Morgan Wyatt Khan) · [origin](https://x.com/MorganWKhan/status/2105256392256893076)</sub>
 - [Shop Compare](https://x.ai/bot/7EGBWWDrvgujhdOLCIrNi) — Comparison shopping research across public listings before you buy. <sub>by Luke</sub>
 - [Shop Processes](https://x.ai/bot/TkoRVSXsTCUnx4427FKnw) — Standing ops desk for a food plant / co-pack / seasoning-blend shop: sales orders through ingredient buys, forecast-driven make/buy, packing checks, and. <sub>by [Vince](https://x.com/VinceWilliams21) (@VinceWilliams21) · [origin](https://x.com/VinceWilliams21/status/2100013315321933905)</sub>
-- [ShopFloor Chief](https://x.ai/bot/cpot_pp7mCHB0BuKVwqq7) — Operator desk for a ShopFloor-style Etsy digital shop: drafts listings, customer replies, and file specs. Seller uploads only — no outreach, no fake. <sub>by [Dex](https://x.com/Dex_01_) (@Dex_01_)</sub>
 - [Shopify Bot](https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE) — Runs a Shopify store day to day via the official plugin: catalog tidying, stock watching, conversion work and customer questions. <sub>by [Nicholas](https://x.com/nick_nehaul) (@nick_nehaul) · [origin](https://x.com/nick_nehaul/status/2108304525866193171)</sub>
 - [Shopify Store Manager](https://x.ai/bot/ugu85YlM4ARybmt6SDJI8) — Watches your Shopify store every day (orders, payments, inventory, storefront, and checkout) and stays quiet when everything's healthy. <sub>by [Jono](https://x.com/ibuildthings) (@ibuildthings)</sub>
 - [Shopify Store Operator](https://x.ai/bot/_sYZ-UZztgPsmOp4L7Nqr) — Watches your Shopify store with daily low-stock alerts, weekly slow movers, and a Monday sales recap. <sub>by [Jabes](https://x.com/turbomilker)</sub>
@@ -275,6 +277,7 @@
 - [Tiffany](https://x.ai/bot/VS2G5p1b_nQixeiYcdwFs) — Chief of staff for a local marketing agency. Runs specialists across clients, drafts-then-approves public work, and ships GBP, social, SEO blogs, and. <sub>by [Tripper](https://x.com/TripperWood) (@TripperWood)</sub>
 - [Tracking Tuna Officer](https://x.ai/bot/xy9stZRQESHWGilhQl9Nf) — Keeps an eye on your Shopify store's shipped orders. Every week it checks each package's tracking, records it in a spreadsheet. <sub>by [Fish](https://x.com/FishxCD) (@FishxCD)</sub>
 - [Travel Bot](https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd) — Pitches travel brands for lodging-for-content deals and plans follow-up Reels for creators. <sub>by [Lovable](https://x.com/_lovablecurves) · aka *Travel Influencer Outreach* · [origin](https://x.com/_lovablecurves/status/2101139367091736589)</sub>
+- [UK Spam Call Eraser](https://x.ai/bot/9puPR_lskbfu1RTohZ3al) — Cuts spam, sales and scam calls and texts to a UK phone number. <sub>by [Benjamin](https://x.com/AKAMoneyX) (@AKAMoneyX)</sub>
 - [Validator Pilot](https://x.ai/bot/Sk7NG2L340MAottFXFRaE) — A paid 30-day Stability Validator pilot: use-case and seat intake, plus the use-license DRAFT for human review. <sub>by Sean</sub>
 - [Venduto](https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp) — Runs European secondhand listings from first enquiry to an agreed sale, with your supervision. <sub>by [Tommaso](https://x.com/SuperTost100) (@SuperTost100) · [origin](https://x.com/SuperTost100/status/2100149576388743291)</sub>
 - [Vern](https://x.ai/bot/rDEpX2aSCERCaVJACxNz7) — A personal relationship CRM that keeps a private contact book and reminds you when a friend's birthday or follow-up is due, without burning weekly usage. <sub>by [Austin](https://x.com/ahoop) (@Austin H) · [origin](https://x.com/ahoop/status/2103809460972200282)</sub>
@@ -290,6 +293,7 @@
 - [Zephyr](https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU) — Front desk for OneStepGPS fleets that answers lookups and makes app changes only after you confirm each one. <sub>by [Zachary](https://x.com/ZachFergus) · [origin](https://x.com/ZachFergus/status/2107254444702433752)</sub>
 - [Zoho Small Business Operator](https://x.ai/bot/jvdlRiNID5653J-EMH1q3) — Run your Zoho business without living in 12 tabs. Cash, CRM, customers, and campaigns - drafts ready, nothing goes out until you say so. <sub>by Ev</sub>
 - [フォーム優先アウトバウンド](https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC) — Form-first B2B outreach for Japan: prep daily, send only on your GO. <sub>by [直人](https://x.com/isle_claude) (@isle_claude) · [origin](https://x.com/isle_claude/status/2103699353751969828)</sub>
+- [ポイ活・セール番人](https://x.ai/bot/EL7FBbcMa3gIcXvSxozqv) — Watches items you want on Amazon, Rakuten and Yahoo! against a target price including points, and alerts you only on drops or big sales. Never buys. <sub>[origin](https://x.com/sidejob_AJ/status/2111273412912132301)</sub>
 - [🎯 Sales Call Prep Desk ✦ CLOSE-READY](https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL) — Cited account brief, discovery questions, objections and a next-step ask. <sub>by [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [origin](https://x.com/Cypher0x9/status/2105188299182866623)</sub>
 - [💬 Support Reply Desk ✦ CALM-REPLY](https://x.ai/bot/8g9eQsRNCFNxhZBuKTbY-) — Turns a ticket and policy into an empathetic on-policy reply and internal note. <sub>by [Cypher](https://x.com/Cypher0x9) (@Cypher0x9) · [origin](https://x.com/Cypher0x9/status/2105189988979896469)</sub>
 
